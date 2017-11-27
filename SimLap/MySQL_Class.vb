@@ -1,6 +1,6 @@
 ﻿Imports MySql.Data
 Imports MySql.Data.MySqlClient
-Public Class MySQL_Conn_Class
+Public Class MySQL_Class
     Dim dbCon As MySqlConnection
 
     Public Sub ManageConnection(ByVal CloseConnection As Boolean)

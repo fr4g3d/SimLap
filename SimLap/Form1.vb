@@ -1,4 +1,6 @@
 ﻿Imports System.ComponentModel
+Imports MySql.Data.MySqlClient
+
 Public Class frmMain
     Dim File = Application.StartupPath + "\Setting.ini"
     Dim Section As String = "Settings", HostName As String = "HostName", PortNum As String = "Port", DBName As String = "DBName", UDBName As String = "UDBName", UPassDB As String = "UPassDB"
@@ -12,8 +14,7 @@ Public Class frmMain
         Call closeMySQL()
     End Sub
     Private Sub cbBidang_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbBidang.SelectedIndexChanged
-        Dim sqlString As String = "Select urpeda FROM simadmin_simlap"
-
+        Call connMySQL(“SERVER = " + getHostName + "; PORT = " + getPortNum + "; USERID = " + getUDBName + "; PASSWORD = " + getUPassDB + "; DATABASE = " + getDBName + "; Convert Zero Datetime=True; Allow Zero Datetime=True;”)
     End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
@@ -24,5 +25,12 @@ Public Class frmMain
         frmSetting.MdiParent = Me
         frmSetting.TopMost = True
         frmSetting.Show()
+    End Sub
+
+    Private Sub cbBidang_GotFocus(sender As Object, e As EventArgs) Handles cbBidang.GotFocus
+        Dim conn As New MySqlConnection(“SERVER = " + getHostName + "; PORT = " + getPortNum + "; USERID = " + getUDBName + "; PASSWORD = " + getUPassDB + "; DATABASE = " + getDBName + "; Convert Zero Datetime=True; Allow Zero Datetime=True;”)
+        Dim strSQL As String = "SELECT distinc urusan_id, urpeda FROM dftr_urusan"
+        Dim da As MySqlDataAdapter(strSQL,conn)
+
     End Sub
 End Class
