@@ -13,7 +13,6 @@ Public Class frmMain
     End Sub
     Private Sub cbBidang_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbBidang.SelectedIndexChanged
         Dim sqlString As String = "Select urpeda FROM simadmin_simlap"
-        'Dim sqlCommand As New MySqlCommand
 
     End Sub
 
