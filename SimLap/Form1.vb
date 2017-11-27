@@ -7,12 +7,17 @@ Public Class frmMain
     Dim getDBName = ReadIni(File, Section, DBName, "")
     Dim getUDBName = ReadIni(File, Section, UDBName, "")
     Dim getUPassDB = ReadIni(File, Section, UPassDB, "")
+
     Private Sub Form1_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
         Call closeMySQL()
     End Sub
+    Private Sub cbBidang_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cbBidang.SelectedIndexChanged
+        Dim sqlString As String = "Select urpeda FROM simadmin_simlap"
+        'Dim sqlCommand As New MySqlCommand
+
+    End Sub
 
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
-
         Call connMySQL(“SERVER = " + getHostName + "; PORT = " + getPortNum + "; USERID = " + getUDBName + "; PASSWORD = " + getUPassDB + "; DATABASE = " + getDBName + "; Convert Zero Datetime=True; Allow Zero Datetime=True;”)
     End Sub
 

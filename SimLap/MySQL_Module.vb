@@ -7,7 +7,7 @@ Module MySQL_Module
     Public sqlAdapter As New MySqlDataAdapter
     Public confirmMsgMySQL As MsgBoxResult
     Public DR As MySqlDataReader
-    Public cur As New Form
+    Public DT As New DataTable
     Public Sub connMySQL(svr As String)
         If sConnection.State = ConnectionState.Closed Then
             sConnection.ConnectionString = svr
