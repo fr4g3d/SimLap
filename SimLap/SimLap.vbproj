@@ -111,8 +111,6 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
-    <Compile Include="MySqlConnection_Mod.vb" />
-    <Compile Include="MySQL_Class.vb" />
     <Compile Include="MySQL_Module.vb" />
   </ItemGroup>
   <ItemGroup>

@@ -38,15 +38,12 @@ Public Class frmSetting
         writeIni(File, Section, UDBName, tbUDBName.Text)
         writeIni(File, Section, UPassDB, tbUPassDB.Text)
         MsgBox("Data Setting is Saved..!")
-        Dim getHostName = ReadIni(File, Section, HostName, "")
-        Dim getPortNum = ReadIni(File, Section, PortNum, "")
-        Dim getDBName = ReadIni(File, Section, DBName, "")
-        Dim getUDBName = ReadIni(File, Section, UDBName, "")
-        Dim getUPassDB = ReadIni(File, Section, UPassDB, "")
-        Call connMySQL(“SERVER = " + getHostName + "; PORT = " + getPortNum + "; USERID = " + getUDBName + "; PASSWORD = " + getUPassDB + "; DATABASE = " + getDBName + "; Convert Zero Datetime=True; Allow Zero Datetime=True;”)
+        Call closeDB()
+        Call conectDB()
+        Call closeDB()
     End Sub
 
     Private Sub frmSetting_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
-        Call closeMySQL()
+        Call closeDB()
     End Sub
 End Class
