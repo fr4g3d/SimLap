@@ -76,7 +76,7 @@ Public Class frmMain
     End Sub
 
     Private Sub cmbSKPD_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbSKPD.SelectedIndexChanged
-        '
+        ''
     End Sub
 
     Private Sub cmbSKPD_GotFocus(sender As Object, e As EventArgs) Handles cmbSKPD.GotFocus
@@ -84,7 +84,7 @@ Public Class frmMain
     End Sub
 
     Private Sub cmbUnit_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbUnit.SelectedIndexChanged
-        '
+        ''
     End Sub
 
     Private Sub cmbUnit_GotFocus(sender As Object, e As EventArgs) Handles cmbUnit.GotFocus
