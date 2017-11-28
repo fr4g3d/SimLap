@@ -1,0 +1,2480 @@
+01.001.	01	001	Penyediaan Jasa Surat Menyurat
+01.002.	01	002	Penyediaan Jasa Komunikasi, Sumber Daya Air dan Listrik
+01.003.	01	003	Penyediaan Jasa Peralatan dan Perlengkapan Kantor
+01.004.	01	004	Penyediaan Jasa Jaminan Pemeliharaan Kesehatan PNS
+01.005.	01	005	Penyediaan Jasa Jaminan Barang Milik Daerah
+01.006.	01	006	Penyediaan Jasa Pemeliharaan dan Perizinan Kendaraan Dinas/Operasional
+01.007.	01	007	Penyediaan Jasa Administrasi Keuangan
+01.008.	01	008	Penyediaan Jasa Kebersihan Kantor
+01.009.	01	009	Penyediaan Jasa Perbaikan Peralatan Kerja
+01.010.	01	010	Penyediaan Alat Tulis Kantor
+01.011.	01	011	Penyediaan Barang Cetakan dan Penggandaan
+01.012.	01	012	Penyediaan Komponen Instalasi Listrik/Penerangan Bangunan Kantor
+01.013.	01	013	Penyediaan Peralatan dan Perlengkapan Kantor
+01.014.	01	014	Penyediaan Peralatan Rumah Tangga
+01.015.	01	015	Penyediaan Bahan Bacaan dan Peraturan Perundang-Undangan
+01.016.	01	016	Penyediaan Bahan Logistik Kantor
+01.017.	01	017	Penyediaan Makanan dan Minuman
+01.018.	01	018	Rapat-Rapat Kordinasi dan Konsultasi ke Luar Daerah
+01.019.	01	019	Rapat-rapat koordinasi dan konsultasi dalam daerah
+01.020.	01	020	Penyediaan Jasa Pengamanan Lingkungan Kantor
+01.021.	01	021	Penyediaan Operasional UPT PBB P2 Kec. Cipocok Jaya
+01.022.	01	022	Penyediaan Operasional UPT PBB P2 Kec. Serang
+02.	02		Program Peningkatan Sarana dan Prasarana Aparatur
+02.001.	02	001	Pembangunan Rumah Jabatan
+02.002.	02	002	Pembangunan Rumah Dinas
+02.003.	02	003	Pembangunan Gedung Kantor
+02.004.	02	004	Pengadaan Mobil Jabatan
+02.005.	02	005	Pengadaan Kendaraan Dinas/Operasional
+02.006.	02	006	Pengadaan Perlengkapan Rumah Jabatan/Dinas
+02.007.	02	007	Pengadaan Perlengkapan Gedung/Kantor
+02.008.	02	008	Pengadaan Peralatan Rumah Jabatan/Dinas
+02.009.	02	009	Pengadaan Peralatan Gedung Kantor
+02.010.	02	010	Pengadaan Meubeulair
+02.011.	02	011	Pengadaan Rumah Dinas/Gedung Kantor
+02.012.	02	012	Pengadaan Tanah
+02.013.	02	013	Pengadaan Peralatatan Marching Band
+02.014.	02	014	Pengadaan Alat-alat Keamanan
+02.019.	02	019	Pemeliharaan Rutin/Berkala Alat-alat Bengkel/Alat-alat Berat
+02.020.	02	020	Pemeliharaan Rutin/Berkala Rumah Jabatan
+02.021.	02	021	Pemeliharaan Rutin/Berkala Rumah Dinas
+02.022.	02	022	Pemeliharaan Rutin/Berkala Gedung Kantor
+02.023.	02	023	Pemeliharaan Rutin/Berkala Mobil Jabatan
+02.024.	02	024	Pemeliharaan Rutin/Berkala Kendaraan Dinas/Operasional
+02.025.	02	025	Pemeliharaan Rutin/Berkala Perlengkapan Rumah Jabatan/Dinas
+02.026.	02	026	Pemeliharaan Rutin/Berkala Perlengkapan Gedung Kantor
+02.027.	02	027	Pemeliharaan Rutin/Berkala Peralatan Rumah Jabatan/Dinas
+02.028.	02	028	Pemeliharaan Rutin/Berkala Peralatan Gedung Kantor
+02.029.	02	029	Pemeliharaan Rutin/Berkala Mebeleur
+02.030.	02	030	Pemeliharaan Rutin/Berkala Peralatan Kerja Kantor
+02.040.	02	040	Rehabilitasi sedang/berat rumah jabatan
+02.041.	02	041	Rehabilitasi sedang/berat rumah dinas
+02.042.	02	042	Rehabilitasi sedang/berat gedung kantor
+02.043.	02	043	Rehabilitasi sedang/berat mobil jabatan
+02.044.	02	044	Rehabilitasi sedang/berat kendaraan dinas/operasional
+02.045.	02	045	Perencanaan Pengadaan Tanah
+02.046.	02	046	Persiapan Pengadaan Tanah
+02.047.	02	047	Pelaksanaan Pengadaan Tanah
+02.048.	02	048	Penyerahan Hasil Pengadaan Tanah
+02.049.	02	049	Perencanaan Pembangunan Gedung Prasarana Pemerintah
+03.	03		Program Peningkatan Disiplin Aparatur
+03.001.	03	001	Pengadaan Mesin/Kartu Absensi
+03.002.	03	002	Pengadaan Pakaian Dinas Beserta Perlengkapannya
+03.003.	03	003	Pengadaan Pakaian Kerja Lapangan
+03.004.	03	004	Pengadaan Pakaian KORPRI
+03.005.	03	005	Pengadaan Pakaian Khusus Hari-Hari Tertentu
+04.	04		Program Fasilitas Pindah/Purna Tugas PNS
+04.001.	04	001	Pemulangan Pegawai yang Pensiun
+04.002.	04	002	Pemulangan Pegawai yang Tewas dalam Melaksanakan Tugas
+04.003.	04	003	Pemindahan Tugas PNS
+04.004.	04	004	dst………….
+05.	05		Program Peningkatan Kapasitas Sumber Daya Aparatur
+05.001.	05	001	Pendidikan dan Pelatihan Formal
+05.002.	05	002	Sosialisasi  Peraturan Perundang-undangan
+05.003.	05	003	Bimbingan Teknis Implementasi Peraturan Perundang-Undangan
+05.004.	05	004	Peningkatan Kemampuan Teknis Aparatur
+05.007.	05	007	Peningkatan Kapasitas Kelembagaan Pelayanan Perizinan dan Penanaman Modal
+05.008.	05	008	Peningkatan Kemampuan Teknis Aparat Pelayanan Perijinan
+05.009.	05	009	Sosialisasi Kebijakan Penanaman Modal
+06.	06		Program Peningkatan Pengembangan Sistem Pelaporan Capaian Kinerja dan Keuangan
+06.001.	06	001	Penyusunan Laporan Capaian Kinerja dan Ikhtisar Realisasi Kinerja SKPD
+06.002.	06	002	Penyusunan Laporan Keuangan Semesteran
+06.003.	06	003	Penyusunan Pelaporan Prognosis Realisasi Anggaran
+06.004.	06	004	Penyusunan Pelaporan Keuangan Akhir Tahun
+06.005.	06	005	Monitoring, evaluasi dan pelaporan
+06.006.	06	006	Pelaporan Dana Alokasi Khusus dan Dana Penyesuaian
+06.007.	06	007	Penyusunan Rencana Kerja dan Anggaran SKPD
+06.008.	06	008	Penyediaan Data, Dokumentasi, Informatika dan Komunikasi SKPD
+06.009.	06	009	Penyusunan Rencana Strategis SKPD
+06.010.	06	010	Penyusunan Rencana Kerja SKPD
+06.011.	06	011	Penyusunan Rencana Kerja dan Anggaran SKPD
+06.012.	06	012	Pengelolaan Barang Milik Daerah
+15.	15		Program Pendidikan Anak Usia Dini
+15.001.	15	001	Pembangunan gedung sekolah
+15.002.	15	002	Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+15.003.	15	003	Penambahan Ruang Kelas Sekolah
+15.004.	15	004	Penambahan Ruang Guru Sekolah
+15.005.	15	005	Pembangunan ruang locker siswa
+15.006.	15	006	Pembangunan sarana dan prasarana olahraga
+15.007.	15	007	Pembangunan sarana dan prasarana bermain
+15.008.	15	008	Pembangunan ruang serba guna/aula
+15.009.	15	009	Pembangunan taman, lapangan upacara dan fasilitas parkir
+15.010.	15	010	Pembangunan ruang unit kesehatan sekolah
+15.011.	15	011	Pembangunan ruang ibadah
+15.012.	15	012	Pembangunan perpusatakaan sekolah
+15.013.	15	013	Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+15.014.	15	014	Pembangunan sarana air bersih dan sanitary
+15.015.	15	015	Pengadan buku-buku dan alat tulis siswa
+15.016.	15	016	Pengadaan pakaian seragam sekolah
+15.017.	15	017	Pengadaan pakaian olahraga
+15.018.	15	018	Pengadaan alat praktik dan peraga siswa
+15.019.	15	019	Pengadaan mebeluer sekolah
+15.020.	15	020	Pengadaan Perlengkapan Sekolah
+15.021.	15	021	Pengadaaan alat rumah tangga sekolah
+15.022.	15	022	Pengadaaan sarana mobilitas sekolah
+15.023.	15	023	Pemeliharaan rutin/berkala bangunan sekolah
+15.024.	15	024	Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+15.025.	15	025	Pemeliharaan rutin/berkala ruang kelas sekolah
+15.026.	15	026	Pemeliharaan rutin/berkala ruang guru sekolah
+15.027.	15	027	Pemeliharaan rutin/berkala ruang locker siswa
+15.028.	15	028	Pemeliharaan rutin/berkala sarana dan prasarana olahraga
+15.029.	15	029	Pemeliharaan rutin/berkala sarana dan prasarana bermain
+15.030.	15	030	Pemeliharaan rutin/berkala ruang serba guna/aula
+15.031.	15	031	Pemeliharaan Rutin/Berkala Taman, Lapangan Upacara, dan Fasilitasi Parkir
+15.032.	15	032	Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+15.033.	15	033	Pemeliharaan rutin/berkala ruang ibadah
+15.034.	15	034	Pemeliharaan Rutin/Berkala Perpustakaan Sekolah
+15.035.	15	035	Pemeliharaan rutin/berkala jaringan Instalasi listrik sekolah dan perlengkapannya
+15.036.	15	036	Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+15.037.	15	037	Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+15.038.	15	038	Pemeliharaan rutin/berkala mebeleur sekolah
+15.039.	15	039	Pemeliharaan rutin/berkala perlengkapan sekolah
+15.040.	15	040	Pemeliharaan rutin/berkala alat rumah tangga sekolah
+15.041.	15	041	Pemeliharaan rutin/berkala sarana mobilitas sekolah
+15.042.	15	042	Rehabilitasi sedang/berat bangunan sekolah
+15.043.	15	043	Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+15.044.	15	044	Rehabilitasi sedang/berat asrama siswa
+15.045.	15	045	Rehabilitasi sedang/berat ruang kelas sekolah
+15.046.	15	046	Rehabilitasi sedang/berat ruang guru sekolah
+15.047.	15	047	Rehabilitasi sedang/berat ruang locker siswa
+15.048.	15	048	Rehabilitasi sedang/berat sarana olahraga
+15.049.	15	049	Rehabilitasi sedang/berat sarana bermain
+15.050.	15	050	Rehabilitasi sedang/berat ruang serba guna/aula
+15.051.	15	051	Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+15.052.	15	052	Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+15.053.	15	053	Rehabilitasi sedang/berat ruang ibadah
+15.054.	15	054	Rehabilitasi sedang/berat perpustakaan sekolah
+15.055.	15	055	Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+15.056.	15	056	Rehabilitasi sedang/berat sarana air bersih dan sanitary
+15.057.	15	057	Pelatihan kompetensi tenaga pendidik
+15.058.	15	058	Pengembangan pendidikan anak usia dini
+15.059.	15	059	Penyelenggaraan pendidikan anak usia dini
+15.060.	15	060	Pengembangan data dan informasi pendidikan anak usia dini
+15.061.	15	061	Penyusunan kebijakan pendidikan anak usia dini
+15.062.	15	062	Pengembangan kurikulum, bahan ajar dan model pembelajaran pendidikan ank usia dini
+15.063.	15	063	Penyelenggaraan koordinasi dan kerjasama pendidikan anak usia dini
+15.064.	15	064	Perencanaan dan penyusunan program anak usia dini
+15.065.	15	065	Publikasi dan sosialisasi pendidikan anak usia dini
+15.066.	15	066	Monitoring, evaluasi dan pelaporan Pendidikan Anak Usia Dini
+16.	16		Program Wajib Belajar Pendidikan Dasar Sembilan Tahun
+16.001.	16	001	Pembangunan gedung sekolah
+16.002.	16	002	Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+16.003.	16	003	Penambahan ruang kelas sekolah
+16.004.	16	004	Penambahan ruang guru sekolah
+16.005.	16	005	Pembangunan ruang locker siswa
+16.006.	16	006	Pembangunan sarana dan prasarana olahraga
+16.007.	16	007	Pembangunan sarana dan prasarana bermain
+16.008.	16	008	Pembangunan ruang serba guna/aula
+16.009.	16	009	Pembangunan taman, lapangan upacara dan fasilitas parkir
+16.010.	16	010	Pembangunan ruang unit kesehatan sekolah
+16.011.	16	011	Pembangunan Ruang Ibadah
+16.012.	16	012	Pembangunan Perpustakaan Sekolah
+16.013.	16	013	Pembangunan Jaringan Instalasi Listrik Sekolah dan Perlengkapannya
+16.014.	16	014	Pembangunan sarana air bersih dan sanitary
+16.015.	16	015	Pengadaan buku-buku dan alat tulis siswa
+16.016.	16	016	Pengadaan pakaian seragam sekolah
+16.017.	16	017	Pengadaan pakaian olahraga
+16.018.	16	018	Pengadaaan alat praktik dan peraga siswa
+16.019.	16	019	Pengadaan mebeluer sekolah
+16.020.	16	020	Pengadaan perlengkapan sekolah
+16.021.	16	021	Pengadaan alat rumah tangga sekolah
+16.022.	16	022	Pemeliharaan rutin / berkala bangunan sekolah (SD / MI)
+16.023.	16	023	Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+16.024.	16	024	Pemeliharaan rutin/berkala ruang kelas sekolah
+16.025.	16	025	Pemeliharaan rutin/berkala ruang guru sekolah
+16.026.	16	026	Pemeliharaan rutin/berkala ruang locker siswa
+16.027.	16	027	Pemeliharaan rutin/berkala sarana dan prasarana olahraga
+16.028.	16	028	Pemeliharaan rutin/berkala ruang serba guna/aula
+16.029.	16	029	Pemeliharaan rutin/berkala taman, lapangan upacara dan fasilitas parkir
+16.030.	16	030	Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+16.031.	16	031	Pemeliharaan rutin/berkala ruang ibadah
+16.032.	16	032	Pemeliharaan rutin/berkala perpustakaan sekolah
+16.033.	16	033	Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+16.034.	16	034	Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+16.035.	16	035	Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+16.036.	16	036	Pemeliharaan rutin/berkala mebeluer sekolah
+16.037.	16	037	Pemberian Beasiswa Berprestasi dari Keluarga Miskin
+16.038.	16	038	Pemeliharaan rutin/berkala perlengkapan sekolah
+16.039.	16	039	Pemeliharaan rutin/berkala alat rumah tangga sekolah
+16.040.	16	040	Pemeliharaan rutin/berkala sarana mobilitas sekolah
+16.041.	16	041	Pemeliharaan sedang/berat bangunan sekolah SMP
+16.042.	16	042	Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+16.043.	16	043	Rehabilitasi sedang/berat asrama siswa
+16.044.	16	044	Rehabilitasi sedang/berat ruang kelas sekolah
+16.045.	16	045	Rehabilitasi sedang/berat ruang guru sekolah
+16.046.	16	046	Rehabilitasi sedang/berat laboratorium dan praktikum sekolah
+16.047.	16	047	Rehabilitasi sedang/berat sarana mobilitas sekolah
+16.048.	16	048	Rehabilitasi sedang/berat ruang locker siswa
+16.049.	16	049	Rehabilitasi sedang/berat sarana olahraga
+16.050.	16	050	Rehabilitasi sedang/berat ruang serba guna/aula
+16.051.	16	051	Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+16.052.	16	052	Rehabilitasi sedang/berat ruang unit kesehatan sekolah
+16.053.	16	053	Rehabilitasi sedang/berat ruang ibadah
+16.054.	16	054	Rehabilitasi sedang/berat perpustakaan sekolah
+16.055.	16	055	Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+16.056.	16	056	Rehabilitasi sedang/berat sarana air bersih dan sanitary
+16.057.	16	057	Pelatihan kompetensi tenaga pendidik
+16.058.	16	058	Pelatihan kompetensi siswa berprestasi
+16.059.	16	059	Pelatihan penyusunan kurikulum
+16.060.	16	060	Pembinaan forum masyarakat peduli pendidikan
+16.061.	16	061	Pembinaan SMP terbuka
+16.062.	16	062	Penambahan ruang kelas baru SMP/MTS/SMPLB
+16.063.	16	063	Penyediaan Bantuan Operasional Sekolah (BOS) jenjang SD/MI/SDLB dan SMP/MTS serta pesantren Salafiyah dan Satuan Pendidikan Non-Islam Setara SD dan SMP
+16.064.	16	064	Penyediaan Biaya operasional madrasah
+16.065.	16	065	Penyediaan buku pelajaran untuk SD/MI/SDLB dan SMP/MTS
+16.066.	16	066	Penyediaan dana pengembangan sekolah Untuk SD/MI/SDLB dan SMP/MTS
+16.067.	16	067	Penyelenggaraan paket A setara SD
+16.068.	16	068	Penyelenggaraan paket B setara SMP
+16.069.	16	069	Pembinaan Kelembagaan Sekolah dan Manajemen Sekolah dengan Penerapan Manajemen Berbasis Sekolah (MBS) di satuan pendidikan dasar (SD)
+16.070.	16	070	Pembinaan Minat, Bakat dan Kreativitas siswa
+16.071.	16	071	Pengembangan comprehensive teaching and learning (CTL)
+16.072.	16	072	Pengembangan materi belajar mengajar dan metode pembelajaran dengan menggunakan teknologi informasi dan komunikasi
+16.073.	16	073	Penyebarluasan dan sosialisasi berbagai informasi pendidikan dasar
+16.074.	16	074	Penyediaan beasiswa retrieval untuk anak putus sekolah
+16.075.	16	075	Penyediaan beasiswa transisi
+16.076.	16	076	Penyelenggaraan akreditasi sekolah dasar
+16.077.	16	077	Penyelenggaraan Multi-Grade Teaching di daerah terpencil
+16.078.	16	078	Monitoring, evaluasi dan pelaporan
+16.079.	16	079	Peningkatan Penyelenggaraan Kegiatan Belajar Mengajar (KBM) SD
+16.080.	16	080	Pelaksanaan Ujian Nasional dan PSB SMP
+16.081.	16	081	Pelaksanaan Ujian Nasional SD / Ujian Sekolah SD
+16.082.	16	082	Pembangunan Gedung Sekolah (SMP)
+16.083.	16	083	Penambahan Ruang Kelas Sekolah (SMP)
+16.084.	16	084	Penambahan Ruang Guru Sekolah (SMP)
+16.085.	16	085	Pembangunan Laboratorium dan Ruang Praktikum Sekolah (SMP)
+16.086.	16	086	Pembangunan Ruang Serba Guna/Aula (SMP)
+16.087.	16	087	Pembangunan Taman, Lapangan Upacara dan Fasilitas Parkir (SMP)
+16.088.	16	088	Pembangunan Perpustakaan Sekolah (SMP)
+16.089.	16	089	Pembangunan Jaringan Instalasi Listrik Sekolah dan Perlengkapannya (SMP)
+16.090.	16	090	Pembangunan Sarana Air Bersih dan Sanitary (SMP)
+16.091.	16	091	Pengadaan Alat Praktik dan Peraga Siswa (SMP)
+16.092.	16	092	Pengadaan Mebeuler Sekolah (SMP)
+16.093.	16	093	Pengadaan Perlengkapan Sekolah (SMP)
+16.094.	16	094	Pengadaan Alat Rumah Tangga Sekolah (SMP)
+16.095.	16	095	Rehabilitasi Sedang/Berat Ruang Kelas Sekolah (SMP)
+16.096.	16	096	Rehabilitasi Sedang/Berat Taman, Lapangan Upacara dan Fasilitas Parkir (SMP)
+16.097.	16	097	Rehabilitasi Sedang/Berat Perpustakaan Sekolah (SMP)
+16.098.	16	098	Pelatihan Kompetensi Tenaga Pendidik (SMP)
+16.099.	16	099	Pelatihan Penyusunan Kurikulum (SMP)
+16.100.	16	100	Penyediaan Bantuan Operasional (BOS) Jenjang SD/MI/SDLB serta Pesantren Salafiyah dan Satuan Pendidikan Non-Islam Setara SD
+16.101.	16	101	Penyediaan Bantuan Operasional (BOS) Jenjang SMP/MTS serta Pesantren Salafiyah dan Satuan Pendidikan Non-Islam Setara SMP
+16.102.	16	102	Penyediaan Buku Pelajaran untuk SD/MI/SDLB
+16.103.	16	103	Penyediaan Buku Pelajaran untuk SMP/MTS
+16.104.	16	104	Pembinaan Kelembagaan dan Manajemen Sekolah dengan Penerapan Manajemen Berbasis Sekolah (MBS) di Satuan Pendidikan Dasar (SMP)
+16.105.	16	105	Pengembangan Minat, Bakat dan Kreativitas Siswa (SMP)
+16.106.	16	106	Pengembangan Comprehensive Teaching and Learning (CTL) (SMP)
+16.107.	16	107	Pengembangan Materi Belajar Mengajar dan Metode Pembelajaran dengan Menggunakan Teknologi Informasi dan Komunikasi (SMP)
+16.108.	16	108	Penyebarluasan dan Sosialisasi Berbagai Informasi Pendidikan Dasar (SMP)
+16.109.	16	109	Penyelenggaraan Akreditasi Sekolah Dasar (SMP)
+16.110.	16	110	Monitoring, Evaluasi dan Pelaporan (SMP)
+16.111.	16	111	Peningkatan Penyelenggaraan Kegiatan Belajar Mengajar (KBM) (SMP)
+17.	17		Program Pendidikan Menengah
+17.001.	17	001	Pembangunan Gedung Sekolah
+17.002.	17	002	Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+17.003.	17	003	Penambahan ruang kelas sekolah
+17.004.	17	004	Penambahan ruang guru sekolah
+17.005.	17	005	Pembangunan laboratorium dan ruang praktikum sekolah (laboratorium bahasa, komputer, IPA, IPS dan lain-lain)
+17.006.	17	006	Pembangunan ruang locker siswa
+17.007.	17	007	Pembangunan sarana dan prasarana olahraga
+17.008.	17	008	Pembangunan ruang serba guna/aula
+17.009.	17	009	Pembangunan taman, lapangan upacara dan fasilitas parkir
+17.010.	17	010	Pembangunan ruang unit kesehatan sekolah
+17.011.	17	011	Pembangunan ruang ibadah
+17.012.	17	012	Pembangunan perpusatakaan sekolah
+17.013.	17	013	Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+17.014.	17	014	Pembangunan sarana air bersih dan sanitary
+17.015.	17	015	Pengadan buku-buku dan alat tulis siwa
+17.016.	17	016	Pengadaan pakaian seragam sekolah
+17.017.	17	017	Pengadaan pakaian olahraga
+17.018.	17	018	Pengadaaan alat praktik dan peraga siswa
+17.019.	17	019	Pengadaan mebeluer sekolah
+17.020.	17	020	Pengadaan perlengkapan sekolah
+17.021.	17	021	Pengadaaan alat rumah tangga sekolah
+17.022.	17	022	Pengadaaan sarana mobilitas sekolah
+17.023.	17	023	Pemeliharaan rutin/berkala bangunan sekolah
+17.024.	17	024	Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+17.025.	17	025	Pemeliharaan rutin/berkala ruang kelas sekolah
+17.026.	17	026	Pemeliharaan rutin/berkala ruang guru sekolah
+17.027.	17	027	Pemeliharaan rutin/berkala ruang locker siswa
+17.028.	17	028	Pemeliharaan rutin/berkala sarana dan prasarana olahraga
+17.029.	17	029	Pemeliharaan rutin/berkala ruang serba guna/aula
+17.030.	17	030	Pemeliharaan rutin/berkala taman, lapangan uapacara dan fasilitas parkir
+17.031.	17	031	Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+17.032.	17	032	Pemeliharaan rutin/berkala ruang ibadah
+17.033.	17	033	Pemeliharaan rutin/berkala perpustakaan sekolah
+17.034.	17	034	Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+17.035.	17	035	Pemeliharaan rutin/berkala sarana air bersih dan sanitary
+17.036.	17	036	Pemeliharaan rutin/berkala alat peraktik dan peraga siswa
+17.037.	17	037	Pemeliharaan rutin/berkala mebeluer sekolah
+17.038.	17	038	Pemeliharaan rutin/berkala perlengkapan sekolah
+17.039.	17	039	Pemeliharaan rutin/berkala alat rumah tangga sekolah
+17.040.	17	040	Pemeliharaan rutin/berkala sarana mobilitas sekolah
+17.041.	17	041	Rehabilitasi sedang/berat bangunan sekolah
+17.042.	17	042	Rehabilitasi sedang/berat rumah dinas kepala sekolah, guru, penjaga sekolah
+17.043.	17	043	Rehabilitasi sedang/berat asrama siswa
+17.044.	17	044	Rehabilitasi sedang/berat ruang kelas sekolah
+17.045.	17	045	Rehabilitasi sedang/berat ruang guru sekolah
+17.046.	17	046	Rehabilitasi sedang/berat laboratorium dan praktikum sekolah
+17.047.	17	047	Rehabilitasi sedang/berat ruang locker siswa
+17.048.	17	048	Rehabilitasi sedang/berat sarana olahraga
+17.049.	17	049	Rehabilitasi sedang/berat ruang serba guna/aula
+17.050.	17	050	Rehabilitasi sedang/berat taman, lapangan upacara dan fasilitas parkir
+17.051.	17	051	Rehabilitasi sedang/berat ruang tata usaha sekolah
+17.052.	17	052	Rehabilitasi sedang/berat ruang ibadah
+17.053.	17	053	Rehabilitasi sedang/berat perpustakaan sekolah
+17.054.	17	054	Rehabilitasi sedang/berat jaringan instalasi listrik dan perlengkapannya
+17.055.	17	055	Rehabilitasi sedang/berat sarana air bersih dan sanitary
+17.056.	17	056	Rehabilitasi sedang/berat sarana mobilitas sekolah
+17.057.	17	057	Pelatihan kompetensi tenaga pendidik
+17.058.	17	058	Pelatihan penyusunan kurikulum
+17.059.	17	059	Pembinaan forum masyarakat peduli pendidikan
+17.060.	17	060	Pengembangan alternatif layanan pendidikan menengah untuk daerah-daerah pedesaaan, terpencil dan kepulauan
+17.061.	17	061	Penyediaan Bantuan Operasional Manajemen Mutu (BOMM)
+17.062.	17	062	Penyediaan beasiswa bagi keluarga tidak mampu
+17.063.	17	063	Penyelenggraan paket C setara SMU
+17.064.	17	064	Pembinaan kelembagaan sekolah dan manajem n sekolah dengan penerapan manajemen berbasis sekolah (MBS)
+17.065.	17	065	Pengembangan materi belajar mengajar dengan menggunakan teknologi informasi dan komunikasi
+17.066.	17	066	Peningkatan kerjasama dengan dunia usaha dan industri
+17.067.	17	067	Penyebarluasan dan sosialisasi berbagai informasi pendidikan menengah
+17.068.	17	068	Penyelenggaraan akreditasi sekolah menengah
+17.069.	17	069	Monitoring, evaluasi dan pelaporan
+17.070.	17	070	Penyelenggaraan pembelajaran kurikuler dan ekstra kurikuler
+17.071.	17	071	Penyelenggaraan praktek siswa di lapangan , bengkel latih, laboratorium dan pasca panen
+17.072.	17	072	Penyelenggaraan praktek kerja usaha
+17.073.	17	073	Penyelenggaraan pelayanan perpustakaan
+17.074.	17	074	Pemeliharaan kebun praktek
+17.075.	17	075	Pelaksanaan Ujian Nasional dan PPDB SMA/SMK
+17.076.	17	076	Pembinaan Minat, Bakat dan Kreativitas Siswa SMA/SMK
+18.	18		Program Pendidikan Non Formal
+18.001.	18	001	Pemberdayaan Tenaga Pendidik Non Formal
+18.002.	18	002	Pemberian bantuan operasional pendidikan non formal
+18.003.	18	003	Pembinaan pendidikan kursus dan kelembagaan
+18.004.	18	004	Pengembangan pendidikan keaksaraan
+18.005.	18	005	Pengembangan pendidikan kecakapan hidup
+18.006.	18	006	Penyediaan sarana dan prasarana pendidikan non formal
+18.007.	18	007	Pengembangan Data dan Informasi Pendidikan Non Formal
+18.008.	18	008	Pengembangan kebijakan pendidikan non formal
+18.009.	18	009	Pengembangan kurikulum, bahan ajar dan model pembelajaran pendidikan non formal
+18.010.	18	010	Pengembangan sertifikasi pendidikan non formal
+18.011.	18	011	Perencanaan dan penyusunan program pendidikan non formal
+18.012.	18	012	Publikasi dan Sosialisasi Pendidikan Non Formal
+18.013.	18	013	Monitoring, evaluasi dan pelaporan
+18.014.	18	014	Pendidikan dan pelatihan dasar kepemimpinan dan lomba tata upacara bendera (LTUB)
+19.	19		Program Pendidikan Luar Biasa
+19.001.	19	001	Pembangunan gedung sekolah
+19.002.	19	002	Pembangunan rumah dinas kepala sekolah, guru, penjaga sekolah
+19.003.	19	003	Penambahan ruang kelas sekolah
+19.004.	19	004	Penambahan ruang guru sekolah
+19.005.	19	005	Pembangunan laboratorium dan ruang pratikum sekolah (laboratorium bahasa, komputer, IPA, IPS dan lain-lain)
+19.006.	19	006	Pembangunan ruang locker siswa
+19.007.	19	007	Pembangunan sarana dan prasarana olahraga
+19.008.	19	008	Pembangunan ruang serba guna/aula
+19.009.	19	009	Pembangunan taman, lapangan upacara dan fasilitas parkir
+19.010.	19	010	Pembangunan ruang unit kesehatan sekolah
+19.11.	19	11	Pembangunan ruang ibadah
+19.12.	19	12	Pembangunan perpustakaan sekolah
+19.13.	19	13	Pembangunan jaringan instalasi listrik sekolah dan perlengkapannya
+19.14.	19	14	Pembangunan sarana air bersih dan sanitary
+19.15.	19	15	Pengadaan buku-buku dan alat tulis siswa
+19.16.	19	16	Pengadaan pakaian seragam sekolah dan kelengkapannya serta pakaian olahraga
+19.17.	19	17	Pengadaan alat praktik dan peraga siswa
+19.18.	19	18	Pengadaan mebeleur sekolah
+19.19.	19	19	Pengadaan perlengkapan sekolah
+19.20.	19	20	Pengadaan alat rumah tangga sekolah
+19.21.	19	21	Pengadaan sarana mobilitas sekolah
+19.22.	19	22	Pemeliharaan rutin/berkala bangunan sekolah
+19.23.	19	23	Pemeliharaan rutin/berkala rumah dinas kepala sekolah, guru, penjaga sekolah
+19.24.	19	24	Pemeliharaan rutin/berkala ruang kelas sekolah
+19.25.	19	25	Pemeliharaan rutin/berkala ruang guru sekolah
+19.26.	19	26	Pemeliharaan rutin/berkala ruang locker siswa
+19.27.	19	27	Pemeliharaan rutin/berkala sarana dan prasarana olahraga
+19.28.	19	28	Pemeliharaan rutin/berkala ruang serba guna/aula
+19.29.	19	29	Pemeliharaan rutin/berkala taman, lapangan upacara dan fasilitas parkir
+19.30.	19	30	Pemeliharaan rutin/berkala ruang unit kesehatan sekolah
+19.31.	19	31	Pemeliharaan rutin/berkala ruang ibadah
+19.32.	19	32	Pemeliharaan rutin/berkala perpustakaan sekolah
+19.33.	19	33	Pemeliharaan rutin/berkala jaringan instalasi listrik sekolah dan perlengkapannya
+20.	20		Program Peningkatan Mutu Pendidik dan Tenaga Kependidikan
+20.001.	20	001	Pelaksanaan sertifikasi pendidik
+20.002.	20	002	Pelaksanaan uji kompetensi pendidik dan tenaga kependidikan
+20.003.	20	003	Pelatihan bagi pendidik untuk memenuhi standar kompetensi
+20.004.	20	004	Pembinaan Kelompok Kerja Guru (KKG)
+20.005.	20	005	Pembinaan Lembaga Penjamin Mutu Pendidikan (LPMP)
+20.006.	20	006	Pembinaan pusat pendidikan dan pelatihan guru (PPPG)
+20.007.	20	007	Pendidikan lanjutan bagi pendidik untuk memenuhi standar kualifikasi
+20.008.	20	008	Pengembangan mutu dan kualitas program pendidikan dan pelatihan bagi pendidik dan tenaga kependidikan (MGMP Sekolah Swasta)
+20.009.	20	009	Pengembangan sistem pendataan dan pemetaan pendidik dan tenaga kependidikan
+20.010.	20	010	Pengembangan sistem penghargaan dan perlindungan terhadap profesi pendidik
+20.011.	20	011	Pengembangan sistem perencanaan dan pengendalian program profesipendidik dan tenaga kependidikan
+20.012.	20	012	Monitoring, evaluasi dan pelaporan
+20.013.	20	013	Dst...............
+20.014.	20	014	Pendamping Desentralisasi Base Education (DBE)
+20.015.	20	015	Sosialisasi Sertifikasi
+21.	21		Program Manajemen Pelayanan Pendidikan
+21.001.	21	001	Pelaksanaan evaluasi hasil kinerja bidang pendidikan
+21.002.	21	002	Pelaksanaan kerjasama secara kelembagaan di bidang pendidikan
+21.003.	21	003	Pengendalian dan pengawasan penerapan azas efesiensi dan efektifitas penggunaan dana dekonsentrasi dan dana pembantuan
+21.004.	21	004	Sosialisasi dan advokasi berbagai peraturan pemerintah di bidang pendidikan
+21.005.	21	005	Pembinaan dewan pendidikan
+21.006.	21	006	Pembinaan komite sekolah
+21.007.	21	007	Penerapan sistem dan informasi manajemen pendidikan
+21.008.	21	008	Penyelenggaraan pelatihan, seminar dan lokakarya serta diskusi ilmiah tentang berbagai isu pendidikan
+21.009.	21	009	Monitoring, evaluasi dan pelaporan
+21.010.	21	010	Peringatan Hari Besar Nasional (PHBN)
+22.	22		Program Bantuan Operasional Sekolah (BOS)
+22.001.	22	001	Pengembangan Kompetensi Lulusan (SMP)
+22.002.	22	002	Pengembangan Standar Isi (SMP)
+22.003.	22	003	Pengembangan Standar Proses (SMP)
+22.004.	22	004	Pengembangan Pendidik dan Tenaga Kependidikan (SMP)
+22.005.	22	005	Pengembangan Sarana dan Prasarana Sekolah (SMP)
+22.006.	22	006	Pengembangan Standar Pengelolaan (SMP)
+22.007.	22	007	Pengembangan Standar Pembiayaan (SMP)
+22.008.	22	008	Pengembangan dan Implementasi Sistem Penilaian (SMP)
+22.009.	22	009	Pengembangan Kompetensi Lulusan (SD)
+22.010.	22	010	Pengembangan Standar Isi (SD)
+22.011.	22	011	Pengembangan Standar Proses (SD)
+22.012.	22	012	Pengembangan Pendidik dan Tenaga Kependidikan (SD)
+22.013.	22	013	Pengembangan Sarana dan Prasarana Sekolah (SD)
+22.014.	22	014	Pengembangan Standar Pengelolaan (SD)
+22.015.	22	015	Pengembangan Standar Pembiayaan (SD)
+22.016.	22	016	Pengembangan dan Implementasi Sistem Penilaian (SD)
+15.	15		Program Obat dan Perbekalan Kesehatan
+15.001.	15	001	Pengadaaan obat dan perbekalan kesehatan
+15.002.	15	002	Peningkatan pemerataan obat dan perbekalan kesehatan
+15.003.	15	003	Peningkatan keterjangkauan harga obat dan perbekalan kesehatan terutama untuk penduduk miskin
+15.004.	15	004	Peningkatan mutu pelayanan farmasi komunitas dan rumah sakit
+15.005.	15	005	Peningkatan mutu penggunaan obat dan perbekalan kesehatan
+15.006.	15	006	Monitoring, evaluasi dan pelaporan
+15.007.	15	007	Dst............
+16.	16		Program Upaya Kesehatan Masyarakat
+16.001.	16	001	Pelayanan kesehatan penduduk miskin dipuskesmas dan jaringannya
+16.002.	16	002	Pemeliharaan dan pemulihan kesehatan
+16.003.	16	003	Pengadaan, peningkatan dan perbaikan sarana dan prasarana puskesmas dan jaringannya
+16.004.	16	004	Penyelenggaraan pencegahan dan pemberantasan penyakit menular dan wabah
+16.005.	16	005	Perbaikan gizi mayarakat
+16.006.	16	006	revitalisasi sitem kesehatan
+16.007.	16	007	Pelayanan kefarmasian dan perbekalan kesehatan
+16.008.	16	008	Pengadaan peralatan dan perbekalan kesehatan termasuk obat generik esensial
+16.009.	16	009	Peningkatan kesehatan masyarakat
+16.010.	16	010	Pencegahan Penyakit
+16.011.	16	011	Peningkatan pelayanan kesehatan bagi pengungsi korban bencana
+16.012.	16	012	Peningkatan pelayanan dan penanggulangan masalah kesehatan
+16.013.	16	013	penyediaan biaya operasional dan pemeliharaan
+16.014.	16	014	Penyelenggaraan penyehatan lingkungan
+16.015.	16	015	Monitoring, evaluasi dan pelaporan
+16.016.	16	016	Penyelenggaraan Labkesda
+16.017.	16	017	Penyediaan pendukung pelayanan kesehatan
+16.018.	16	018	Layanan kesehatan daerah terpencil dan hari raya
+16.019.	16	019	Sosialisasi penanggulangan bencana
+16.020.	16	020	Seleksi tenaga kesehatan teladan
+16.021.	16	021	Pelatihan ATLS dan BTLS
+16.022.	16	022	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Banten Girang
+16.023.	16	023	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Ciracas
+16.024.	16	024	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Curug
+16.025.	16	025	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Kasemen
+16.026.	16	026	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Kilasah
+16.027.	16	027	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Rau
+16.028.	16	028	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Serang Kota
+16.029.	16	029	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Singandaru
+16.030.	16	030	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Taktakan
+16.031.	16	031	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Walantaka
+16.032.	16	032	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Kalodran
+16.033.	16	033	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Banjar Agung
+16.034.	16	034	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Pancur
+16.035.	16	035	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Unyur
+16.036.	16	036	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Sawah Luhur
+16.037.	16	037	Pelayanan kesehatan penduduk miskin di puskesmas jaringannya FKTP Cipocok Jaya
+17.	17		Program Pengawasan Obat dan Makanan
+17.001.	17	001	Peningkatan pemberdayaan konsumen/masyarakat di bidang obat dan makanan
+17.002.	17	002	Peningkatan pengawasan keamanan pangan dan bahan berbahaya
+17.003.	17	003	Peningkatan kapasitas laboratorium pengawasan obat dan makanan
+17.004.	17	004	Peningkatan penyidikan dan penegakan hukum di bidang obat dan makanan
+17.005.	17	005	Monitoring, evaluasi dan pelaporan
+17.006.	17	006	Pemantauan Makanan Yang Terindikasi Mengandung Bahan Berbahaya
+17.007.	17	007	Pelaksanaan Pengadaan Obat dan Bahan Kimia untuk LSM, Mahasiswa, Pejabat Eselon, Olahraga & P3K
+18.	18		Program Pengembangan Obat Asli Indonesia
+18.001.	18	001	Fasilitasi pengembangan dan penelitian teknologi produksi tanaman obat
+18.002.	18	002	Pengembanganstandarisasi tanaman obat bahan alam indonesia
+18.003.	18	003	Peningkatan promosi obat bahan alam indonesia di dalam dan di luar negeri
+18.004.	18	004	Pengembangan sistem dan layanan informasi terpadu
+18.005.	18	005	Peningkatan kerjasama antar lembaga penelitian dan industri terkait
+18.006.	18	006	Monitoring, evaluasi dan pelaporan
+18.007.	18	007	dst……………………
+19.	19		Program Promosi Kesehatan dan Pemberdayaan masyarakat
+19.001.	19	001	Pengembangan media promosi dan informasi sadar hidup sehat
+19.002.	19	002	Penyuluhan masyarakat pola hidup sehat
+19.003.	19	003	Peningkatan pemanfaatna sarana kesehatan
+19.004.	19	004	Peningkatan pendidikan tenaga penyuluh kesehatan
+19.005.	19	005	Monitoring, evaluasi dan pelaporan
+19.006.	19	006	Upaya kesehatan berbasis masyarakat
+20.	20		Program Perbaikan Gizi Masyarakat
+20.001.	20	001	Penyusunan peta informasi masyarakat kurang gizi
+20.002.	20	002	Pemberian tambahan makanan dan vitamin
+20.003.	20	003	Penanggulangan kurang energi protein (KEP), anemia gizi besi, gangguan akibat kurang yodium (GAKY), kurang vitamin A dan kekurangan zat gizi mikro lainnya
+20.004.	20	004	Pemberdayaan masyarakat untuk pencapaian keluarga sadar gizi
+20.005.	20	005	Peningkatan gizi lebih
+20.006.	20	006	Monitoring, evaluasi dan pelaporan
+20.007.	20	007	Pemberdayaan  Keluarga Sadar Gizi
+21.	21		Program Pengembangan Lingkungan Sehat
+21.001.	21	001	Pengkajian pengembangan lingkungan sehat
+21.002.	21	002	Penyuluhan menciptakan lingkungan sehat
+21.003.	21	003	Sosialisasi kebijakan lingkungan sehat
+21.004.	21	004	Monitoring, evaluasi dan pelaporan
+21.005.	21	005	Pengawasan Kualitas Air dan Penyehatan Lingkungan Pemukiman
+22.	22		Program Pencegahan dan Penanggulangan Penyakit Menular
+22.001.	22	001	Penyemprotan/fogging sarang nyamuk
+22.002.	22	002	Pengadaan alat fogging dan bahan-bahan fogging
+22.003.	22	003	Pengadaan vaksin penyakit menular
+22.004.	22	004	Pelayanan vaksinasi bagi balita dan anak sekolah
+22.005.	22	005	Pelayanan pencegahan dan penanggulangan penyakit menular
+22.006.	22	006	Pencegahan penularan penyakit endemik/epidemik
+22.007.	22	007	Pemusnahan/karantina sumber penyebab penyakit menular
+22.008.	22	008	Peningkatan Imunisasi
+22.009.	22	009	Peningkatan surveillance epideminologi dan penaggulangan wabah
+22.010.	22	010	Peningkatan Komunikasi, Informasi dan Edukasi (KIE) pencegahan dan pemberantasan penyakit
+22.011.	22	011	Monitoring, evaluasi dan pelaporan
+22.012.	22	012	Pertemuan linsek program P2M Pokjanal DBD dan KPAD
+22.013.	22	013	Pelaksanaan BIAS
+22.014.	22	014	Pelaksanaan imunisasi untuk mencapai UCI
+22.015.	22	015	Penanggulangan kusta
+22.016.	22	016	Pengadaan sarana pemeliharaan colchin
+22.017.	22	017	SKD Flu Burung
+22.018.	22	018	PSN DBD Program P2M
+22.019.	22	019	Penanggulangan Malaria dan Filariasis
+22.020.	22	020	Penanggulangan Ispa Diare
+22.021.	22	021	Penanggulangan Penyakit KLB dan Keracunan
+23.	23		Program Standarisasi Pelayanan Kesehatan
+23.001.	23	001	Penyusunan standar kesehatan
+23.002.	23	002	Evaluasi dan pengembangan standar pelayanan kesahtan
+23.003.	23	003	Pembangunan dan pemutakhiran data dasar standar pelayanan kesehatan
+23.004.	23	004	Penyusunan naskah akademis standar pelayanan kesehatan
+23.005.	23	005	Penyusunan standar analisis belanja pelayanan kesehatan
+23.006.	23	006	Monitoring, evaluasi dan pelaporan program kesehatan
+24.	24		Program Pelayanan Kesehatan Penduduk Miskin
+24.001.	24	001	Pelayanan operasi katarak
+24.002.	24	002	Pelayanan kesehatan THT
+24.003.	24	003	Pelayanan operasi bibir sumbing
+24.004.	24	004	Pelayanan sunatan masal
+24.005.	24	005	Penanggulangan ISPA
+24.006.	24	006	Penanggulangan penyakit cacingan
+24.007.	24	007	Pelayanan kesehatan kulit dan kelamin
+24.008.	24	008	Pelayanan kesehatan akibat gizi buruk/busung lapar
+24.009.	24	009	Pelayanan kesehatan akibat lumpuh kayu
+24.010.	24	010	Monitoring, evaluasi dan pelaporan
+25.	25		Program pengadaan, peningkatan dan perbaikan sarana dan prasarana puskesmas/puskesmas pembantu dan jaringannya
+25.001.	25	001	Pembangunan Puskesmas
+25.002.	25	002	Pembangunan puskesmas pembantu
+25.003.	25	003	Pengadaaan puskesmas perairan
+25.004.	25	004	Pengadaaan puskesmas keliling
+25.005.	25	005	Pembangunan posyandu
+25.006.	25	006	Pengadaaan sarana dan prasarana puskesmas
+25.007.	25	007	Pengadaaan sarana dan prasarana puskesmas Pembantu
+25.008.	25	008	Pengadaaan sarana dan prasarana puskesmas pembantu
+25.009.	25	009	Pengadaaan sarana dan prasarana puskesmas keliling
+25.010.	25	010	Pengadaaan sarana dan prasarana keliling
+25.011.	25	011	Peningkatan puskesmas menjadi puskesmas rawat inap
+25.012.	25	012	Peningkatan puskesmas pembantu menjadi puskesmas
+25.013.	25	013	Pemeliharaan rutin/berkala sarana dan prasarana puskesmas
+25.014.	25	014	Pemeliharaan rutin/berkala saranan dan prasarana puskesmas pembantu
+25.015.	25	015	Pemeliharaan rutin/berkala saranan dan prasarana puskesmas perairan
+25.016.	25	016	Pemeliharaan rutin/berkala saranan dan prasarana puskesmas keliling
+25.017.	25	017	Pemeliharaan rutin/berkala saranan dan prasarana posyandu
+25.018.	25	018	Pengadaan Alat Kesehatan Medis dan Non Medis Puskesmas dan Jaringannya
+25.019.	25	019	Peningkatan puskesmas pembantu menjadi puskesmas
+25.020.	25	020	Rehabilitasi sedang/berat puskesmas pembatu
+25.021.	25	021	Monitoring, evaluasi dan pelaporan
+26.	26		Program pengadaan, peningkatan sarana dan prasarana rumah sakit/rumah sakit jiwa/rumah sakit paru-paru/rumah sakit mata
+26.001.	26	001	Pembangunan rumah sakit
+26.002.	26	002	Pembangunan ruang poliklinik rumah sakit
+26.003.	26	003	Pembangunan gudang obat/apotik
+26.004.	26	004	Penambahan ruang rawat inap rumah sakit (VVIP, VIP, Kelas I,II,III)
+26.005.	26	005	Pengembangan ruang gawat darurat
+26.006.	26	006	Pengambangan ruang ICU, ICCU, NICU
+26.007.	26	007	Pengembangan ruang operasi
+26.008.	26	008	Pengambangan ruang terapi
+26.009.	26	009	Pengembangan ruang isolasi
+26.010.	26	010	Pengembangan ruang bersalin
+26.011.	26	011	Pengembangan ruang inkubator
+26.012.	26	012	Pengembangan ruang bayi
+26.013.	26	013	Pengembangan ruang rontgen
+26.014.	26	014	Pengembangan ruang laboratorium rumah sakit
+26.015.	26	015	Pembangunan kamar jenazah
+26.016.	26	016	Pembangunan instalasi pengolahan limbah rumah sakit
+26.017.	26	017	Rehabilitasi bangunan rumah sakit
+26.018.	26	018	Pengadaan alat-alat kesehatan rumah sakit
+26.019.	26	019	Pengadaan obat-obatan rumah sakit
+26.020.	26	020	Pengadaan ambulance/mobil jenazah
+26.021.	26	021	Pengadaan mebeleur rumah sakit
+26.022.	26	022	Pengadaan perlengkapan rumah tangga rumah sakit (dapur, ruang pasien, laundry, ruang tunggu dan lain-lain)
+26.023.	26	023	Pengadaan bahan-bahan logistik rumah sakit
+26.024.	26	024	Pengadaan pencetakan administrasi dan surat menyurat rumah sakit
+26.025.	26	025	Pengembangan tipe rumah sakit
+26.026.	26	026	Monitoring, evaluasi dan pelaporan
+27.	27		Program pemeliharaan sarana dan prasarana rumah sakit/rumah sakit jiwa/rumah sakit paru-paru/rumah sakit mata
+27.001.	27	001	Pemeliharaan rutin/berkala rumah sakit
+27.002.	27	002	Pemeliharaan rutin/berkala ruang poliklinik rumah sakit
+27.003.	27	003	Pemeliharaan rutin/berkala gudang obat/apotik
+27.004.	27	004	Pemeliharaan rutin/berkala ruang rawat inap rumah sakit (VVIP, VIP, Kelas I,II,III)
+27.005.	27	005	Pemeliharaan rutin/berkala ruang gawat darurat
+27.007.	27	007	Pemeliharaan rutin/berkala ruang operasi
+27.008.	27	008	Pemeliharaan rutin/berkala ruang terapi
+27.009.	27	009	Pemeliharaan rutin/berkala ruang isolasi
+27.010.	27	010	Pemeliharaan rutin/berkala ruang bersalin
+27.011.	27	011	Pemeliharaan rutin/berkala ruang inkubator
+27.012.	27	012	Pemeliharaan rutin/berkala ruang bayi
+27.013.	27	013	Pemeliharaan rutin/berkala ruang rontgen
+27.014.	27	014	Pemeliharaan rutin/berkala ruang laboratorium rumah sakit
+27.015.	27	015	Pemeliharaan rutin/berkala kamar jenazah
+27.016.	27	016	Pemeliharaan rutin/berkala instalasi pengolahan limbah rumah sakit
+27.017.	27	017	Pemeliharaan rutin/berkala alat-alat kesehatan rumah sakit
+27.018.	27	018	Pemeliharaan rutin/berkala ambulance/mobil jenazah
+27.019.	27	019	Pemeliharaan rutin/berkala mebeleur rumah sakit
+27.020.	27	020	Pemeliharaan rutin/berkala perlengkapan rumah sakit
+27.021.	27	021	Monitoring, evaluasi dan pelaporan
+27.022.	27	022	dst……………………
+28.	28		Program Kemitraan peningkatan pelayanan kesehatan
+28.001.	28	001	kemitraan asuransi kesehatan masyarakat
+28.002.	28	002	kemitraan pencegahan dan pemberantasan penyakit menular
+28.003.	28	003	kemitraan pengolahan limbah rumah sakit
+28.004.	28	004	kemitraan alih teknologi kedokteran dan kesehatan
+28.005.	28	005	kemitraan peningkatan kualitas dokter dan paramedis
+28.006.	28	006	kemitraan pengobatan lanjutan bagi pasien rujukan
+28.007.	28	007	kemitraan pengobatan bagi pasien kurang mampu
+28.008.	28	008	Monitoring, evaluasi dan pelaporan
+29.	29		Program peningkatan pelayanan kesehatan anak balita
+29.001.	29	001	Penyuluhan kesehatan anak balita
+29.002.	29	002	Imunisasi bagi anak balita
+29.003.	29	003	Rekrutmen tenaga pelayanan kesehatan anak balita
+29.004.	29	004	Pelatihan dan pendidikan perawatan anak balita
+29.005.	29	005	Pembangunan sarana dan prasarana khusus pelayanan perawatan anak balita
+29.006.	29	006	Pembangunan panti asuhan anak terlantar balita
+29.007.	29	007	Monitoring, evaluasi dan pelaporan
+29.008.	29	008	Pembinaan Usaha Kesehatan Sekolah
+30.	30		Program peningkatan pelayanan kesehatan lansia
+30.001.	30	001	Pelayanan pemeliharaan kesehatan
+30.002.	30	002	rekruitmen tenaga perawat kesehatan
+30.003.	30	003	Pendidikan dan pelatihan perawatan kesehatan
+30.004.	30	004	Pembangunan pusat-pusat pelayanan kesehatan
+30.005.	30	005	Pembangunan panti asuhan
+30.006.	30	006	Pelayanan kesehatan
+30.007.	30	007	Monitoring, evaluasi dan pelaporan
+30.008.	30	008	dst……………………
+31.	31		Program pengawasan dan pengendalian kesehatan makanan
+31.001.	31	001	Pengawasan keamanan dan kesehatan makanan hasil industri
+31.002.	31	002	Pengawasan dan pengendalian keamanan dan kesehatan makanan hasil produksi rumah tangga
+31.003.	31	003	Pengawasan dan pengendalian keamanan dan kesehatan makanan restaurant
+31.004.	31	004	Monitoring, evaluasi dan pelaporan
+32.	32		Program peningkatan keselamatan ibu melahirkan dan anak
+32.001.	32	001	Penyuluhan kesehatan bagi ibu hamil dari keluarga kurang mampu
+32.002.	32	002	Perawatan secara berkala bagi ibu hamil bagi keluarga kurang mampu
+32.003.	32	003	Pertolongan persalinan bagi ibu dari keluarga kurang mampu
+32.004.	32	004	Manajemen Program Kesehatan Ibu
+32.005.	32	005	Peningkatan Peranserta Masyarakat
+32.006.	32	006	Pelayanan Kesehatan
+32.007.	32	007	Pengadaan Sarana KIA
+32.008.	32	008	Pendidikan dan Pelatihan Keterampilan Petugas Kesehatan
+33.	33		Program Pemberantasan Penyakit Tidak Menular
+33.01.	33	01	Pelayanan, Pencegahan dan Penanggulangan Penyakit Tidak Menular
+15.	15		Program Pembangunan Jalan dan Jembatan
+15.001.	15	001	Perencanaan pembangunan jalan dan jembatan
+15.002.	15	002	Survei kontur jalan dan jembatan
+15.003.	15	003	Pembangunan jalan
+15.004.	15	004	Perencanaan pembangunan jembatan
+15.005.	15	005	Pembangunan jembatan
+15.006.	15	006	Monitoring, evaluasi dan pelaporan
+16.	16		Program Pembangunan saluran drainase/gorong-gorong
+16.001.	16	001	Perencanaan Pembangunan saluran drainase/gorong-gorong
+16.002.	16	002	Survei kontur saluran drainase/gorong-gorong
+16.003.	16	003	Pembangunan saluran drainase/gorong-gorong
+16.004.	16	004	Monitoring, evaluasi dan pelaporan
+17.	17		Program Pembangunan turap/talud/brojong
+17.001.	17	001	Perencanaan turap/talud/brojong
+17.002.	17	002	Survei kemiringan lereng turap/talud/bronjong
+17.003.	17	003	Pembangunan turap/talud/bronjong
+17.004.	17	004	Pembangunan turap/talud/brojong
+18.	18		Program rehabilitasi/pemeliharaan Jalan dan Jembatan
+18.001.	18	001	Perencanaan rehabilitasi/pemeliharaan jalan
+18.002.	18	002	Perencanaan rehabilitasi/pemeliharaan jembatan
+18.003.	18	003	Rehabilitasi/pemeliharaan jalan
+18.004.	18	004	Rehabilitasi/pemeliharaan jembatan
+19.	19		Program rehabilitasi/pemeliharaan talud/bronjong
+19.001.	19	001	Perencanaan rehabilitasi/pemeliharaan talud/bronjong
+19.002.	19	002	Perencanaan rehabilitasi/pemeliharaan talud/bronjong
+19.003.	19	003	Monitoring, evaluasi dan pelaporan
+19.004.	19	004	dst……………………
+20.	20		Program inspeksi kondisi Jalan dan Jembatan
+20.001.	20	001	Inspeksi kondisi Jalan
+20.002.	20	002	Inspeksi kondisi Jembatan
+20.003.	20	003	Evaluasi dan pelaporan
+20.004.	20	004	dst……………………
+21.	21		Program tanggap darurat Jalan dan Jembatan
+21.001.	21	001	Rehabilitasi jalan dalam kondisi tanggap darurat
+21.002.	21	002	Rehabilitasi jembatan dalam kondisi tanggap darurat
+21.003.	21	003	Monitoring, evaluasi dan pelaporan
+21.004.	21	004	dst……………………
+22.	22		Program Pembangunan sistem informasi/data base jalan dan jembatan
+22.001.	22	001	Penyusunan sistem informasi/data base jalan
+22.002.	22	002	Penyusunan sistem informasi/data base jembatan
+22.003.	22	003	Monitoring, evaluasi dan pelaporan
+22.004.	22	004	dst……………………
+23.	23		Program peningkatan sarana dan prasarana kebinamargaan
+23.001.	23	001	Pembangunan gedung balai latihan kebinamargaan
+23.002.	23	002	Pembangunan gedung workshop
+23.003.	23	003	Pembangunan laboratorium kebinamargaan
+23.004.	23	004	Pengadaan alat-alat berat
+23.005.	23	005	Pengadaan peralatan dan perlengkapan bengkel alat-alat berat
+23.006.	23	006	Pengadaan alat-alat ukur dan bahan labolatorium kebinamargaan
+23.007.	23	007	Rehabilitasi/pemeliharaan gedung balai latihan kebinamargaan
+23.008.	23	008	Rehabilitasi/pemeliharaan gedung workshop
+23.009.	23	009	Rehabilitasi/pemeliharaan laboratorium kebinamargaan
+23.010.	23	010	Rehabilitasi/pemeliharaan alat-alat berat
+23.011.	23	011	Rehabilitasi/pemeliharaan peralatan dan perlengkapan bengkel alat-alat berat
+23.012.	23	012	Rehabilitasi/pemeliharaan alat-alat ukur dan bahan labolatorium kebinamargaan
+23.013.	23	013	Monitoring, evaluasi dan pelaporan
+24.	24		Program pengembangan dan pengelolaan jaringan irigasi, rawa dan jaringan pengairan lainnya
+24.001.	24	001	Rehabilitasi/Peningkatan Jaringan Irigasi
+24.010.	24	010	Rehabilitasi/pemeliharaan jaringan irigasi
+24.016.	24	016	Pemberdayaan petani pemakai air
+24.018.	24	018	Peningkatan Jaringan Irigasi
+25.	25		Program penyediaan dan pengelolaan air baku
+25.001.	25	001	Pembangunan prasarana pengambilan dan saluran pembawa
+25.002.	25	002	Rehabilitasi prasarana pengambilan dan saluran pembawa
+25.003.	25	003	Pemeliharaan prasarana pengambilan dan saluran pembawa
+25.004.	25	004	Pembangunan sumur-sumur air Tanah
+25.005.	25	005	Peningkatan partisipasi masyarakat dalam pengelolaan air
+25.006.	25	006	Peningkatan distribusi penyediaan air baku
+25.007.	25	007	Monitoring, evaluasi dan pelaporan
+26.	26		Program pengembangan, pengelolaan dan konservasi sungai, danau dan sumber daya air lainnya
+26.001.	26	001	Pembangunan embung, dan bangunan penampung air lainnya
+26.002.	26	002	Pemeliharaan dan rehabilitasi embung, dan bangunan penampung air lainnya
+26.003.	26	003	Rehabilitasi kawasan kritis daerah tangkapan sungai dan danau
+26.004.	26	004	Rehabilitasi kawasan lindung daerah tangkapan sungai dan danau
+26.005.	26	005	Peningkatan partisipasi masyarakat dalam pengelolaan sungai, danau, dan sumber daya air lainnya
+26.006.	26	006	Peningkatan konservasi air Tanah
+26.007.	26	007	Monitoring, evaluasi dan pelaporan
+27.	27		Program pengembangan kinerja pengelolaan air minum dan air limbah
+27.001.	27	001	Penyediaan prasarana dan sarana air minum bagi masyarakat berpenghasilan rendah
+27.002.	27	002	Penyediaan prasarana dan sarana air limbah
+27.003.	27	003	Pengembangan teknologi pengolahan air minum dan air limbah
+27.004.	27	004	Fasilitasi pembinaan teknik pengolahan air limbah
+27.005.	27	005	Fasilitasi pembinaan teknik pengolahan air minum
+27.006.	27	006	Pengembangan Sistem Distribusi Air Minum (IPAL & RT.26)
+27.007.	27	007	Rehabilitasi/pemeliharaan sarana dan prasarana air minum
+27.008.	27	008	Rehabilitasi/pemeliharaan sarana dan prasarana air limbah
+27.009.	27	009	Monitoring, evaluasi dan pelaporan
+28.	28		Program pengendalian banjir
+28.001.	28	001	Pembangunan reservoir pengendali banjir
+28.002.	28	002	Rehabilitasi dan pemeliharaan reservoir pengendali banjir
+28.003.	28	003	Rehabilitasi dan pemeliharaan bantaran dan tanggul sungai
+28.004.	28	004	Pengembangan pengelolaan daerah rawa dalam rangka pengendalian banjir
+28.005.	28	005	Peningkatan partisipasi masyarakat dalam penanggulangan banjir
+28.006.	28	006	Mengendalikan banjir pada daerah tangkapan air dan badan-badan sungai
+28.007.	28	007	Peningkatan pembersihan dan pengerukan sungai/kali
+28.008.	28	008	Peningkatan pembangunan pusat-pusat pengendali banjir
+28.009.	28	009	Pembangunan prasarana pengaman pantai
+28.010.	28	010	Pembangunan tanggul pemecah ombak
+28.011.	28	011	Monitoring, evaluasi dan pelaporan
+29.	29		Program pengembangan wilayah strategis dan cepat tumbuh
+29.001.	29	001	Perencanaan pengembangan infrastruktur
+29.002.	29	002	Pembangunan/peningkatan infrastruktur
+29.003.	29	003	Monitoring, evaluasi dan pelaporan
+29.004.	29	004	dst……………………
+30.	30		Program pembangunan infrastruktur perdesaaan
+30.001.	30	001	Penataan lingkungan pemukiman penduduk perdesaan
+30.002.	30	002	Pembangunan jalan dan jembatan perdesaan
+30.003.	30	003	Pembangunan sarana dan prasarana air bersih perdesaaan
+30.004.	30	004	Pembangunan pasar perdesaaan
+30.005.	30	005	Rehabilitasi/pemeliharaan jalan dan jembatan perdesaaan
+30.006.	30	006	Dana Penguatan Infrastruktur dan Prasarana Daerah (DPIPD) untuk Bidang Jalan dan Jembatan (Rehab./Pengaspalan Jalan Desa )
+30.007.	30	007	Pendamping Dana Penguatan Infrastruktur dan Prasarana Daerah (DPIPD) untuk Bidang Jalan dan Jembatan ( Manpro Rehab./Pengaspalan Jalan Desa )
+30.008.	30	008	Pendamping Dana Penguatan Infrastruktur dan Prasarana Daerah (DPIPD) Bidang jalan dan Jembatan (Manpro rehab/pengaspalan jalan desa)
+30.009.	30	009	Perencanaan Pembangunan Jalan dan Jembatan Perdesaan
+31.	31		Program Pembangunan Kerjasama Pemerintah Daerah dan TNI
+31.001.	31	001	Karya Bhakti TNI
+31.002.	31	002	TMMD Manunggal TNI
+31.003.	31	003	Satata Sariksa Manunggal TNI
+32.	32		Program Perencanaan Tata Ruang
+32.001.	32	001	Penyusunan kebijakan tentang penyusunan rencana tata ruang
+32.002.	32	002	Penetapan kebijakan tentang RDTRK, RTRK, dan RTBL
+32.003.	32	003	Sosialisasi peraturan perundang-undangan tentang rencana tata ruang
+32.004.	32	004	Penyusunan Rencana Tata Ruang Wilayah
+32.005.	32	005	Penyusunan Rencana Detail Tata  Ruang Kawasan
+32.006.	32	006	Penyusunan Rencana Teknis Ruang Kawasan
+32.007.	32	007	Penyusunan Rencana Tata Bangunan dan Lingkungan
+32.008.	32	008	Penyusunan rancangan peraturan daerah tentang RTRW
+32.009.	32	009	Fasilitasi peningkatan peran serta masyarakat dalam perencanaan tata ruang
+32.010.	32	010	Rapat koordinasi tentang rencana tata ruang
+32.011.	32	011	Revisi rencana tata ruang
+32.012.	32	012	Pelatihan aparat dalam perencanaan tata ruang
+32.013.	32	013	Survey dan pemetaan
+32.014.	32	014	Koordinasi dan fasilitasi penyusunan rencana tata ruang lintas kabupaten/kota
+32.015.	32	015	Monitoring, evaluasi dan pelaporan rencana tata ruang
+33.	33		Program Pengendalian Pemanfaatan Ruang
+33.001.	33	001	Penyusunan kebijakan pengendalian pemanfaatan ruang
+33.002.	33	002	Penyusunan prosedur dan manual pengendalian pemanfaatan ruang
+33.003.	33	003	Fasilitasi peningkatan peran serta masyarakat dalam pengendalian pemanfaatan ruang
+33.004.	33	004	Pelatihan aparat dalam pengendalian pemanfaatan ruang
+33.005.	33	005	Pengawasan pemanfaatan ruang
+33.006.	33	006	Koordinasi dan fasilitasi pengendalian pemanfaatan ruang lintas kabupaten/kota
+33.007.	33	007	Sosialisasi kebijakan pengendalian pemanfaatan ruang
+33.008.	33	008	Monitoring, evaluasi dan pelaporan
+34.	34		Program Pemanfaatan Ruang
+34.001.	34	001	Penyusunan kebijakan perizinan pemanfaatan ruang
+34.002.	34	002	Penyusunan norma, standar, dan kriteria pemanfaatan ruang
+34.003.	34	003	Penyusunan kebijakan pengendalian pemanfaatan ruang
+34.004.	34	004	Fasilitasi peningkatan peran serta masyarakat dalam pemanfaatan ruang
+34.005.	34	005	Survey dan pemetaan
+34.006.	34	006	Pelatihan aparat dalam pemanfaatan ruang
+34.007.	34	007	Sosialisasi kebijakan, norma, standar, prosedur dan manual pemanfaatan ruang
+34.008.	34	008	Koordinasi dan fasilitasi penyusunan pemanfaatan ruang lintas kabupaten/kota
+34.009.	34	009	Monitoring, evaluasi dan pelaporan pemanfaatan ruang
+35.	35		Program Pengaturan Jasa Konstruksi
+35.001.	35	001	Sosialisasi dan Diseminasi Peraturan Perundang-undangan Jasa Konstruksi dan Peraturan Lainnya yang Terkait
+35.002.	35	002	Pengaturan dan Penyelenggaraan Ijin Usaha Jasa Konstruksi
+36.	36		Program Pemberdayaan Jasa Konstruksi
+36.001.	36	001	Pemberdayaan Penyedia Jasa Konstruksi (Orang Perseorangan, Badan Usaha)
+36.002.	36	002	Pemberdayaan Pengguna Jasa Konstruksi (Instansi Pemerintah, Orang Perseorangan, Badan Usaha)
+36.003.	36	003	Pemberdayaan Jasa Konstruksi Kepada Masyarakat
+37.	37		Program Pengawasan Jasa Konstruksi
+37.001.	37	001	Pengawasan Tertib Penyelenggaraan Jasa Konstruksi
+37.002.	37	002	Pengawasan Tertib Pemanfaatan Jasa Konstruksi
+37.003.	37	003	Pengawasan Terhadap Perijinan Jasa Konstruksi
+37.004.	37	004	Pengawasan Terhadap Ketentuan Keteknikan
+37.005.	37	005	Pengawasan Terhadap K-3
+38.	38		Program Peningkatan Sarana dan Prasarana Publik
+38.001.	38	001	Pembangunan Sarana dan Prasarana Publik
+15.	15		Program Pengembangan Perumahan
+15.001.	15	001	Penetapan kebijakan, strategi, dan program perumahan
+15.002.	15	002	Penyusunan Norma, Standar, Pedoman, dan Manual (NSPM)
+15.003.	15	003	Koordinasi penyelenggaraan pengembangan perumahan
+15.004.	15	004	Sosialisasi peraturan perundang-undangan  di bidang perumahan
+15.005.	15	005	Koordinasi pembangunan perumahan dengan lembaga/badan usaha
+15.006.	15	006	Fasilitasi dan stimulasi pembangunan perumahan masyarakat kurang mampu
+15.007.	15	007	Pembangunan sarana dan prasarana rumah sederhana sehat
+15.008.	15	008	Monitoring, evaluasi dan pelaporan
+15.009.	15	009	Peningkatan Jalan Lingkungan
+15.010.	15	010	Perencanaan jalan lingkungan
+15.012.	15	012	Fasilitasi dan stimulasi pembangunan perumahan swadaya
+16.	16		Program Lingkungan Sehat Perumahan
+16.001.	16	001	Koordinasi pengawasan dan pengendalian pelaksanaan kebijakan tentang pembangunan perumahan
+16.002.	16	002	Penyediaan sarana air bersih dan sanitasi dasar terutama bagi masyarakat miskin
+16.003.	16	003	Penyuluhan dan pengawasan kualitas lingkungan sehat perumahan
+16.004.	16	004	Pengendalian Dampak Resiko Pencemaran Lingkungan
+16.005.	16	005	Prasarana Umum Perumahan (PSU)
+16.006.	16	006	Monitoring, evaluasi dan pelaporan
+16.007.	16	007	Perencanaan air bersih dan sanitasi dasar permukiman
+17.	17		Program Pemberdayaan komunitas Perumahan
+17.001.	17	001	Fasilitasi pemberian kredit mikro untuk pembangunan dan perbaikan perumahan
+17.002.	17	002	Fasilitasi pembangunan prasarana dan sarana dasar pemukiman berbasis masyarakat
+17.003.	17	003	Peningkatan peran serta masyarakat dalam pelestarian lingkungan perumahan
+17.004.	17	004	Peningkatan sistem pemberian kredit pemilikan rumah
+17.005.	17	005	Sosialisasi dan fasilitasi jaminan kepastian hukum dan perlindungan hukum
+17.006.	17	006	Koordinasi pengawasan dan pengendalian pelaksanaan peraturan perundang-undangan bidang perumahan
+17.08.	17	08	Fasilitasi pembangunan prasarana dan sarana dasar pemukiman di kawasan kumuh
+18.	18		Program perbaikan perumahan akibat bencana alam/sosial
+18.001.	18	001	Fasilitasi dan stimulasi rahabilitasi rumah akibat bencana alam
+18.002.	18	002	Fasilitasi dan stimulasi rahabilitasi rumah akibat bencana sosial
+18.003.	18	003	Monitoring, evaluasi dan pelaporan
+19.	19		Program peningkatan kesiagaan dan pencegahan bahaya kebakaran
+19.001.	19	001	Penyusunan norma, standar, pedoman, dan manual pencegahan bahaya kebakaran
+19.002.	19	002	Sosialisasi norma, standar, pedoman, dan manual pencegahan bahaya kebakaran
+19.003.	19	003	Koordinasi perijinan pemanfaatan gedung
+19.004.	19	004	Pengawasan pelaksanaan kebijakan pencegahan kebakaran
+19.005.	19	005	Kegiatan pendidikan dan pelatihan pertolongan dan pencegahan kebakaran
+19.006.	19	006	Kegiatan rekruitment tenaga sukarela pertolongan bencana kebakaran
+19.007.	19	007	Kegiatan penyuluhan pencegahan bahaya kebakaran
+19.008.	19	008	Pengadaan sarana dan prasarana pencegahan bahaya kebakaran
+19.009.	19	009	Pemeliharaan sarana dan prasarana pencegahan bahaya kebakaran
+19.010.	19	010	Rehabilitasi sarana dan prasarana pencegahan bahaya kebakaran
+19.011.	19	011	Kegiatan pencegahan dan pengendalian bahaya kebakaran
+19.012.	19	012	Peningkatan pelayanan penanggulangan bahaya kebakaran
+19.013.	19	013	Monitoring, evaluasi dan pelaporan
+20.	20		Program pengelolaan areal pemakaman
+20.001.	20	001	Penyusunan kebijakan, norma, standar, pedoman, dan manual pengelolaan areal pemakaman
+20.002.	20	002	Pengumpulan dan analisis data base jumlah jiwa yang meninggal
+20.003.	20	003	Koordinasi pengelolaan areal pemakaman
+20.004.	20	004	Koordinasi penataan areal pemakaman
+20.005.	20	005	Pemberian perijinan pemakaman
+20.006.	20	006	Pembangunan sarana dan prasarana pemakaman
+20.007.	20	007	Pemeliharaan sarana dan prasarana pemakaman
+20.008.	20	008	Monitoring, evaluasi dan pelaporan
+20.009.	20	009	Pemindahan makam
+24.	24		Program pengelolaan ruang terbuka hijau (RTH)
+24.001.	24	001	Penyusunan kebijakan, norma, standar, prosedur dan manual pengelolaan RTH
+24.002.	24	002	Sosialisasi kebijakan, norma, standar, prosedur dan manual pengelolaan RTH
+24.003.	24	003	Penyusunan dan analisis data/informasi pengelolaan RTH
+24.004.	24	004	Penyusunan program pengembangan RTH
+24.005.	24	005	Penataan RTH
+24.006.	24	006	Pemeliharaan RTH
+24.007.	24	007	Pengembangan taman rekreasi
+24.008.	24	008	Pengawasan dan pengendalian RTH
+24.009.	24	009	Peningkatan peran serta masyarakat dalam pengelolaan RTH
+24.010.	24	010	Monitoring dan evaluasi
+24.11.	24	11	Pemeliharaan PJU
+25.	25		Program Pengembangan Permukiman
+25.004.	25	004	Pemeliharaan jalan dan Drainase Permukiman
+15.	15		Program peningkatan keamanan dan kenyamanan lingkungan
+15.001.	15	001	Penyiapan tenaga kerja pengendali keamanan dan kenyamanan lingkungan
+15.002.	15	002	Pembangunan pos jaga/ ronda
+15.003.	15	003	Pelatihan pengendalian keamanan dan kenyamanan lingkungan
+15.004.	15	004	Pengendalian kebisingan dan gangguan dari kegiatan masyarakat
+15.005.	15	005	pengendalian keamanan lingkungan
+15.006.	15	006	Monitoring, evaluasi dan pelaporan
+16.	16		Program pemeliharaan kantrantibmas dan pencegahan tindak kriminal
+16.001.	16	001	Pengawasan pengendalian dan evaluasi kegiatan polisi pamong praja
+16.002.	16	002	Peningkatan kerjasama dengan aparat keamanan dalam teknik  pencegahan kejahatan
+16.003.	16	003	Kerjasama pengembangan kemampuan aparat polisi pamong praja dengan TNI/ POLRI dan Kejaksaan
+16.004.	16	004	Peningkatan kapasitas aparat dalam rangka pelaksanaan siskamswakarsa di daerah
+16.005.	16	005	Monitoring, evaluasi dan pelaporan
+16.006.	16	006	Penegakan tindak pidana ringan
+19.	19		Program pemberdayaan masyarakat untuk menjaga ketertiban dan keamanan
+19.001.	19	001	Pembentukan satuan keamanan lingkungan di masyarakat
+19.002.	19	002	Peningkatan Kesadaran Masyarakat dalam Menjaga Keamanan Lingkungan
+19.003.	19	003	Fasilitasi Pembentukan / Rakor FKDM
+19.004.	19	004	Pengawasan Pengelolaan Sumber Daya Air
+19.005.	19	005	Pengawasan Dokumen Perijinan Usaha
+20.	20		Program peningkatan pemberantasan penyakit masyarakat (pekat)
+20.001.	20	001	Penyuluhan pencegahan peredaran/ penggunaan minuman keras dan narkoba
+20.002.	20	002	Penyuluhan pencegahan berkembangnya praktek prostitusi
+20.003.	20	003	Penyuluhan pencegahan peredaran uang palsu
+20.004.	20	004	Penyuluhan pencegahan dan penertiban aksi premanisme
+20.005.	20	005	Penyuluhan pencegahan dan penertiban tindak penyelundupan
+20.006.	20	006	Penyuluhan pencegahan praktek perjudian
+20.007.	20	007	Penyuluhan pencegahan eksploitasi anak bawah umur
+20.008.	20	008	Monitoring, evaluasi dan pelaporan
+21.	21		Program peningkatan kesiagaan dan pencegahan bahaya kebakaran
+21.01.	21	01	Penyusunan norma, standar, prosedur, dan manual pencegahan bahaya kebakaran
+21.02.	21	02	Sosialisasi norma, standar, prosedur, dan manual pencegahan bahaya kebakaran
+21.05.	21	05	Pendidikan dan pelatihan pertolongan dan pencegahan kebakaran
+21.07.	21	07	Penyuluhan pencegahan bencana kebakaran
+21.08.	21	08	Pengadaan sarana dan prasarana pencegahan bahaya kebakaran
+21.09.	21	09	Pemeliharaan sarana dan prasarana pencegahan bahaya kebakaran
+21.10.	21	10	Rehabilitasi sarana dan prasarana pencegahan bahaya kebakaran
+21.11.	21	11	Kegiatan pencegahan dan pengendalian bahaya kebakaran
+21.12.	21	12	Peningkatan pelayanan penanggulangan bahaya kebakaran
+22.	22		Program pencegahan dini dan penanggulangan korban bencana alam
+22.001.	22	001	Pemantauan Potensi Bencana Alam
+22.002.	22	002	Pengadaan tempat penampungan sementara dan evakuasi penduduk dari ancaman/ korban bencana alam
+22.003.	22	003	Pengadaan sarana dan prasarana evakuasi penduduk dari ancaman/ korban bencana alam
+22.004.	22	004	Pengadaan logistik dan obat-obatan bagi penduduk di tempat penampungan sementara
+15.	15		Program Pemberdayaan Fakir Miskin, Komunitas Adat Terpencil (KAT) dan Penyandang Masalah Kesejahteraan Sosial (PMKS) Lainnya
+15.001.	15	001	Peningkatan kemampuan petugas dan pendampingan sosial memperdaya fakir miskin , KAT dan PMKS lainnya.
+15.002.	15	002	Pelatihan keterampilan berusaha bagi keluarga miskin
+15.003.	15	003	Fasilitasi manajemen usaha bagi keluarga miskin
+15.004.	15	004	Pengadaan sarana dan prasarana pendukung usaha bagi keluarga miskin
+15.005.	15	005	Pelatihan keterampilan bagi penyandang masalah kesejahteraan sosial
+15.006.	15	006	Fasilitasi dan stimulasi pembangunan perumahan masyarakat kurang mampu
+16.	16		Program Pelayanan Rehabilitasi Kesejahteraan Sosial
+16.001.	16	001	Pengembangan Kebijakan tentang akses sarana dan prasarana publik bagi penyandang cacat dan lansia
+16.002.	16	002	Pelayanan dan perlindungan sosial, hukum bagi korban eksploitasi, perdagangan perempuan dan anak
+16.003.	16	003	Pelaksanaan KIE konseling dan kampanye sosial bagi Penyandang Masalah Kesejahteraan Sosial (PMKS)
+16.004.	16	004	Pelatihan keterampilan dan praktek belajar kerja bagi anak terlantar termasuk anak jalanan, anak cacat, anak nakal korban narkotika (PACA)
+16.005.	16	005	Pelayanan psikososial bagi PMKS di trauma centre termasuk bagi korban bencana
+16.006.	16	006	Pembentukan pusat informasi penyandang cacat dan trauma center
+16.007.	16	007	Peningkatan kualitas pelayanan, sarana dan prasarana rehabilitasi rumah kesejahteraan sosial bagi PMKS lanjut usia (LU)
+16.008.	16	008	Penyusunan kebijakan pelayanandan rehabilitasi sosial bagi penyandang masalah kesejahteraan sosial
+16.009.	16	009	Koordinasi perumusan kebijakan dan sikronisasi pelaksanaan upaya-upaya penanggulangan kemiskinan dan penurunan kesenjangan
+16.010.	16	010	penanganan masalah-masalah strategis yang menyangkut tanggap cepat darurat dan kejadian luar biasa
+16.011.	16	011	Monitoring, evaluasi dan pelaporan
+17.	17		Program pembinaan anak terlantar
+17.001.	17	001	Pembangunan sarana dan prasarana tempat penampungan anak terlantar
+17.002.	17	002	Pelatihan keterampilan dan praktek belajar kerja bagi anak terlantar
+17.003.	17	003	Penyusunan data dan analisis permasalahan anak terlantar
+17.004.	17	004	Pengembangan bakat dan keterampilan anak terlantar
+17.005.	17	005	Peningkatan keterampilan tenaga pembinaan anak terlantar
+17.006.	17	006	Monitoring, evaluasi dan pelaporan
+17.007.	17	007	Dst……………
+18.	18		Program pembinaan para penyandang cacat dan trauma
+18.001.	18	001	Pendataan penyandang cacat dan penyakit kejiwaan
+18.002.	18	002	Pembangunan sarana dan prasarana perawatan para penyandang cacat dan trauma
+18.003.	18	003	Pendidikan dan pelatihan bagi penyandang cacat dan eks trauma
+18.004.	18	004	Pendayagunaan para penyandang cacat dan eks trauma
+18.005.	18	005	Peningkatan keterampilan tenaga pelatiih dan  pendidik
+19.	19		Program pembinaan panti asuhan/ panti jompo
+19.001.	19	001	Pembangunan sarana dan prasarana panti asuhan/ jompo
+19.002.	19	002	Rehabilitasi sedang/ berat bangunan panti asuhan/ jompo
+19.003.	19	003	Operasi dan pemeliharaan sarana dan prasarana panti asuhan/ jompo
+19.004.	19	004	Pendidikan dan pelatihan bagi penghuni panti asuhan/ jompo
+19.005.	19	005	Peningkatan ketrampilan tenaga pelatih dan pendidik
+19.006.	19	006	Monitoring, evaluasi dan pelaporan
+20.	20		Program pembinaan eks penyandang penyakit sosial (eks narapidana, WTS, narkoba dan penyakit sosial lainnya)
+20.001.	20	001	Pendidikan dan pelatihan keterampilan berusaha bagi eks penyandang penyakit sosial
+20.002.	20	002	Pembangunan pusat bimbingan/ konseling bagi eks penyandang penyakit sosial
+20.003.	20	003	Pemantauan kemajuan perubahan sikap mental eks penyandang penyakit sosial
+20.004.	20	004	Pemberdayaan eks penyandang penyakit sosial
+20.005.	20	005	Monitoring, evaluasi dan pelaporan
+21.	21		Program Pemberdayaan Kelembagaan Kesejahteraan Sosial
+21.001.	21	001	Peningkatan peran aktif masyarakat dan dunia usaha
+21.002.	21	002	Peningkatan jejaring kerjasama pelaku-pelaku usaha kesejahteraan sosial masyarakat
+21.003.	21	003	Peningkatan kualitas SDM kesejahteraan sosial masyarakat
+21.004.	21	004	Pengembangan model kelembagaan perlindungan sosial
+21.005.	21	005	Peningkatan Sarana dan Prasarana Kepahlawanan dan Keperintisan
+21.006.	21	006	Pendataan dan updating data PMKS dan PSKS
+15.	15		Program Peningkatan Kualitas dan Produktivitas Tenaga Kerja
+15.001.	15	001	Penyusunan Database Tenaga Kerja
+15.002.	15	002	Pembangunan balai latihan kerja
+15.003.	15	003	Pengadaan peralatan pendidikan dan keterampilan bagi pencari kerja
+15.004.	15	004	Peningkatan profesionalisme tenaga kepelatihan dan instruktur BLK
+15.005.	15	005	Pengadaan bahan dan materi pendidikan dan keterampilan kerja
+15.006.	15	006	Pendidikan dan pelatihan keterampilan bagi pencari kerja
+15.007.	15	007	Pemeliharaan rutin/ berkala sarana dan prasarana BLK
+15.008.	15	008	Rehabilitasi sedang/ berat sarana dan prasarana BLK
+15.009.	15	009	Monitoring, evaluasi dan pelaporan
+16.	16		Program Peningkatan Kesempatan Kerja
+16.001.	16	001	Penyusunan informasi bursa tenaga kerja
+16.002.	16	002	Penyebarluasan informasi bursa tenaga kerja
+16.003.	16	003	Kerjasama pendidikan dan pelatihan
+16.004.	16	004	Penyiapan tenaga kerja siap pakai
+16.005.	16	005	Pengembangan kelembagaan produktivitas dan pelatihan kewirausahaan
+16.006.	16	006	Pemberian fasilitasi dan mendorong sistem pendanaan pelatihan berbasis masyarakat
+16.007.	16	007	Monitoring, evaluasi dan pelaporan
+17.	17		Program Perlindungan Pengembangan Lembaga Ketenagakerjaan
+17.001.	17	001	Pengendalian dan pembinaan lembaga penyalur tenaga kerja
+17.002.	17	002	Fasilitasi penyelesaian prosedur penyelesaian perselisihan hubungan industrial
+17.003.	17	003	Fasilitasi penyelesaian prosedur pemberian perlindungan hukum dan jaminan sosial ketenagakerjaan
+17.004.	17	004	Sosialisasi berbagai peraturan pelaksanaan tentang ketenagakerjaan
+17.005.	17	005	Peningkatan pengawasan, perlindungandan penegakkan hukum tehadap keselamatan dan kesehatan kerja
+17.006.	17	006	penyusunan kebijakan standarisasi lembaga penyalur tenaga kerja
+17.007.	17	007	Pemantauan kinerja lembaga penyalur tenaga kerja
+17.008.	17	008	Monitoring, evaluasi dan pelaporan
+17.009.	17	009	Kegiatan Penyusunan dan Perumusan UMK
+17.011.	17	011	Kegiatan Peningkatan Pengawasan Perlindungan dan Penegakan Hukum Terhadap Norma Kerja Perempuan dan Anak
+18.	18		Program Pembinaan Hubungan Industrial dan Peningkatan Jaminan Sosial Ketenagakerjaan
+18.01.	18	01	Pengelolaan Kelembagaan dan Pemasyarakatan Hubungan Industrial
+18.02.	18	02	Peningkatan Penerapan Pengupahan dan Jaminan Sosial Tenaga Kerja
+18.03.	18	03	Konsolidasi Pelaksanaan Intensitas Pencegahan PHK dan Penyelesaian Hubungan Industrial
+18.04.	18	04	Pengelolaan Persyaratan Kerja, Kesejahteraan dan Analisis Diskriminasi
+18.05.	18	05	Dukungan Manajemen dan Dukungan Teknik Lainnya
+15.	15		Program keserasian kebijakan peningkatan kualitas Anak dan Perempuan
+15.001.	15	001	Perumusan kebijakan peningkatan kualitas hidup perempuan di bidang ilmu pengetahuan dan teknologi
+15.002.	15	002	Perumusan kebijakan peningkatan peran dan posisi perempuan di bidang politik dan jabatan publik
+15.003.	15	003	Pelaksanaan sosialisasi yang terkait dengan kesetaraan gender, pemberdayaan perempuan dan perlindungan anak
+15.004.	15	004	Monitoring, evaluasi dan pelaporan
+16.	16		Program Penguatan Kelembagaan Pengarusutamaan Gender dan Anak
+16.001.	16	001	Advokasi dan fasilitasi PUG bagi perempuan
+16.002.	16	002	Fasilitasi pengembangan pusat pelayanan terpadu pemberdayaan perempuan (P2TP2)
+16.003.	16	003	Pemetaan potensi organisasi dan lembaga masyarakat yang berperan dalam pemberdayaan perempuan dan anak
+16.004.	16	004	Pengembangan materi dan pelaksanaan KIE tentang kesetaraan dan keadilan gender (KKG)
+16.005.	16	005	Penguatan kelembagaan pengarusutamaan gender dan anak
+16.006.	16	006	Peningkatan kapasitas dan jaringan kelembagaan pemberdayaan perempuan dan anak
+16.007.	16	007	Evaluasi pelaksanaan PUG
+16.008.	16	008	Pengembangan sistem informasi Gender dan Anak
+16.009.	16	009	Monitoring, evaluasi dan pelaporan
+17.	17		Program Peningkatan Kualitas Hidup dan Perlindungan Perempuan
+17.001.	17	001	Pelaksanaan kebijakan perlindungan perempuan di daerah
+17.002.	17	002	Pelatihan bagi pelatih (TOT) SDM pelayanan dan pendampingan korban KDRT
+17.003.	17	003	Penyusunan sistem perlindungan bagi perempuan
+17.004.	17	004	Sosialisasi dan advokasi kebijakan penghapusan buta aksara perempuan (PBAP)
+17.005.	17	005	Sosialisasi dan advokasi kebijakan perlindungan tenaga kerja perempuan
+17.006.	17	006	Sosialisasi sistem pencatatan dan pelaporan KDRT
+17.007.	17	007	Penyusunan profil perlindungan perempuan lansia dan cacat
+17.008.	17	008	Fasilitasi upaya perlindungan perempuan terhadap tindak kekerasan
+17.009.	17	009	Monitoring, evaluasi dan pelaporan
+18.	18		Program Peningkatan peran serta dan kesetaraan gender dalam pembangunan
+18.001.	18	001	Kegiatan pembinaan organisasi perempuan
+18.002.	18	002	Kegiatan pendidikan dan pelatihan peningkatan peran serta dan kesetaraan gender
+18.003.	18	003	Kegiatan penyuluhan bagi ibu rumah tangga dalam membangun keluarga sejahtera
+18.004.	18	004	Kegiatan bimbingan manajemen usaha bagi perempuan dalam mengelola usaha
+18.005.	18	005	Kegiatan pameran hasil karya perempuan di bidang pembangunan
+18.006.	18	006	Monitoring, evaluasi dan pelaporan
+15.	15		Program Peningkatan Ketahanan Pangan
+15.001.	15	001	Penanganan daerah rawan pangan
+15.002.	15	002	Penyusunan data base potensi produksi pangan
+15.003.	15	003	Analisis dan penyusunan pola konsumsi dan suplai pangan
+15.004.	15	004	Analisis rasio jumlah penduduk terhadap jumlah kebutuhan pangan
+15.005.	15	005	Laporan berkala kondisi ketahanan pangan daerah
+15.006.	15	006	Kajian rantai pasokan dan pemasaran pangan
+15.007.	15	007	Monitoring, evaluasi dan pelaporan kebijakan perberasan
+15.008.	15	008	Monitoring, evaluasi dan pelaporan kebijakan subsidi pertanian
+15.009.	15	009	Pemanfaatan pekarangan untuk pengembangan pangan
+15.010.	15	010	Pemantauan dan analisis akses pangan masyarakat
+15.011.	15	011	Pemantauan dan analisis harga pangan pokok
+15.012.	15	012	Penanganan pasca panen dan pengolahan hasil pertanian
+15.013.	15	013	Pengembangan cadangan pangan daerah
+15.014.	15	014	Pengembangan desa mandiri pangan
+15.015.	15	015	Pengembangan intensifikasi tanaman padi, palawija
+15.016.	15	016	Pengembangan diversifikasi tanaman
+15.017.	15	017	Pengembangan pertanian pada lahan kering
+15.018.	15	018	Pengembangan lumbung pangan desa
+15.019.	15	019	Pengembangan model distribusi pangan yang efisien
+15.020.	15	020	Pengembangan perbenihan/perbibitan
+15.021.	15	021	Pengembangan sistem informasi pasar
+15.022.	15	022	Peningkatan mutu dan keamanan pangan
+15.023.	15	023	Koordinasi kebijakan perberasan
+15.024.	15	024	Koordinasi perumusan kebijakan pertanahan dan infrastruktur pertanian dan perdesaan
+15.025.	15	025	Penelitian dan pengembangan sumberdaya pertanian
+15.026.	15	026	Penelitian dan pengembangan teknologi bioteknologi
+15.027.	15	027	Penelitian dan pengembangan teknologi budidaya
+15.028.	15	028	Penelitian dan pengembangan teknologi pasca panen
+15.029.	15	029	Peningkatan produksi, produktivitas dan mutu produk perkebunan, produk pertanian
+15.030.	15	030	Penyuluhan sumber pangan alternative
+15.031.	15	031	Monitoring, evaluasi dan pelaporan
+15.032.	15	032	Dst..................
+15.	15		Program pembangunan sistem pendaftaran tanah
+15.001.	15	001	Penyusunan sistem pendaftaran tanah
+15.002.	15	002	Sosialisasi sistem pendaftaran tanah
+15.003.	15	003	Dst…
+16.	16		Program Penataan penguasaan, pemilikan, penggunaan dan pemanfaatan tanah
+16.001.	16	001	Penataan penguasaan, pemilikan , penggunaan dan pemanfaatan tanah
+16.002.	16	002	Penyuluhan hukum pertanahan
+17.	17		Program Penyelesaian konflik-konflik pertanahan
+17.001.	17	001	Fasilitasi penyelesaian konflik-konflik pertanahan
+18.	18		Program Pengembangan Sistem Informasi Pertanahan
+18.001.	18	001	Penyusunan sistem informasi pertanahan yang handal
+15.	15		Program Pengembangan Kinerja Pengelolaan Persampahan
+15.001.	15	001	Penyusunan kebijakan manajemen pengelolaan sampah
+15.002.	15	002	Penyediaan prasarana dan sarana pengelolaan persampahan
+15.003.	15	003	Penyusunan kebijakan kerjasama pengelolaan persampahan
+15.004.	15	004	Peningkatan operasi dan pemeliharaan prasarana dan sarana persampahan
+15.005.	15	005	Pengembangan teknoligi pengolahan persampahan
+15.006.	15	006	Bimbingan teknis persampahan
+15.008.	15	008	Kerjasama pengelolaan persampahan
+15.009.	15	009	Kerjasama pengelolaan sampah antar daerah
+15.010.	15	010	Sosialisasi kebijakan pengelolaan persampahan
+15.011.	15	011	Peningkatan peran serta masyarakat dalam pengelolaan persampahan
+15.012.	15	012	Monitoring, evaluasi dan pelaporan
+16.	16		Program Pengendalian Pencemaran dan Perusakan Lingkungan Hidup
+16.001.	16	001	Koordinasi Penilaian Kota Sehat/Adipura
+16.002.	16	002	Koordinasi penilaian langit biru
+16.003.	16	003	Pemantauan Kualitas Lingkungan
+16.004.	16	004	Pengawasan pelaksanaan kebijakan bidang lingkungan hidup
+16.005.	16	005	Koordinasi penertiban kegiatan Pertambangan Tanpa Izin (PETI)
+16.006.	16	006	Pengelolaan B3 dan Limbah B3
+16.007.	16	007	Pengkajian dampak lingkungan
+16.008.	16	008	Peningkatan pengelolaan lingkungan pertambangan
+16.009.	16	009	Peningkatan peringkat kinerja perusahaan (proper)
+16.010.	16	010	Koordinasi pengelolaan Prokasih/Superkasih
+16.011.	16	011	Pengembangan produksi ramah lingkungan
+16.012.	16	012	Penyusunan kebijakan pengendalian pencemaran dan perusakan lingkungan hidup
+16.013.	16	013	Koordinasi penyusunan AMDAL
+16.014.	16	014	Peningkatan peran serta masyarakat dalam pengendalian lingkungan hidup
+16.015.	16	015	Pengkajian pengembangan sistem insentif dan disinsentif
+16.016.	16	016	Monitoring, evaluasi dan pelaporan
+16.021.	16	021	Penanganan Intensif Kegiatan Usaha Bermasalah Lingkungan
+17.	17		Program Perlindungan dan Konservasi Sumber Daya Alam
+17.001.	17	001	Konservasi Sumber Daya Air dan Pengendalian Kerusakan Sumber-Sumber Air
+17.002.	17	002	Pantai dan Laut Lestari
+17.003.	17	003	Pengembangan dan Pemantapan Kawasan Konservasi Laut, Suaka Perikanan, dan Keanekaragaman Hayati Laut
+17.004.	17	004	Pengembangan Ekowisata dan Jasa Lingkungan
+17.005.	17	005	Pengendalian Dampak Perubahan Iklim
+17.006.	17	006	Pengendalian Kerusakan Hutan dan Lahan
+17.007.	17	007	Peningkatan Konservasi Daerah Tangkapan Air dan Sumber-Sumber Air
+17.008.	17	008	Pengendalian dan pengawasan pemanfaatan SDA
+17.009.	17	009	Koordinasi pengelolaan konservasi SDA
+17.010.	17	010	Pengelolaan keanekaragaman hayati dan ekosistem
+17.011.	17	011	Pengembangan dan Pengelolaan Kawasan World Heritage Laut
+17.012.	17	012	Pengembangan Kerjasama Pengelolaan Kawasan Konservasi Laut Regional
+17.013.	17	013	Koordinasi pengendalian Kebakaran Hutan
+17.014.	17	014	Peningkatan peran serta masyarakat dalam perlindungan dan konservasi SDA
+17.015.	17	015	Koordinasi peningkatan pengelolaan kawasan konservasi
+17.016.	17	016	Monitoring, evaluasi dan pelaporan
+18.	18		Program Rehabilitasi dan Pemulihan Cadangan Sumber daya Alam
+18.001.	18	001	Pengelolaan dan rehabilitasi terumbu karang, mangrove, padang lamun, estuaria dan teluk
+18.002.	18	002	Perencanaan dan penyusunan program pembangunan pengendalian sumber daya alam dan lingkungan hidup
+18.003.	18	003	Rehabilitasi hutan dan lahan
+18.004.	18	004	Pengembangan kelembagaan rehabilitasi hutan dan lahan
+18.005.	18	005	Penyusunan pedoman standar dan prosedur rehabilitasi terumbu karang, mangrove, dan padang lamun
+18.006.	18	006	Sosialisasi pedoman standar dan prosedur rehabilitasi terumbu karang, mangrove, dan padang lamun
+18.007.	18	007	Peningkatan peran serta masyarakat dalam rehabilitasi dan pemulihan cadangan SDA
+18.008.	18	008	Monitoring, evaluasi dan pelaporan
+19.	19		Program Peningkatan Kualitas dan Akses Informasi Sumber Daya Alam dan Lingkungan Hidup
+19.001.	19	001	Peningkatan edukasi dan komunikasi masyarakat di bidang lingkungan
+19.002.	19	002	Pengembangan data dan informasi lingkungan
+19.003.	19	003	Penyusunan data sumberdaya alam dan neraca sumber daya hutan (NSDH) nasional dan daerah
+19.004.	19	004	Penguatan jejaring informasi lingkungan pusat dan daerah
+19.005.	19	005	Monitoring, evaluasi dan pelaporan
+19.006.	19	006	Apresiasi Kinerja Pengelolaan Lingkungan Hidup
+20.	20		Program Peningkatan Pengendalian Polusi
+20.001.	20	001	Pengujian emisi kendaraan bermotor
+20.002.	20	002	Pengujian emisi udara akibat aktivitas industri
+20.003.	20	003	Pengujian kadar polusi limbah padat dan limbah cair
+20.004.	20	004	Pembangunan tempat pembuangan benda padat/cair yang menimbulkan polusi
+20.005.	20	005	Penyuluhan dan pengendalian polusi dan pencemaran
+20.006.	20	006	Monitoring, evaluasi dan pelaporan
+21.	21		Program pengembangan ekowisata dan jasa lingkungan di kawasan-kawasan konservasi laut dan hutan
+21.001.	21	001	Pengembangan ekowisata dan jasa lingkungan di kawasan konservasi
+21.002.	21	002	Pengembangan konservasi laut dan hutan wisata
+21.003.	21	003	Monitoring, evaluasi dan pelaporan
+22.	22		Program Pengendalian kebakaran hutan
+22.001.	22	001	Pengadaan alat pemadam kebakaran hutan
+22.002.	22	002	Pemetaan kawasan rawan kebakaran hutan
+22.003.	22	003	Koordinasi pengendalian kebakaran hutan
+22.004.	22	004	Penyusunan norma, standar, prosedur dan manual pengendalian kebakaran hutan
+22.005.	22	005	Sosialisasi kebijakan pencegahan kebakaran hutan
+22.006.	22	006	Monitoring, evaluasi dan pelaporan
+22.007.	22	007	Dst….
+23.	23		Program Pengelolaan dan rehabilitasi ekosistem pesisir dan laut
+23.001.	23	001	Pengelolaan dan rehabilitasi ekosistem pesisir dan laut
+23.002.	23	002	Pengembangan sistem manajemen pengelolaan pesisir laut
+24.	24		Program Pengelolaan ruang terbuka hijau (RTH)
+24.001.	24	001	Penyusunan kebijakan, norma, standard, prosedur dan manual pengelolaan RTH
+24.002.	24	002	Sosialisasi kebijakan, norma, standard, prosedur dan manual pengelolaan RTH
+24.003.	24	003	Penyusunan dan analisis data/informasi pengelolaan RTH
+24.004.	24	004	Penyusunan program pengembahan RTH
+24.005.	24	005	Penataan RTH
+24.006.	24	006	Pemeliharaan RTH
+24.007.	24	007	Pengembangan taman rekreasi
+24.008.	24	008	Pengawasan dan pengendalian RTH
+24.009.	24	009	Peningkatan peran serta masyarakat dalam pengelolaan RTH
+24.010.	24	010	Monitoring dan evaluasi
+25.	25		Program Pengelolaan Mutu Laboratorium Lingkungan
+25.01.	25	01	Bintek Kelaboratoriuman
+25.02.	25	02	Peningkatan Operasional dan Pemeliharaan Sarana Laboratorium
+25.03.	25	03	Pengujian Kualitas Limbah Cair dan Udara
+25.04.	25	04	Penyediaan Sarana Pengelolaan Laboratorium
+15.	15		Program Penataan Administrasi Kependudukan
+15.001.	15	001	Pembangunan dan Pengoperasian SIAK secara terpadu
+15.002.	15	002	Pelatihan tenaga pengelola SIAK
+15.003.	15	003	Implementasi Sistem Administrasi Kependudukan (membangun, updating, dan pemeliharaan)
+15.004.	15	004	Pembentukan dan Penataan Sistem Koneksi (Inter-Phase Tahap Awal) NIK
+15.005.	15	005	Koordinasi pelaksanaan kebijakan Kependudukan
+15.006.	15	006	Pengolahan dalam penyusunan laporan informasi kependudukan
+15.007.	15	007	Penyediaan informasi yang dapat diakses masyarakat
+15.008.	15	008	Peningkatan pelayanan publik dalam bidang kependudukan
+15.009.	15	009	Pengembangan data base kependudukan
+15.010.	15	010	Penyusunan kebijakan kependudukan
+15.011.	15	011	Peningkatan Kapasitas Aparat Kependudukan dan Catatan Sipil
+15.012.	15	012	Sosialisasi kebijakan kependudukan
+15.014.	15	014	Monitoring, evaluasi dan pelaporan
+15.015.	15	015	Peningkatan Kapasitas Kelembagaan Kependudukan
+15.016.	15	016	Peningkatan Pelayanan KTP Elektronik
+15.017.	15	017	Peningkatan Pelayanan Pencatatan Sipil
+15.018.	15	018	Penataan Dokumen Kependudukan dan Pencatatan Sipil
+15.019.	15	019	Pengembangan Sistem Administrasi Kependudukan (SAK) Terpadu
+15.	15		Program Peningkatan Keberdayaan Masyarakat Pedesaan
+15.001.	15	001	Pemberdayaan Lembaga dan Organisasi Masyarakat Perdesaan
+15.002.	15	002	Penyelenggaraan Pendidikan dan Pelatihan Tenaga Teknis dan Masyarakat
+15.003.	15	003	Penyelenggaraan Diseminasi Informasi bagi Masyarakat Desa
+16.	16		Program Pengembangan Lembaga Ekonomi Pedesaan
+16.001.	16	001	Pelatihan ketrampilan usaha budidaya tanaman
+16.002.	16	002	Pelatihan Keterampilan Manajemen Badan Usaha Milik Desa
+16.003.	16	003	Pelatihan ketrampilan usaha industri kerajinan
+16.004.	16	004	Pelatihan ketrampilan usaha pertanian dan perternakan
+16.005.	16	005	Fasilitasi permodalan bagi usaha mikro kecil dan menengah di perdesaan
+16.006.	16	006	Kemitraan swasta dan usaha mikro kecil dan menengah di pedesaan
+16.007.	16	007	Monitoring, evaluasi dan pelaporan
+17.	17		Program peningkatan partisipasi masyarakat dalam membangun desa
+17.001.	17	001	Pembinaan kelompok masyarakat pembangunan desa
+17.002.	17	002	Pelaksanaan musyawarah pembangunan desa
+17.003.	17	003	Pemberian stimulan pembangunan desa
+17.004.	17	004	Monitoring, evaluasi dan pelaporan
+17.005.	17	005	...............................
+18.	18		Program peningkatan kapasitas aparatur pemerintah desa
+18.001.	18	001	Pelatihan aparatur pemerintah desa dalam bidang pembangunan kawasan perdesaan
+18.002.	18	002	Pelatihan aparatur pemerintah desa dalam bidang pengelolaan keuangan desa
+18.003.	18	003	Pelatihan aparatur pemerintah desa dalam bidang manajemen pemerintahan desa
+18.004.	18	004	Monitoring, evaluasi dan pelaporan
+19.	19		Program peningkatan peran perempuan di perdesaan
+19.001.	19	001	Pelatihan perempuan di perdesaan dalam bidang usaha ekonomi produktif
+20.	20		Program Pemberdayaan Masyarakat
+20.001.	20	001	Pemberdayaan Masyarakat Kelurahan Serang
+20.002.	20	002	Pemberdayaan Masyarakat Kelurahan Cipare
+20.03.	20	03	Pemberdayaan Masyarakat Kelurahan Sumur Pecung
+20.04.	20	04	Pemberdayaan Masyarakat Kelurahan Kota Baru
+20.05.	20	05	Pemberdayaan Masyarakat Kelurahan Lopang
+20.06.	20	06	Pemberdayaan Masyarakat Kelurahan Cimuncang
+20.07.	20	07	Pemberdayaan Masyarakat Kelurahan Unyur
+20.08.	20	08	Pemberdayaan Masyarakat Kelurahan Sukawana
+20.09.	20	09	Pemberdayaan Masyarakat Kelurahan Lontar Baru
+20.10.	20	10	Pemberdayaan Masyarakat Kelurahan Kaligandu
+20.11.	20	11	Pemberdayaan Masyarakat Kelurahan Terondol
+20.12.	20	12	Pemberdayaan Masyarakat Kelurahan Kagungan
+20.13.	20	13	Pemberdayaan Masyarakat Kelurahan Cipocok Jaya
+20.14.	20	14	Pemberdayaan Masyarakat Kelurahan Karundang
+20.15.	20	15	Pemberdayaan Masyarakat Kelurahan Penancangan
+20.16.	20	16	Pemberdayaan Masyarakat Kelurahan Banjar Agung
+20.17.	20	17	Pemberdayaan Masyarakat Kelurahan Banjarsari
+20.18.	20	18	Pemberdayaan Masyarakat Kelurahan Tembong
+20.19.	20	19	Pemberdayaan Masyarakat Kelurahan Dalung
+20.20.	20	20	Pemberdayaan Masyarakat Kelurahan Gelam
+20.21.	20	21	Pemberdayaan Masyarakat Kelurahan Kasemen
+20.22.	20	22	Pemberdayaan Masyarakat Kelurahan Masjid Priyayi
+20.23.	20	23	Pemberdayaan Masyarakat Kelurahan Terumbu
+20.24.	20	24	Pemberdayaan Masyarakat Kelurahan Warung Jaud
+20.25.	20	25	Pemberdayaan Masyarakat Kelurahan Bendung
+20.26.	20	26	Pemberdayaan Masyarakat Kelurahan Banten
+20.27.	20	27	Pemberdayaan Masyarakat Kelurahan Sawah Luhur
+20.28.	20	28	Pemberdayaan Masyarakat Kelurahan Kilasah
+20.29.	20	29	Pemberdayaan Masyarakat Kelurahan Kasunyatan
+20.30.	20	30	Pemberdayaan Masyarakat Kelurahan Margaluyu
+20.31.	20	31	Pemberdayaan Masyarakat Kelurahan Taktakan
+20.32.	20	32	Pemberdayaan Masyarakat Kelurahan Sayar
+20.33.	20	33	Pemberdayaan Masyarakat Kelurahan Pancur
+20.34.	20	34	Pemberdayaan Masyarakat Kelurahan Kuranji
+20.35.	20	35	Pemberdayaan Masyarakat Kelurahan Kalanganyar
+20.36.	20	36	Pemberdayaan Masyarakat Kelurahan Cilowong
+20.37.	20	37	Pemberdayaan Masyarakat Kelurahan Panggungjati
+20.38.	20	38	Pemberdayaan Masyarakat Kelurahan Drangong
+20.39.	20	39	Pemberdayaan Masyarakat Kelurahan Umbul Tengah
+20.40.	20	40	Pemberdayaan Masyarakat Kelurahan Sepang
+20.41.	20	41	Pemberdayaan Masyarakat Kelurahan Lialang
+20.42.	20	42	Pemberdayaan Masyarakat Kelurahan Taman Baru
+20.43.	20	43	Pemberdayaan Masyarakat Kelurahan Walantaka
+20.44.	20	44	Pemberdayaan Masyarakat Kelurahan Cigoong
+20.45.	20	45	Pemberdayaan Masyarakat Kelurahan Nyapah
+20.46.	20	46	Pemberdayaan Masyarakat Kelurahan Pangampelan
+20.47.	20	47	Pemberdayaan Masyarakat Kelurahan Kiara
+20.48.	20	48	Pemberdayaan Masyarakat Kelurahan Pager Agung
+20.49.	20	49	Pemberdayaan Masyarakat Kelurahan Kalodran
+20.50.	20	50	Pemberdayaan Masyarakat Kelurahan Kepuren
+20.51.	20	51	Pemberdayaan Masyarakat Kelurahan Teritih
+20.52.	20	52	Pemberdayaan Masyarakat Kelurahan Pabuaran
+20.53.	20	53	Pemberdayaan Masyarakat Kelurahan Pasuluhan
+20.54.	20	54	Pemberdayaan Masyarakat Kelurahan Tegalsari
+20.55.	20	55	Pemberdayaan Masyarakat Kelurahan Pipitan
+20.56.	20	56	Pemberdayaan Masyarakat Kelurahan Lebakwangi
+20.57.	20	57	Pemberdayaan Masyarakat Kelurahan Curug
+20.58.	20	58	Pemberdayaan Masyarakat Kelurahan Tinggar
+20.59.	20	59	Pemberdayaan Masyarakat Kelurahan Kemanisan
+20.60.	20	60	Pemberdayaan Masyarakat Kelurahan Cipete
+20.61.	20	61	Pemberdayaan Masyarakat Kelurahan Cilaku
+20.62.	20	62	Pemberdayaan Masyarakat Kelurahan Pancalaksana
+20.63.	20	63	Pemberdayaan Masyarakat Kelurahan Sukawana
+20.64.	20	64	Pemberdayaan Masyarakat Kelurahan Sukalaksana
+20.65.	20	65	Pemberdayaan Masyarakat Kelurahan Curug Manis
+20.66.	20	66	Pemberdayaan Masyarakat Kelurahan Sukajaya
+15.001.	15	001	Penyediaan Pelayanan KB dan Alat Kontrasepsi bagi Keluarga Miskin
+15.002.	15	002	Pelayanan KIE
+15.003.	15	003	Peningkatan Perlindungan Hak Reproduksi Individu
+15.004.	15	004	Promosi Pelayanan Khiba
+15.005.	15	005	Pembinaan Keluarga Berencana
+15.006.	15	006	Pengadaan sarana mobilitas tim KB keliling
+15.007.	15	007	Pembinaan Daerah Terpencil / Penduduk Pulau
+15.008.	15	008	Pameran Pembangunan
+15.009.	15	009	Pembinaan Saka Kencana
+16.	16		Program Kesehatan Reproduksi Remaja
+16.001.	16	001	Advokasi dan KIE tentang Kesehatan Reproduksi Remaja (KRR)
+16.002.	16	002	Memperkuat dukungan dan partisipasi masyarakat
+17.	17		Program pelayanan kontrasepsi
+17.001.	17	001	Pelayanan konseling KB
+17.002.	17	002	Pelayanan pemasangan kontrasepsi KB
+17.003.	17	003	Pengadaan alat kontrasepsi
+17.004.	17	004	Pelayanan KB medis operasi
+18.	18		Program pembinaan peran serta masyarakat dalam pelayanan KB/KR yang madiri
+18.001.	18	001	Fasilitasi pembentukan kelompok masyarakat peduli KB
+18.002.	18	002	Operasional Kegiatan Institusi Pos KB Desa
+18.003.	18	003	Operasional Kegiatan Institusi Sub Pos KB Desa
+18.004.	18	004	Bimbingan Teknis Pos KB Desa
+18.005.	18	005	Bimbingan Teknis Sub Pos KB Desa
+18.006.	18	006	Momentum TNI Manunggal KB- Kes (TMKK)
+18.007.	18	007	Momentum Kesatuan Gerak PKK KB-KES
+18.008.	18	008	Momentum Hari Keluarga Nasional
+18.009.	18	009	Momentum Hari Pertanian, Koperasi dan KB
+19.	19		Program promosi kesehatan ibu, bayi dan anak melalui kelompok kegiatan di masyarakat
+19.001.	19	001	Penyuluhan kesehatan ibu, bayi dan anak melalui kelompok kegiatan di masyarakat
+19.002.	19	002	Dst……………
+20.	20		Program pengembangan pusat pelayanan informasi dan konseling KRR
+20.001.	20	001	Pendirian pusat pelayanan informasi dan konseling KKR
+20.002.	20	002	Fasilitasi forum pelayanan KKR bagi kelompok remaja dan kelompok sebaya diluar sekolah
+21.	21		Program peningkatan penanggulangan narkoba, PMS termasuk HIV/ AIDS
+21.001.	21	001	Penyuluhan penanggulangan narkoba, PMS termasuk HIV/ AIDS
+21.002.	21	002	Dst……..
+22.	22		Program pengembangan bahan informasi tentang pengasuhan dan pembinaan tumbuh kembang anak
+22.001.	22	001	Pengumpulan bahan informasi tentang pengasuhan dan pembinaan tumbuh kembang anak
+22.002.	22	002	Dst……..
+23.	23		Program penyiapan tenaga pendamping kelompok bina keluarga
+23.001.	23	001	Pelatihan tenaga pendamping kelompok bina keluarga di kecamatan
+24.	24		Program pengembangan model operasional BKB-Posyandu-PADU
+24.01.	24	01	Pengkajian pengembangan model operasional BKB-Posyandu-PADU
+24.02.	24	02	Pengkajian Pengembangan Model Op. BKB Posyandu-PADU
+25.	25		Program Pengendalian Data Mikro Keluarga
+25.01.	25	01	Persiapan Pelaksanaan dan Sosialisasi Data Mikro Keluarga
+25.03.	25	03	Bintek Pencatatan dan pelaporan RR bagi Pos KB/PLKB
+15.	15		Program Pembangunan Prasarana dan Fasilitas Perhubungan
+15.001.	15	001	Perencanaan pembangunan prasaranan dan fasilitas perhubungan
+15.002.	15	002	Penyusunan norma, kebijakan, standar dan prosedur bidang perhubungan
+15.003.	15	003	Koordinasi dalam pembangunan prasaranan dan fasilitas perhubungan
+15.004.	15	004	Sosialisasi kebijakan di bidang perhubungan
+15.005.	15	005	Pembangunan sarana dan prasarana jembatan timbang
+15.006.	15	006	Peningkatan pengelolaan terminal angkutan sungai, danau dan penyebrangan
+15.007.	15	007	Peningkatan pengelolaan terminal angkutan darat
+15.008.	15	008	Monitoring, evaluasi dan pelaporan
+15.009.	15	009	Pemeliharaan PJU
+16.	16		Program Rehabilitasi dan Pemeliharaan Prasarana dan Fasilitas LLAJ
+16.001.	16	001	Rehabilitasi/pemeliharaan sarana alat pengujian kendaraan bermotor
+16.002.	16	002	Rehabilitasi/pemeliharaan prasarana balai pengujian kendaraan bermotor
+16.003.	16	003	Rehabilitasi/pemeliharaan sarana dan prasarana jembatan timbang
+16.004.	16	004	Rehabilitasi/pemeliharaan terminal/pelabuhan
+16.005.	16	005	Pemeliharaan Fasilitas LLAJ
+16.006.	16	006	Pemeliharaan Alat-Alat Bengkel
+17.	17		Program peningkatan pelayanan angkutan
+17.001.	17	001	Kegiatan penyuluhan bagi para sopir/juru mudi untuk peningkatan keselamtan penumpang
+17.002.	17	002	Kegiatan peningkatan disiplin masyarakat menggunakan angkutan
+17.003.	17	003	Kegiatan temu wicara pengelola angkutan umum guna meningkatkan keselamatan penumpang
+17.004.	17	004	Kegiatan uji kelayakan sarana transportasi guna keselamatan penumpang
+17.005.	17	005	Kegiatan pengendalian disiplin pengoperasian angkutan umum di jalan raya
+17.006.	17	006	Kegiatan penciptaan keamanan dan kenyamanan penumpang dilingkungan terminal
+17.007.	17	007	Kegiatan pengawasan peralatan keamanan dalam keadaaan darurat dan perlengkapan pertolongan pertama
+17.008.	17	008	Kegiatan penataan tempat-tempat pemberhentian angkutan umum
+17.009.	17	009	Kegiatan penciptaan disiplin dan pemeliharaan kebersihan di lingkungan terminal
+17.010.	17	010	Kegiatan penciptaan layanan cepat, tepat, murah dan mudah
+17.011.	17	011	Pengumpulan dan analisis data base pelayanan jasa angkutan
+17.012.	17	012	Pengembangan sarana dan prasarana pelayanan jasa nagkutan
+17.013.	17	013	Fasilitasi perijinan di bidang perhubungan
+17.014.	17	014	Sosialisasi/penyuluhan ketertiban lalu lintas dan angkutan
+17.015.	17	015	Kegiatan pemilihan dan pemberian penghargaan sopir/juru mudik/awak kendaraaan angkutan umum teladan
+17.016.	17	016	Koordinasi dalam peningkatan pelayanan angkutan
+17.017.	17	017	Monitoring, evaluasi dan pelaporan
+17.018.	17	018	Penyediaan Bahan / Material Penunjang PKB
+18.	18		Program Pembangunan Sarana dan Prasarana Perhubungan
+18.001.	18	001	Pembangunan gedung terminal
+18.002.	18	002	Pembangunan halte bus, taxi gedung terminal
+18.003.	18	003	Pembangunan jembatan penyebrangan gedung terminal
+19.	19		Program pengendalian dan pengamanan lalu lintas
+19.001.	19	001	Pengadaan rambu-rambu lalu lintas
+19.002.	19	002	Pengadaan Marka Jalan
+19.003.	19	003	Pengadaan pagar pengaman jalan
+19.007.	19	007	Pengadaan dan Pemasangan Warning Light
+19.008.	19	008	Survey Daerah Rawan Kecelakaan Lalu Lintas
+19.009.	19	009	Pelaksanaan Pengaturan Lalu Lintas
+19.012.	19	012	Pelaksanaan Manajemen dan Rekayasa Lalu Lintas dan Angkutan
+19.013.	19	013	Pengadaan alat Sarana dan prasarana Lintasan Kereta Api
+20.	20		Program peningkatan kelaikan pengoperasian kendaraan bermotor
+20.001.	20	001	Pembangunan balai pengujian kendaraan bermotor
+20.002.	20	002	Pengadaan alat pengujian kendaraan bermotor
+20.003.	20	003	Pelaksanaan uji petik kendaraan bermotor
+22.	22		Program Peningkatan Sarana dan Prasarana Serta Operasional Perparkiran
+22.01.	22	01	Pembinaan dan penertiban petugas parkir
+23.	23		Program Peningkatan dan Pengamanan Lalu Lintas Laut dan Kepelabuhan
+23.01.	23	01	Pengawasan dan pemantauan Kunjungan Kapal serta Patroli Kawasan Perairan
+23.04.	23	04	Sosialisasi kebijakan perhubungan
+25.	25		Program Peningkatan SDM Perhubungan
+25.02.	25	02	Bimbingan Teknis Bintek Orientasi LLAJ
+15.	15		Program Pengembangan Komunikasi, Informasi dan Media Massa
+15.001.	15	001	Fasilitasi penyempurnaan peraturan perundangan penyiaran dan KMIP
+15.002.	15	002	Pembinaan dan Pengembangan Jaringan Komunikasi dan Informasi
+15.003.	15	003	Pembinaan dan pengembangan sumber daya komunikasi dan informasi
+15.004.	15	004	Penelitian dan pengembangan ilmu pengetahuan dan teknologi
+15.005.	15	005	Pengadaan alat studio dan komunikasi
+15.006.	15	006	Pengkajian dan pengembangan sistem informasi
+15.007.	15	007	Perencanaan dan pengembangan kebijakan komunikasi dan informasi
+15.008.	15	008	Pengawasan dan pengendalian internet sehat
+15.09.	15	09	Sosialisasi Kegiatan Internet
+15.10.	15	10	Pendataan dan Monitoring Alat Komunikasi
+15.11.	15	11	Pengelolaan Madani Smart City
+15.12.	15	12	Penyusunan Sistem Informasi Terhadap Layanan Publik
+15.13.	15	13	Sosialisasi Pemanfaatan Teknologi Informasi
+16.	16		Program pengkajian dan penelitian bidang komunikasi dan informasi
+16.001.	16	001	Pengkajian dan penelitian bidang informasi dan komunikasi
+16.002.	16	002	Dst……………
+17.	17		Program fasilitasi Peningkatan SDM bidang komunikasi dan informasi
+17.001.	17	001	Pelatihan SDM dalam bidang komunikasi dan informasi
+18.	18		Program kerjasama informasi dan media massa
+18.001.	18	001	Penyebarluasan informasi pembangunan daerah
+18.002.	18	002	Penyebarluasan informasi penyelenggaraan pemerintahan daerah
+18.003.	18	003	Penyebarluasan informasi yang bersifat penyuluhan bagi masyarakat
+19.	19		Program Pengembangan Infrastruktur dan Layanan Telekomunikasi
+19.001.	19	001	Penyediaan infrastruktur dan layanan telekomunikasi
+26.	26		Program Peningkatan Sarana dan Prasarana Pos dan Telekomunikasi
+26.01.	26	01	Pengadaan Alat Telekomunikasi
+26.02.	26	02	Pengadaan Reapeter Link
+26.03.	26	03	Pendataan dan Monitoring Alat Komunikasi
+15.	15		Program penciptaan iklim Usaha Kecil Menengah yang kondusif
+15.001.	15	001	Penyusunan kebijakan tentang Usaha Kecil Menengah
+15.002.	15	002	Sosialisasi kebijakan tentang Usaha Kecil Menengah
+15.003.	15	003	Fasilitasi kemudahan formalisasi badan Usaha Kecil Menengah
+15.004.	15	004	Pendirian unit penanganan pengaduan
+15.005.	15	005	Pengkajian dampak regulasi/ kebijakan nasional
+15.006.	15	006	Perencanaan, koordinasi dan pengembangan Usaha Kecil Menengah
+15.007.	15	007	Pengembangan jaringan infrastruktur Usaha Kecil Menengah
+15.008.	15	008	Fasilitasi pengembangan Usaha Kecil Menengah
+15.009.	15	009	Fasilitasi Permasalahan proses produksi Usaha Kecil Menengah
+15.010.	15	010	Pemberian Fasilitasi Pengamanan kawasan Usaha Kecil Menengah
+15.011.	15	011	Monitoring, evaluasi dan pelaporan
+16.	16		Program Pengembangan Kewirausahaan dan Keunggulan Kompetitif Usaha Kecil Menengah
+16.001.	16	001	Fasilitasi pengembangan inkubator teknologi dan bisnis
+16.002.	16	002	Memfasilitasi peningkatan kemitraan investasi Usaha Kecil Menengah dengan perusahaan asing
+16.003.	16	003	Memfasilitasi peningkatan kemitraan usaha bagi Usaha Mikro Kecil Menengah
+16.004.	16	004	Peningkatan kerjasama di bidang HAKI
+16.005.	16	005	Fasilitasi Pengembangan sarana promosi hasil produksi
+16.006.	16	006	Penyelenggaraan pelatihan kewirausahaan
+16.007.	16	007	Pelatihan manajemen pengelolaan koperasi/ KUD
+16.008.	16	008	Sosialisasi HAKI kepada Usaha Mikro Kecil Menengah
+16.009.	16	009	Sosialisasi dan pelatihan pola pengelolaan limbah industri dalam menjaga kelestarian kawasan Usaha Mikro Kecil Menengah
+16.010.	16	010	Monitoring, evaluasi dan pelaporan
+17.	17		Program Pengembangan Sistem Pendukung Usaha Bagi Usaha Mikro Kecil Menengah
+17.001.	17	001	Sosialisasi dukungan informasi penyediaan permodalan
+17.002.	17	002	Pengembangan klaster bisnis
+17.003.	17	003	Koordinasi pemanfaatan fasilitas pemerintah untuk Usaha Kecil Menengah dan koperasi
+17.004.	17	004	Koordinasi penggunaan dana pemerintahan bagi Usaha Mikro Kecil Menengah
+17.005.	17	005	Pemantauan pengelolaan penggunaan dana pemerintah bagi Usaha Mikro Kecil Menengah
+17.006.	17	006	Pengembangan sarana pemasaran produk Usaha Mi kro Kecil Menengah
+17.007.	17	007	Peningkatan jaringan kerjasama antar lembaga
+17.008.	17	008	Penyelenggaraan pembinaan industri rumah tangg, industri kecil dan industri menengah
+17.009.	17	009	Penyelenggaraan promosi produk Usaha Mikro Kecil Menengah
+17.010.	17	010	Pengembangan kebijakan dan program peningkatan ekonomi local
+17.011.	17	011	Monitoring, evaluasi dan pelaporan
+18.	18		Program Peningkatan Kualitas Kelembagaan Koperasi
+18.001.	18	001	Koordinasi pelaksanaan kebijakan dan program pembangunan koperasi
+18.002.	18	002	Peningkatan sarana dan prasarana pendidikan dan pelatihan perkoperasian
+18.003.	18	003	Pembangunan sistem informasi perencanaan pengembangan Perkoperasian
+18.004.	18	004	Sosialisasi prinsip-prinsip pemahaman perkoperasian
+18.005.	18	005	Permbinaan, pengawasan dan penghargaan koperasi berprestasi
+18.006.	18	006	Peningkatan dan pengembangan jaringan kerjasama usaha koperasi
+18.007.	18	007	Penyebaran model-model pola pengembangan koperasi
+18.008.	18	008	Rintisan penerapan teknologi sederhana/ manajemen modern pada jenis-jenis usaha koperasi
+18.009.	18	009	Monitoring, evaluasi dan pelaporan
+15.	15		Program Peningkatan Promosi dan Kerjasama Investasi
+15.001.	15	001	Peningkatan Fasilitasi Kerjasama Strategis Antara Usaha Besar dan Usaha Kecil
+15.002.	15	002	Pengembangan potensi unggulan daerah
+15.003.	15	003	Fasilitasi dan koordinasi percepatan pembangunan kawasan produksi daerah tertinggal (P2KPDT)
+15.004.	15	004	Koordinasi Lembaga dalam Pengendalian Investasi PMDN dan PMA
+15.005.	15	005	Koordinasi perencanaan dan pengembangan penanaman modal
+15.006.	15	006	Peningkatan Koordinasi dan Kerjasama di Bidang Penanaman Modal dengan Instansi Pemerintah dan Dunia Usaha
+15.007.	15	007	Pengawasan dan evaluasi kinerja dan aparatur Badan Penanaman Modal Daerah
+15.009.	15	009	Peningkatan kualitas SDM guna pengingkatan pelayanan investasi
+15.010.	15	010	Penyelenggaraan pameran investasi
+15.011.	15	011	Monitoring, Evaluasi dan Pelaporan Program Peningkatan Promosi dan Kerjasama Investasi
+15.012.	15	012	Memfasilitasi dan Koordinasi Kerjasama di Bidang Investasi
+15.013.	15	013	Fasilitasi Kerjasama Kemitraan Usaha Daerah
+16.	16		Program Peningkatan Iklim Investasi dan Realisasi Investasi
+16.001.	16	001	Penyusunan kebijakan investasi bagi pembangunan fasilitas infrastruktur
+16.002.	16	002	Memfasilitasi dan koordinasi kerjasama di bidang investasi
+16.003.	16	003	Penyusunan Buku Cetak Biru (master plan) Penanaman Modal
+16.004.	16	004	Pengembangan System Informasi Penanaman Modal
+16.005.	16	005	Penyusunan sistem informasi penanaman modal di daerah
+16.006.	16	006	Penyederhanaan prosedur perijinan dan peningkatan pelayanan penanaman modal
+16.007.	16	007	Kajian Kebijakan penanaman modal
+16.008.	16	008	Pemberian insentif investasi di wilayah tertinggal
+16.009.	16	009	Monitoring, Evaluasi dan Pelaporan Program Peningkatan Iklim Investasi dan Realisasi Investasi
+16.010.	16	010	Pengembangan Potensi Unggulan Daerah
+17.	17		Program Penyiapan potensi sumberdaya, sarana dan prasarana daerah
+17.001.	17	001	Kajian potensi sumberdaya yang terkait dengan investasi
+17.02.	17	02	Intensifikasi dan Eksentifikasi Retribusi Daerah
+17.03.	17	03	Peningkatan Kualitas SDM guna Peningkatan Pelayanan Investasi
+17.04.	17	04	Penyusunan Kebijakan Investasi Bagi Pembangunan Fasilitas Infrastruktur
+17.05.	17	05	Monitoring, Evaluasi dan Pelaporan Program Penyiapan Potensi Sumberdaya, Sarana, dan Prasarana Daerah
+18.	18		Program Peningkatan Data dan Optimalisasi Pemanfaatan Teknologi Informasi
+18.01.	18	01	Penyusunan Sistem Informasi Penanaman Modal di Daerah
+18.02.	18	02	Desiminasi Informasi Perizinan
+18.03.	18	03	Pendataan dan Penataan Dokumen Perijinan
+18.04.	18	04	Penyederhanaan Prosedur Perizinan dan Peningkatan Pelayanan Penanaman Modal
+18.05.	18	05	Pengembangan Sistem Informasi Penanaman Modal
+18.06.	18	06	Survey Kepuasan Masyarakat (SKM)
+18.07.	18	07	Monitoring, Evaluasi dan Pelaporan Program Peningkatan Data dan Sistem Informasi Penanaman Modal
+19.	19		Program Intensifikasi Pengawasan, Pengendalian Penanaman Modal dan Penanganan Pengaduan Masyarakat
+19.01.	19	01	Peningkatan Kegiatan Pemantauan, Pembinaan dan Pengawasan Pelaksanaan Penanaman Modal
+19.02.	19	02	Pengawasan dan Evaluasi Kinerja dan Aparatur BPTPM
+19.03.	19	03	Pengawasan dan Pengendalian Perizinan Usaha, Non Usaha dan Penanaman Modal
+19.04.	19	04	Monitoring, Evaluasi dan Pelaporan Program Peningkatan Pengawasan dan Pengendalian Pelaksanaan Penanaman Modal
+15.	15		Program Pengembangan dan Keserasian Kebijakan Pemuda
+15.001.	15	001	Pendataan potensi kepemudaan
+15.002.	15	002	Pemantauan dan evaluasi pelaksanaan pembangunan pemuda
+15.003.	15	003	Penelitian dan pengkajian kebijakan-kebijakan pembangunan kepemudaan
+15.004.	15	004	Pengembangan sistem informasi manajemen kepemudaan berbasis E-YOUTH
+15.005.	15	005	Peningkatan keimanan dan ketaqwaan kepemudaan
+15.006.	15	006	Penyusunan pedoman komunikasi, informasi, edukasi dan advokasi tentang kepemimpinan pemuda
+15.007.	15	007	Penyusunan rancangan pola kemitraan antar pemuda dengan masyarakat
+15.008.	15	008	Perluasan penyusunan rencana aksi daerah bidang kepemudaan
+15.009.	15	009	Perumusan kebijakan kewirausahaan bagi pemuda
+15.010.	15	010	Monitoring, evaluasi dan pelaporan
+16.	16		Program peningkatan peran serta kepemudaan
+16.001.	16	001	Pembinaan Organisasi kepemudaan
+16.002.	16	002	Pendidikan dan pelatihan dasar kepemimpinan
+16.003.	16	003	Fasilitasi aksi bhakti sosial kepemudaan
+16.004.	16	004	Fasilitasi pekan temu wicara organisasi pemuda
+16.005.	16	005	Penyuluhan pencegahan penggunaan narkoba dikalangan generasi muda
+16.006.	16	006	Lomba kreasi dan kaya tulis ilmiah dikalangan pemuda
+16.007.	16	007	Pembinaan pemuda pelopor keamanan lingkungan
+16.008.	16	008	Pameran prestasi hasil karya pemuda
+16.009.	16	009	Monitoring, evaluasi dan pelaporan
+16.010.	16	010	Peringatan Hari Besar Nasional
+17.	17		Program peningkatan upaya penumbuhan kewirausahaan dan kecakapan hidup pemuda
+17.001.	17	001	Pelatihan kewirausahaan bagi pemuda
+17.002.	17	002	Pelatihan keterampilan bagi pemuda
+18.	18		Program upaya pencegahan penyalahgunaan narkoba
+18.001.	18	001	Pemberian penyuluhan tentang bahaya narkoba bagi pemuda
+19.	19		Program Pengembangan Kebijakan dan Manajemen Olahraga
+19.001.	19	001	Peningkatan mutu organisasi dan tenaga keolahragaan
+19.002.	19	002	Pengembangan sistem sertifikasi dan standardisasi profesi
+19.003.	19	003	Pengembangan perencanaan olah raga terpadu
+19.004.	19	004	Pemantauan dan evaluasi pelaksanaan pengembangan olahraga
+19.005.	19	005	Pembinaan manajemen organisasi olahraga
+19.006.	19	006	Pengkajian kebijakan-kebijakan pembangunan olahraga
+19.007.	19	007	Penyusunan pola kemitraan pemerintah dan masyarakat dalam pembangunan dan pengembangan industri olahraga
+19.008.	19	008	Monitoring, evaluasi dan pelaporan
+20.	20		Program Pembinaan dan Pemasyarakatan Olahraga
+20.001.	20	001	Pelaksanaan identifikasi bakat dan potensi pelajar dalam olahraga (Penyelenggaraan Pekan Olahraga Pelajar Daerah (POPDA) )
+20.002.	20	002	Pelaksanaan identifikasi dan pengembangan olahraga unggulan daerah
+20.003.	20	003	Pembibitan dan pembinaan olahragawan berbakat
+20.004.	20	004	Pembinaan cabang olahraga prestasi di tingkat daerah (Liga Pelajar Indonesia)
+20.005.	20	005	Peningkatan Kesegaran jasmani dan rekreasi
+20.006.	20	006	Penyelenggaraan kompetisi olahraga
+20.007.	20	007	Pemasyarakatan olahraga bagi pelajar, mahasiswa dan masyarakat
+20.008.	20	008	Pemberian penghargaan bagi insan olahraga yang berdedikasi dan berprestasi
+20.009.	20	009	Pengembangan dan Pemanfaatan IPTEK olahraga sebagai pendorong peningkatan pretasi olahraga
+20.010.	20	010	Pengembangan olahraga lanjut usia termasuk penyandang cacat
+20.011.	20	011	Pengembangan olahraga rekreasi
+20.012.	20	012	Peningkatan jaminan kesejahteraan bagi masa depan atlit, pelatih dan teknisi olahraga
+20.013.	20	013	Peningkatan jumlah dan kualitas serta kompetensi pelatih, peneliti, praktisi dan teknisi olahraga
+20.014.	20	014	Pembinaan olahraga yang berkembang di masyarakat
+20.015.	20	015	Peningkatan manajemen organisasi olahraga tingkat perkumpulan dan tingkat daerah
+20.016.	20	016	Peningkatan peran serta masyarakat dan dunia usaha dalam pendanaan dan pembinaan olah raga
+20.017.	20	017	Kerjasama peningkatan olahragawan berbakat dan berprestasi dengan lembaga/instansi lainnya
+21.	21		Program Peningkatan Sarana dan Prasarana Olahraga
+21.001.	21	001	Peningkatan kerjasama pola kemitraan antara pemerintah dan masyarakat untuk pembangunan sarana dan prasarana olahraga
+21.002.	21	002	Peningkatan Pembangunan Sarana dan Prasarana Olahraga
+21.003.	21	003	Pemantauan dan evaluasi pembangunan sarana dan prasarana olahraga
+21.005.	21	005	Pengembangan dan pemanfaatan iptek dalam pengembangan sarana dan prasarana olahraga
+21.006.	21	006	Peningkatan peran dunia usaha dalam pengembangan sarana dan prasarana olahraga
+21.007.	21	007	Pemeliharaan rutin/ berkala sarana dan prasarana olahraga
+15.	15		Program pengembangan data/informasi/statistik daerah
+15.001.	15	001	Penyusunan dan pengumpulan data dan statistik daerah
+15.002.	15	002	Pengolahan, updating dan analisis data dan statistik daerah
+15.003.	15	003	Penyusunan dan pengumpulan data PDRB
+15.004.	15	004	Pengolahan, updating dan analisis data PDRB
+15.005.	15	005	Pengumpulan, updating dan analisis data pembangunan daerah
+15.006.	15	006	Evaluasi Informasi Data Pembangunan Daerah
+15.	15		Program Pengelolaan Pengamanan Tekhnologi  Informasi dan Persandian
+15.001.	15	001	Pengelolaan dan perlindungan  Teknologi informasi
+15.002.	15	002	Penyusunan kebijakan teknis persandian dalam pengamanan informasi
+15.003.	15	003	Peningkatan Kesadaran Pengamanan Informasi
+17.	17		Program peningkatan sistem pengawasan internal dan pengendalian pelaksanaan kebijakan KDH
+17.001.	17	001	Pelaksanaan pengawasan internal secara berkala
+17.002.	17	002	Penanganan Kasus pengaduan di lingkungan pemerintah daerah
+17.003.	17	003	Pengendalian manajemen pelaksanaan kebijakan KDH
+17.004.	17	004	Penanganan kasus pada wilayah pemerintahan dibawahnya
+17.005.	17	005	Inventarisasi temuan pengawasan
+17.006.	17	006	Pemantauan pelaksanaan tindak lanjut rekomendasi hasil pemeriksaan
+17.007.	17	007	Koordinasi pengawasan yang lebih komprehensif
+17.008.	17	008	Evaluasi berkala temuan hasil pengawasan
+15.	15		Program Pengembangan Nilai Budaya
+15.001.	15	001	Pelestarian dan aktualisasi adat budaya daerah
+15.002.	15	002	Penatagunaan naskah kuno nusantara
+15.003.	15	003	Penyusunan kebijakan tentang budaya lokal daerah
+15.004.	15	004	Pemanatauan dan evaluasi pelaksanaan program pengembangan nilai budaya
+15.005.	15	005	Pemberian dukungan, penghargaan dan kerjasama di bidang budaya
+17.	17		Program Pengelolaan Keragaman Budaya
+17.001.	17	001	Pengembangan Kesenian dan Kabudayaan Daerah
+17.002.	17	002	Penyusunan sistem informasi database bidang kebudayaan
+17.003.	17	003	Penyelenggaraan Dialog Kebudayaan
+17.004.	17	004	Fasilitasi Perkembangan Keragaman Budaya Daerah
+17.005.	17	005	Penyelenggaraan festival budaya daerah
+17.006.	17	006	Seminar dalam rangka revitalisasi dan reaktualisasi budaya local
+17.007.	17	007	Monitoring, evaluasi dan pelaporan pelaksanaan pengembangan keanekaragaman budaya
+18.	18		Program pengembangan kerjasama pengelolaan kekayaan budaya
+18.001.	18	001	Fasilitasi pengembangan kemitraan dengan LSM dan perusahaan swasta
+18.002.	18	002	Fasilitasi pembentukan kemitraan usaha profesi antar daerah
+18.003.	18	003	Membangun kemitraan pengelolaan kebudayaan antar daerah
+18.004.	18	004	Monitoring, evaluasi dan pelaporan
+25.	25		Program Pengelolaan Kekayaan Budaya
+25.001.	25	001	Fasilitasi partisipasi masyarakat dalam pengelolaan kekayaan budaya
+25.002.	25	002	Pelestarian fisik dan kandungan bahan pustaka termasuk naskah kuno
+25.003.	25	003	Penyusunan kebijakan pengelolaan kekayaan budaya lokal daerah
+25.004.	25	004	Sosialisasi pengelolaan kekayaan budaya lokal daerah
+25.005.	25	005	Pengelolaan dan pengembangan pelestarian peninggalan sejarah purbakala, museum dan peninggalan bawah air
+25.006.	25	006	Pengembangan kebudayaan dan pariwisata
+25.007.	25	007	Pengembangan nilai dan geografi sejarah
+25.008.	25	008	Perekaman dan digitalisasi bahan pustaka
+25.009.	25	009	Perumusan kebijakan sejarah dan purbakala
+25.010.	25	010	Pengawasan, monitoring, evaluasi dan pelaporan pelaksanaan program pengelolaan kekayaan budaya
+25.011.	25	011	Pendukungan pengelolaan museum dan taman budaya di daerah
+25.012.	25	012	Pengelolaan karya cetak dan karya rekam
+25.013.	25	013	Pengembangan data base sistem informasi sejarah purbakala
+21.	21		Program Pengembangan Budaya Baca dan Pembinaan Perpustakaan
+21.001.	21	001	Pemasyarakatan Minat dan Kebiasaan Membaca untuk Mendorong Terwujudnya Masyarakat Pembelajar
+21.002.	21	002	Pengembangan Minat dan Budaya Baca
+21.003.	21	003	Supervisi,Pembinaan dan simulasi pada Perpustakaan Umum,Perpustakaan Khusus,Perpustakaan Sekolah Perpustakaan Masyarakat
+21.004.	21	004	Pelaksanaan koordinasi pengembangan perpustakaan
+21.005.	21	005	Penyediaan bantuan pengembangan perpustakaan dan minat baca di daerah
+21.006.	21	006	Penyelenggaraan koordinasi pengembangan budaya baca
+21.007.	21	007	Perencanaan dan penyusunan program budaya baca
+21.008.	21	008	Publikasi dan sosialisasi minat dan budaya baca
+21.009.	21	009	Penyediaan bahan pustaka perpustakaan umum daerah
+21.010.	21	010	Monitoring, evaluasi dan pelaporan
+15.	15		Program perbaikan sistem administrasi kearsipan
+15.001.	15	001	Pembangunan data base informasi kearsipan
+15.002.	15	002	Pengumpulan data
+15.003.	15	003	Pengklasifikasikan data
+15.004.	15	004	Penyusunan sistem katalog data
+15.005.	15	005	Pengadaan sarana penyimpanan
+15.006.	15	006	Kajian sistem administrasi kearsifan
+15.007.	15	007	Pemeliharaan peralatan jaringan informasi kearsifan
+16.	16		Program penyelamatan dan pelestarian dokumen/arsip daerah
+16.001.	16	001	Pengadaan sarana pengolahan dan penyimpanan arsip
+16.002.	16	002	Pendataan dan penataan dokumen/arsip daerah
+16.003.	16	003	Penduplikatan dokumen/arsip daerah dalam bentuk informatika
+16.004.	16	004	Pembangunan sistem keamanan penyimpanan data
+17.	17		Program pemeliharaan rutin/berkala sarana dan prasarana kerasipan
+17.001.	17	001	Pemeliharaan rutin/berkala sarana pengolahan dan penyimpanan arsip
+17.002.	17	002	Pemeliharaan rutin/berkala arsip daerah
+17.003.	17	003	Monitoring, evaluasi dan pelaporan kondisi situasi data
+17.004.	17	004	Dst……………
+18.	18		Program peningkatan kualitas pelayanan informasi
+18.001.	18	001	Penyusunan dan penerbitan naskah sumber arsip
+18.002.	18	002	Penyediaan sarana layanan informasi arsip
+18.003.	18	003	Sosialisasi/penyuluhan kearsipan dilingkungan instansi pemerintah/swasta
+15.	15		Program pemberdayaan ekonomi masyarakat pesisir
+15.001.	15	001	Pembinaan kelompok ekonomi masyarakat pesisir
+16.	16		Program pemberdayaan masyarakat dalam pengawasan dan pengendalian sumberdaya kelautan
+16.001.	16	001	Pembentukan kelompok masyarakat swakarsa pengamanan sumberdaya kelautan
+17.	17		Program peningkatan kesadaran dan penegakan hukum dalam pendayagunaan sumberdaya laut
+17.001.	17	001	Penyuluhan hukum dalam pendayagunaan sumberdaya laut
+18.	18		Program peningkatan mitigasi bencana alam laut dan prakiraan iklim laut
+18.001.	18	001	Kajian mitigasi bencana alam laut dan prakiraan iklim laut
+18.002.	18	002	Dst……………
+19.	19		Program peningkatan kegiatan budaya kelautan dan wawasan maritim kepada masyarakat
+19.001.	19	001	Penyuluhan budaya kelautan
+19.002.	19	002	Dst……………
+20.	20		Program pengembangan budidaya perikanan
+20.001.	20	001	Pengembangan Bibit Ikan Unggul
+20.002.	20	002	Pendampingan pada kelompok tani pembudidaya ikan
+20.003.	20	003	Pembinaan dan pengembangan perikanan
+20.006.	20	006	Pengembangan Kawasan Budidaya Air Tawar
+21.	21		Program pengembangan perikanan tangkap
+21.001.	21	001	Pendampingan pada kelompok nelayan perikanan tangkap
+21.002.	21	002	Pembangunan tempat pelelangan ikan
+21.003.	21	003	Pemeliharaan rutin/berkala tempat pelelangan ikan
+21.004.	21	004	Rehabilitasi sedang/berat tempat pelelangan ikan
+21.005.	21	005	Pengembangan lembaga usaha perdagangan perikanan tangkap
+22.	22		Program pengembangan sistem Penyuluhan perikanan
+22.001.	22	001	Kajian sistem penyuluhan perikanan
+22.002.	22	002	Penyuluhan dan Pemberdayaan Masyarakat Perikanan dan Kelautan
+23.	23		Program optimalisasi pengelolaan dan pemasaran produksi perikanan
+23.001.	23	001	Kajian optimalisasi pengelolaan dan pemasaran produksi perikanan
+23.002.	23	002	Pembinaan dan Pengembangan Pengelolaan dan Pemasaran Produksi Perikanan
+24.	24		Program pengembangan Kajian Kawasan Budidaya Laut, Air Payau dan Air Laut
+24.001.	24	001	Kajian kawasan budidaya laut, air payau dan air tawar
+24.002.	24	002	Pengembangan kawasan dan pelestarian sumber daya perikanan
+25.	25		Program Pengendalian Sumberdaya Perikanan dan Kelautan
+25.01.	25	01	Pengawasan dan Pengamanan Pangan Produk Perikanan
+25.06.	25	06	Pemantauan Pemasaran dan Pengelolaan Produk Perikanan dan kelautan
+15.	15		Program Pengembangan Pemasaran Pariwisata
+15.001.	15	001	Analisa pasar untuk promosi dan pemasaran objek pariwisata
+15.002.	15	002	Peningkatan pemanfaatan teknologi informasi dalam pemasaran pariwisata
+15.003.	15	003	Pengembangan jaringan kerja sama promosi pariwisata
+15.004.	15	004	Koordinasi dengan sektor pendukung pariwisata
+15.005.	15	005	Pelaksanaan promosi pariwisata nusantara di dalam dan di luar negeri
+15.006.	15	006	Pemantauan dan evaluas pelaksanaan program pengembangan pemasaran pariwisata
+15.007.	15	007	Pengembangan Statistik Kepariwisataan
+15.008.	15	008	Pelatihan pemandu wisata terpadu
+16.	16		Program Pengembangan Destinasi Pariwisata
+16.001.	16	001	Pengembangan objek pariwisata unggulan
+16.002.	16	002	Peningkatan pembangunan sarana dan perasarana pariwisata
+16.003.	16	003	Pengembangan jenis dan paket wisata unggulan
+16.004.	16	004	Pelaksanaan koordinasi pembangunan objek pariwisata dengan lembaga/dunia usaha
+16.005.	16	005	Pemantauan dan evaluasi pelaksanaan program pengembangan destinasi pemasaran pariwisata
+16.006.	16	006	Pengembangan daerah tujuan wisata
+16.007.	16	007	Pengembangan, sosialisasi, dan penerapan serta pengawasan standardisasi
+17.	17		Program Pengembangan Kemitraan
+17.001.	17	001	Pengembangan dan penguatan,informasi dan database
+17.002.	17	002	Pengembangan dan penguatan litbang, kebudayaan dan pariwisata
+17.003.	17	003	Pengembangan SDM di bidang kebudayaan dan pariwisata bekerjasama dengan lembaga lainnya
+17.004.	17	004	Fasilitasi pembentukan forum komunikasi antar pelaku industri pariwisata dan budaya
+17.005.	17	005	Pelaksanaan koordinasi pembangunan kemitraan pariwisata
+17.006.	17	006	Pemantauan dan evaluasi pelaksanaan program peningkatan kemitraan
+17.007.	17	007	Pengembangan sumber daya manusia dan profesionalisme bidang pariwisata
+17.008.	17	008	Peningkatan peran serta masyarakat dalam pengembangan kemitraan pariwisata
+17.009.	17	009	Monitoring, evaluasi dan pelaporan
+15.	15		Program Peningkatan Kesejahteraan Petani
+15.001.	15	001	Pelatihan Petani dan Pelaku Agribisnis
+15.002.	15	002	Penyuluhan dan Pendampingan Petani dan Pelaku Agrobisnis
+15.003.	15	003	Peningkatan Kemampuan Lembaga Petani
+15.004.	15	004	Peningkatan Sistem Insentif dan Disinsentif bagi Petani/Kelompok Tani
+15.005.	15	005	Penyuluhan dan Bimbingan Pemanfaatan dan Produktifitas Lahan Tidur
+16.	16		Program Peningkatan Ketahanan Pangan Pertanian/Perkebunan
+16.001.	16	001	Penangan Daerah Rawan Pangan
+16.002.	16	002	Penyusunan Database Potensi Produksi Pangan
+16.003.	16	003	Analisis dan Penyusunan Pola Konsumsi dan Suplai Pangan
+16.004.	16	004	Analisis Rasio Jumlah Penduduk Terhadap Jumlah Kebutuhan Pangan
+16.005.	16	005	Laporan Berkala Kondisi Ketahanan Pangan Daerah
+16.006.	16	006	Kajian Rantai Pasokan dan Pemasaran Pangan
+16.007.	16	007	Monitoring, Evaluasi dan Pelaporan Kebijakan Perberasan
+16.008.	16	008	Monitoring, evaluasi dan pelaporan kebijakan subsidi
+16.009.	16	009	Pemanfaatan perkarangan untuk pengembangan pangan
+16.010.	16	010	Pemantauan dan analisis akses pangan masyarakat
+16.011.	16	011	Pemantauan dan analisis akses harga pangan pokok
+16.012.	16	012	Penanganan pasca panen dan pengolahan hasil pertanian
+16.013.	16	013	Pengembangan cadangan pangan daerah
+16.014.	16	014	Pengembangan desa mandiri pangan
+16.015.	16	015	Pengembangan intensifikasi tanaman padi, palawija
+16.016.	16	016	Pengembangan diverisifikasi tanaman
+16.017.	16	017	Pengembangan pertanian pada lahan kering
+16.018.	16	018	Pengembangan lumbung pangan desa
+16.019.	16	019	Pengembangan model distribusi pangan yang efisien
+16.020.	16	020	Pengembangan perbinihan/perbibitan
+16.021.	16	021	Pengembangan sistem informasi pasar
+16.022.	16	022	Peningkatan Mutu dan Keamanan Pangan
+16.023.	16	023	Koordinasi kebijakan perberasan
+16.024.	16	024	Koordinasi perumusan kebijakan pertanahan dan infrastruktur pertanian dan perdesaan
+16.025.	16	025	Penelitian dan pengembangan sumber daya pertanian
+16.026.	16	026	Penelitian dan pengembangan teknologi bioteknologi
+16.027.	16	027	Penelitian dan pengembangan  teknologi budi daya
+16.028.	16	028	Penelitian dan pengembangan teknologi pasca panen
+16.029.	16	029	Peningkatan produksi, produktivitas dan mutu produk perkebunan, produk pertanian
+16.030.	16	030	Penyuluhan sumber pangan alternatif
+16.031.	16	031	Monitoring, Evaluasi dan Pelaporan
+17.	17		Program Peningkatan Pemasaran Hasil Pertanian Produksi Pertanian/Perkebunan
+17.001.	17	001	Penelitian dan pengembangan pemasaran hasil produksi pertanian/perkebunan
+17.002.	17	002	Fasilitasi kerjasama regional/nasional/internasional penyediaan hasil produksi pertanian/perkebunan komplementer
+17.003.	17	003	Pembangunan sarana dan prasarana pasar kecamatan/perdesaan produksi hasil pertanian/perkebunan
+17.004.	17	004	Pembangunan pusat-pusat etalase/eksibi/promosi atas hasil produksi pertanian/perkebuanan
+17.005.	17	005	Pemeliharaan rutin/berkala sarana dan prasarana pasar kecamatan/perdesaan produksi hasil pertanian/perkebunan
+17.006.	17	006	Pemeliharaan rutin/berkala pusat-pusat etalase/eksebisi/promosi atas hasil produksi pertanian/perkebunan
+17.007.	17	007	Promosi atas Hasil Pertanian/Perkebunan Unggulan Daerah
+17.008.	17	008	Penyuluhan pemasaran produksi pertanian/perkebunan guna menghindari tengkulak dan sistem ijon
+17.009.	17	009	Pembangunan Pusat-pusat Penampungan Produksi Hasil Pertanian/Perkebunan yang akan dipasarkan
+17.010.	17	010	Pengolahan informasi permintaan pasar atas hasil produksi pertanian/perkebunan masyarakat
+17.011.	17	011	Penyuluhan distribusi pemasaran atas hasil produksi pertanian/perkebunan masyarakat
+17.012.	17	012	Penyuluhan kualitas dan teknis kemasan hasil produksi pertanian/perkebunan yang akan dipasarkan
+17.013.	17	013	Monitoring, evaluasi dan pelaporan
+18.	18		Program Peningkatan Penerapan Teknologi Pertanian/Perkebunan.
+18.001.	18	001	Penelitian dan pengembangan teknologi pertanian/perkebunan tepat guna
+18.002.	18	002	Pengadaan sarana dan prasarana teknologi pertanian/perkebunan tepat guna
+18.003.	18	003	Pemeliharaan rutin/berkala sarana dan prasarana teknologi pertanian/perkebunan tepat guna
+18.004.	18	004	Kegiatan penyuluhan penerapan teknologi pertanian/perkebunan tepat guna
+18.005.	18	005	Pelatihan dan bimbingan pengoperasian teknologi pertanian/perkebunan tepat guna
+18.006.	18	006	Pelatihan penerapan teknologi pertanian/perkebunan modern bercocok tanam
+18.007.	18	007	Monitoring, evaluasi dan pelaporan
+19.	19		Program Peningkatan Produksi Pertanian/Perkebunan
+19.001.	19	001	Penyuluhan peningkatan produksi pertanian/perkebunan
+19.002.	19	002	Penyediaan sarana produksi pertanian/perkebunan
+19.003.	19	003	Pengembangan bibit unggul pertanian/perkebunan
+19.004.	19	004	Sertifikasi bibit unggul pertanian/perkebunan
+19.005.	19	005	Penyusunan kebijakan pencegahan alih fungsi lahan pertanian
+19.006.	19	006	Monitoring, evaluasi dan pelaporan
+20.	20		Program Pemberdayaan Penyuluh Pertanian/Perkebunan Lapangan
+20.001.	20	001	Peningkatan kapasitas tenaga penyuluh pertanian/perkebunan
+20.002.	20	002	Peningkatan kesejahteraan tenaga penyuluh pertanian/perkebunan
+20.003.	20	003	Penyuluhan dan pendampingan bagi pertanian/perkebunan
+21.	21		Program pencegahan dan penanggulangan penyakit ternak
+21.001.	21	001	Pendataan masalah peternakan
+21.002.	21	002	Pemeliharaan kesehatan dan pencegahan penyakit menular ternak
+21.003.	21	003	Pemusnahan ternak yang terjangkit penyakit endemik
+21.004.	21	004	Pengawasan perdagangan ternak antar daerah
+21.005.	21	005	Monitoring, evaluasi dan pelaporan
+22.	22		Program peningkatan produksi hasil peternakan
+22.001.	22	001	Pembangunan sarana dan prasarana pembibitan ternak
+22.002.	22	002	Pembibitan dan perawatan ternak
+22.003.	22	003	Pendistribusian bibit ternak kepada masyarakat
+22.004.	22	004	Penyuluhan pengelolaan bibit ternak yang didistribusikan kepada masyarakat
+22.005.	22	005	Penelitian dan pengolahan gizi dan pakan ternak
+22.006.	22	006	Pembelian dan pendistribusian vaksin dan pakan ternak
+22.007.	22	007	Penyuluhan kualitas gizi dan pakan ternak
+22.008.	22	008	Pengembangan agribisnis pertenakan
+22.009.	22	009	Monitoring, evaluasi dan pelaporan
+23.	23		Program Peningkatan Pemasaran Hasil Produksi Peternakan
+23.001.	23	001	Penelitian dan pengembangan pemasaran hasil produksi peternakan
+23.002.	23	002	Fasilitasi Kerjasama regional/nasional/internasional penyediaan hasil produksi peternakan komplementer.
+23.003.	23	003	Pembangunan sarana dan prasarana pasar produksi hasil peternakan
+23.004.	23	004	Pembangunan pusat-pusat etalase/eksebisi/promosi atas hasil produksi peternakan
+23.005.	23	005	Pemeliharaan rutin/berkala sarana dan prasarana pasar produksi hasil peternakan
+23.006.	23	006	Pemeliharaan rutin/berkala pusat-pusat etalase/eksebisi/promosi atas hasil produksi peternakan
+23.007.	23	007	Promosi atas hasil produksi peternakan unggulan daerah.
+23.008.	23	008	Penyuluhan pemasaran produksi peternakan
+23.009.	23	009	Pembangunan pusat-pusat penampungan produksi hasil peternakan masyarakat
+23.010.	23	010	Pengolahan informasi permintaan pasar atas hasil produksi peternakan masyarakat
+23.011.	23	011	Penyuluhan distribusi pemasaran atas hasil produksi peternaka nmasyarakat
+23.012.	23	012	Penyuluhan kualitas dan teknis kemasan hasil produksi peternakan yang akan dipasarkan
+23.013.	23	013	Monitoring, evaluasi dan pelaporan
+24.	24		Program peningkatan penerapan teknologi peternakan
+24.001.	24	001	Penelitian dan pengembangan teknologi peternakan tepat guna
+24.002.	24	002	Pengadaan sarana dan prasarana teknologi peternakan tepat guna
+24.003.	24	003	Pemeliharaan rutin/berkala sarana dan prasarana teknologi peternakan tepat guna
+24.004.	24	004	Kegiatan penyuluhan penerapan teknologi peternakan tepat guna
+24.005.	24	005	Pelatihan dan bimbingan pengoperasian teknologi peternakan tepat guna
+24.006.	24	006	Monitoring, evaluasi dan pelaporan
+25.	25		Program peningkatan  hasil produksi perkebunan
+25.001.	25	001	Penyediaan Sarana Produksi Tanaman Perkebunan
+25.002.	25	002	Pengembangan bibit unggul tanaman perkebunan
+25.003.	25	003	Penyuluhan peningkatan Produksi Perkebunan
+26.	26		Program Peningkatan Pemasaran Hasil Produksi Tanaman Perkebunan
+26.001.	26	001	Promosi atas hasil produksi tanaman perkebunan unggulan Daerah
+27.	27		Peningkatan Penerapan teknologi Perkebunan
+27.001.	27	001	Penelitian dan pengembangan teknologi Perkebunan tepat guna
+27.002.	27	002	Penyuluhan penerapan Teknologi Perkebunan tepat guna
+27.003.	27	003	Pengadaan sarana prasarana teknologi perkebunan tepat guna
+28.	28		Program pemberdayaan penyuluh perkebunan lapangan
+28.001.	28	001	Peningkatan kapasitas tenaga penyuluh perkebunan
+15.	15		Program Pemanfaatan Potensi Sumber Daya Hutan
+15.001.	15	001	Pembentukan kesatuan pengelolaan hutan produksi
+15.002.	15	002	Pengembangan hutan tanaman
+15.003.	15	003	Pengembangan hasil hutan non-kayu
+15.004.	15	004	Perencanaan dan pengembangan hutan kemasyarakatan
+15.005.	15	005	Optimalisasi PNBP
+15.006.	15	006	Pengelolaan dan pemanfaatan hutan
+15.007.	15	007	Pengembangan industri dan pemasaran hasil hutan
+15.008.	15	008	Pengembangan pengujian dan pengendalian peredaran hasil hutan
+15.009.	15	009	Monitoring, evaluasi dan pelaporan
+16.	16		Program rehabilitasi hutan dan lahan
+16.001.	16	001	Koordinasi penyelenggaraan reboisasi dan penghijauan hutan
+16.002.	16	002	Pembuatan bibit/benih tanaman kehutanan
+16.003.	16	003	Penanaman pohon pada kawasan hutan industri dan hutan wisata
+16.004.	16	004	Pemeliharaan pohon pada kawasan hutan industri dan hutan wisata
+16.005.	16	005	Pembinaan, pengendalian dan pengawasan gerakan rehabilitasi hutan dan lahan
+16.006.	16	006	Peningkatan peran serta masyarakat dalam rehabilitasi hutan dan lahan
+16.007.	16	007	Monitoring, evaluasi dan pelaporan
+17.	17		Perlindungan dan konservasi sumber daya hutan
+17.001.	17	001	Pencegahan dan pengendalian Gangguan Keamanan hutan
+17.002.	17	002	Sosialisasi pencegahan dan dampak kebakaran hutan dan lahan
+17.003.	17	003	Bimbingan teknis pengendalian kebakaran hutan dan lahan
+17.004.	17	004	Penanggulangan kebakaran hutan dan lahan (Banprop)
+17.005.	17	005	Penyuluhan kesadaran masyarakat mengenai dampak perusakan hutan
+18.	18		Program pemanfaatan kawasan hutan industri
+18.001.	18	001	Pertanian tanaman palawija, padi gogorancah
+18.002.	18	002	Dst……………
+19.	19		Program pembinaan dan penertiban industri hasil hutan
+19.001.	19	001	Penyusunan peraturan daerah mengenai pengelolaan industri hasil hutan
+19.002.	19	002	Sosialisasi peraturan daerah mengenai pengelolaan industri hasil hutan
+19.003.	19	003	Pengawasan dan penertiban pelaksanaan peraturan daerah mengenai pengelolaan industri hasil hutan
+19.004.	19	004	Perluasan akses layanan informasi pemasaran hasil hutan
+19.005.	19	005	Monitoring, evaluasi dan pelaporan
+19.006.	19	006	Dst……………
+20.	20		Program perencanaan dan pengembangan hutan
+20.001.	20	001	Pengembangan hutan masyarakat adat
+20.002.	20	002	Pendampingan kelompok usaha perhutanan rakyat
+15.	15		Program pembinaan dan pengawasan bidang pertambangan
+15.001.	15	001	Penyusunan regulasi mengenai kegiatan penambangan bahan galian C
+15.002.	15	002	Sosialisasi regulasi mengenai kegiatan penambangan bahan galian C
+15.003.	15	003	Monitoring dan pengendalian kegiatan penambangan bahan galian C
+15.004.	15	004	Koordinasi dan pendataan tentang hasil produksi dibidang pertambangan
+15.005.	15	005	Pengawasan terhadap pelaksanaan kegiatan penambangan galian C
+15.006.	15	006	Monitoring, evaluasi dan pelaporan
+16.	16		Pengawasan dan penertiban Kegiatan Rakyat yang berpotensi merusak lingkungan
+16.001.	16	001	Pengawasan penertiban kegiatan pertambangan rakyat
+16.002.	16	002	Monitoring, evaluasi, dan pelaporan dampak kerusakan lingkungan akibat kegiatan pertambangan rakyat
+16.003.	16	003	Penyebaran peta daerah rawan bencana alam geologi
+17.	17		Program pembinaan dan pengembangan bidang ketenagalistrikan
+17.001.	17	001	Koordinasi pengembangan ketenaga listrikan
+18.	18		Program Pengembangan dan Pengelolaan Jaringan Irigasi, Rawa dan Jaringan Pengairan Lainnya
+15.	15		Program Perlindungan Konsumen dan pengamanan perdagangan
+15.001.	15	001	Koordinasi peningkatan hubungan kerja dengan lembaga perlindungan konsumen
+15.002.	15	002	Fasilitasi penyelesaian permasalahan-permasalahan pengaduan konsumen
+15.003.	15	003	Peningkatan pengawasan peredaran barang dan jasa
+15.004.	15	004	operasionalisasi dan pengembangan UPT kemetrologian daerah
+16.	16		Program Peningkatan Kerjasama Perdagangan Internasional
+16.001.	16	001	Penyiapan data base kuota setiap jenis barang dan jasa
+16.002.	16	002	penyebarluasan informasi database kuota setiap jenis barang dan jasa
+16.003.	16	003	Penyusunan tim daerah dalam perundingan perdagangan internasional
+16.004.	16	004	Fasilitasi penyelesaian sengketa dagang
+16.005.	16	005	Koordinasi pengelolaan isu-isu perdagangan internasional
+16.006.	16	006	Dst………
+17.	17		Program Peningkatan dan Pengembangan Ekspor
+17.001.	17	001	Koordinasi dan sinkronisasi kebijakan pengembangan industri
+17.002.	17	002	Pengenbangan informasi peluang pasar perdagangan luar negri
+17.003.	17	003	Sosialisasi kebijakan penyederhanaan prosedur dan dokumen ekspor dan impor
+17.004.	17	004	Pengembangan data base informasi potensi unggulan
+17.005.	17	005	kerjasama standardisasi mutu produk baik nasional, bilateral, regional, dan internasional
+17.006.	17	006	Kerjasama dengan lembaga internasional dalam rangka pengembangan produk
+17.007.	17	007	Koordinasi penyelesaian masalah produksi dan distribusi sektor industri
+17.008.	17	008	Membangun jejaring dengan eksportir
+17.009.	17	009	Koordinasi program pengembangan ekspor dengan instansi terkait/asosiasi/pengusaha
+17.010.	17	010	Pengembangan kluster produk ekspor
+17.012.	17	012	Pembangunan promosi perdagangan internasional
+18.	18		Program Peningkatan Efisiensi Perdagangan Dalam Negeri
+18.001.	18	001	Penyempurnaan perangkat peraturan, kebijakan dan pelaksanaan operasional
+18.002.	18	002	Fasilitasi kemudahan perijinan pengembangan usaha
+18.003.	18	003	Pengembangan pasar dan distribusi barang / produk
+18.004.	18	004	Pengembangan kelembagaan kerjasama kemitraan
+18.005.	18	005	Pengembangan pasar lelang daerah
+18.006.	18	006	Peningkatan sistem dan jaringan informasi perdagangan
+18.007.	18	007	Sosialisasi peningkatan penggunaan produk dalam negeri
+18.08.	18	08	Kegiatan pendataan perusahaan dan pembinaan ritel modern
+19.	19		Program Pembinaan pedagang kaki lima dan asongan
+19.001.	19	001	Kegiatan pembinaan organisasi pedagang kakilima dan asongan
+19.002.	19	002	Kegiatan penyuluhan peningkatan disiplin pedagang kakilima dan asongan
+19.003.	19	003	Kegiatan penataan tempat berusaha bagi pedagang kakilima dan asongan
+19.004.	19	004	Kegiatan fasilitasi modal usaha bagi pedagang kakilima dan asongan
+19.005.	19	005	Kegiatan pengawasan mutu dagangan pedagang kakilima dan asongan
+19.006.	19	006	Kegiatan pembangunan gudang penyimpanan barang pedagang kakilima dan asongan
+19.007.	19	007	Penataan / Penertiban pasar, Peremajaan dan Pengembangan Pasar
+15.	15		Program peningkatan Kapasitas IPTEK Sistem Produksi
+15.001.	15	001	Koordinasi modal ventura bagi industri berbasis teknologi
+15.002.	15	002	Pelayanan pengambangan modal ventura dan inkubator
+15.003.	15	003	Pengembangan Infrastruktur kelembagaan standarisasi
+15.004.	15	004	Pengembangan kapasitas pranata pengukuran, standarisasi, pengujian dan kualitas
+15.005.	15	005	Pengembangan sistem inovasi teknologi industri
+15.006.	15	006	Penguatan kemampuan industri berbasis teknologi
+16.	16		Program Pengembangan Industri Kecil dan Menengah
+16.001.	16	001	Fasilitasi bagi industri kecil dan menengah terhadap pemanfaatan sumber daya
+16.002.	16	002	Pembinaan industri kecil dan menengah dalam memperkuat jaringan klaster industri
+16.003.	16	003	Penyusunan kebijakan industri terkait dan industri penunjang industri kecil dan menengah
+16.004.	16	004	Pemberian kemudahan izin usaha industri kecil dan menengah
+16.005.	16	005	Pemberian fasilitas kemudahan akses perbankan bagi industri kecil dan menengah
+16.006.	16	006	Fasilitasi kerjasama kemitraan industri mikro, kecil dan menengah dengan swasta
+17.	17		Program Peningkatan Kemampuan Teknologi Industri
+17.001.	17	001	Pembinaan kemampuan teknologi industri
+17.002.	17	002	Pengembangan dan pelayanan teknologi industri
+17.003.	17	003	Perluasan penerapan SNI untuk mendorong daya saing industri manufaktur
+17.004.	17	004	Perluasan penerapan standar produk industri manufaktur
+18.	18		Program Penataan Struktur Industri
+18.001.	18	001	Kebijakan keterkaitan industri hulu-hilir
+18.002.	18	002	Penyediaan sarana maupun prasarana klaster industri
+18.003.	18	003	Pembinaan keterkaitan produksi industri hulu hingga ke hilir
+18.004.	18	004	Dst……..
+19.	19		Program Pengembangan sentra-sentra industri potensial
+19.001.	19	001	Pembangunan akses transportasi sentra-sentra indrustri potensial
+19.002.	19	002	penyediaan sarana informasi yang dapat diakses masyarakat
+15.	15		Program Pengembangan Wilayah Transmigrasi
+15.001.	15	001	Penguatan SDM pemerintah daerah dan masyarakat transmigrasi di kawasan transmigrasi di perbatasan
+15.002.	15	002	Peningkatan kerjasama antar wilayah, antar pelaku dan antar sektor dalam rangka pengembangan kawasan transmigrasi
+15.003.	15	003	Penyediaan dan pengelolaan prasarana dan sarana sosial dan ekonomi di kawasan transmigrasi
+15.004.	15	004	Penyediaan Lembaga Keuangan Daerah yang Membantu Modal Usaha di Kawasan Transmigrasi
+15.005.	15	005	Pengerahan dan fasilitasi perpindahan serta penempatan transmigrasi untuk memenuhi kebutuhan SDM
+15.006.	15	006	Dst……..
+16.	16		Program Transmigrasi Lokal
+16.001.	16	001	Penyuluhan Transmigrasi Lokal
+16.002.	16	002	Pelatihan transmigrasi lokal
+16.003.	16	003	Dst…
+17.	17		Program Transmigrasi Regional
+17.001.	17	001	Penyuluhan transmigrasi regional
+17.002.	17	002	Pelatihan transmigrasi regional
+17.003.	17	003	Dst…
+15.	15		Program Pengembangan Data/Informasi
+15.001.	15	001	Pengumpulan, updating dan analisis data informasi capaian target kinerja program dan kegiatan
+15.002.	15	002	Penyusunan dan pengumpulan data informasi kebutuhan penyusunan dokumen perencanaan
+15.003.	15	003	Penyusunan dan analisis data informasi perencanaan pembangunan kawasan rawan bencana
+15.004.	15	004	Penyusunan dan analisis data informasi perencanaan pembangunan ekonomi
+15.005.	15	005	Penyusunan profile daerah
+16.	16		Program Kerjasama Pembangunan
+16.001.	16	001	Koordinasi kerjasama wilayah perbatasan
+16.002.	16	002	Koordinasi kerjasama pembangunan antar daerah
+16.003.	16	003	Fasilitasi kerjasama dengan dunia usah/lembaga
+16.004.	16	004	Koordinasi dalam pemecahan masalah-masalah daerah
+16.005.	16	005	Monitoring, evaluasi dan pelaporan
+17.	17		Program Pengembangan Wilayah Perbatasan
+17.001.	17	001	Koordinasi penyelesaian masalah perbatasan antar daerah
+17.002.	17	002	Sosialisai kebijakan pemerintah dalam penyelesaian perbatasan antar negara
+17.003.	17	003	Koordinasi penetapan rencana tata ruang perbatasan
+17.004.	17	004	Penyusunan perencanaan pengembangan wilayah perbatasan
+17.005.	17	005	Monitoring, evaluasi dan pelaporan
+18.	18		Program Perencanaan Pengembangan Wilayah Strategis dan cepat tumbuh
+18.001.	18	001	Sosialisasi kebijakan pemerintah dalam Pengembangan Wilayah Strategis dan cepat tumbuh
+18.002.	18	002	Koordinasi penetapan rencana tata ruang wilayah strategis dan cepat tumbuh
+18.003.	18	003	Penyusunan perencanaan Pengembangan Wilayah Strategis dan cepat tumbuh
+18.004.	18	004	Monitoring, evaluasi dan pelaporan
+18.005.	18	005	Pengelolaan Pengembangan Kawasan Khusus (Penataan Pantai Zona) (Lanjutan)
+19.	19		Program Perencanaan Pengembangan Kota-kota menengah dan besar
+19.001.	19	001	Koordinasi penyelesaian permasalahan penanganan sampah perkotaan
+19.002.	19	002	Koordinasi penyelesaian permasalahan transportasi perkotaan
+19.003.	19	003	Koordinasi penanggulangan dan penyelesaian bencana alam/sosial
+19.004.	19	004	Koordinasi perencanaan penanganan pusat-pusat pertumbuhan ekonomi
+19.005.	19	005	Koordinasi perencanaan penanganan pusat-pusat industri
+19.006.	19	006	Koordinasi perencanaan penanganan pusat-pusat pendidikan
+19.007.	19	007	Koordinasi perencanaan penanganan perumahan
+19.008.	19	008	Koordinasi perencanaan penanganan perpakiran
+19.009.	19	009	Koordinasi perencanaan air minum, drainase dan sanitasi perkotaan
+19.010.	19	010	Koordinasi penanggulangan limbah rumah tangga dan industri perkotaan
+19.011.	19	011	Monitoring, evaluasi dan pelaporan
+19.012.	19	012	dst……………………
+20.	20		Program peningkatan kapasitas kelembagaan perencanaan pembangunan daerah
+20.001.	20	001	peningkatan kemampuan teknis aparat perencana
+20.002.	20	002	Sosialisasi kebijakan perencanaan pembangunan daerah
+20.003.	20	003	Bimbingan teknis tentang perencanaan pembangunan daerah
+21.	21		Program perencanaan pembangunan daerah
+21.001.	21	001	Pengembangan partisipasi masyarakat dalam perumusan program dan kebijakan layanan publik
+21.002.	21	002	Penyusunan rancangan RPJPD
+21.003.	21	003	Penyelenggaraan musrenbang RPJPD
+21.004.	21	004	Penetapan RPJPD
+21.005.	21	005	Penyusunan rancangan RPJMD
+21.006.	21	006	Penyelenggaraan musrenbang RPJMD
+21.007.	21	007	Penetapan RPJMD
+21.008.	21	008	Penyusunan rancangan RKPD
+21.009.	21	009	Penyelenggaraan Musrenbang RKPD
+21.010.	21	010	Penetapan RKPD
+21.011.	21	011	Koordinasi penyusunan laporan kinerja pemerintah daerah
+21.012.	21	012	Koordinasi Penyusunan Laporan Keterangan Pertanggung Jawaban (LKPJ)
+21.013.	21	013	Monitoring, evaluasi dan pelaporan
+21.014.	21	014	Penyusunan KU APBD Perubahan
+21.015.	21	015	Penyusunan PPAS Perubahan
+21.016.	21	016	Pengumpulan, Updating dan Analisis Sistem Informasi Pembangunan Daerah
+21.017.	21	017	Penyusunan Analisis Standar Belanja
+21.018.	21	018	Penyusunan KUA
+21.019.	21	019	Penyusunan PPAS
+21.020.	21	020	Penyusunan Rancangan Teknokratis RPJMD
+22.	22		Program perencanaan pembangunan ekonomi
+22.001.	22	001	Penyusunan masterplan pembangunan ekonomi daerah
+22.002.	22	002	Penyusunan indikator ekonomi daerah
+22.003.	22	003	Penyusunan perencanaan pengembangan ekonomi masyarakat
+22.004.	22	004	Koordinasi perencanaan pembangunan bidang ekonomi
+22.005.	22	005	Penyusunan tabel input output daerah
+22.006.	22	006	Penyusunan masterplan penanggulangan kemiskinan
+22.007.	22	007	Penyusunan indikator dan pemetaan daerah rawan pangan
+22.008.	22	008	Monitoring, evaluasi dan pelaporan
+22.009.	22	009	Penyusunan Nilai Tukar Nelayan dan Nilai Tukar Petani
+22.010.	22	010	Kajian Potensi Pangan Lokal
+22.011.	22	011	Koordinasi Penanggulangan Kemiskinan
+23.	23		Program Perencanaan Sosial dan Budaya
+23.001.	23	001	Koordinasi penyusunan masterplan pendidikan
+23.002.	23	002	Koordinasi penyusunan masterplan kesehatan
+23.003.	23	003	Koordinasi perencanaan pembangunan bidang sosial dan budaya
+23.004.	23	004	Monitoring, evaluasi dan pelaporan
+23.005.	23	005	Pelaksanaan Program KHPPIA
+23.006.	23	006	Penyusunan Indeks Pembangunan Manusia dan Inkesra
+23.007.	23	007	Koordinasi perencanaan pembangunan bidang pemerintahan
+23.008.	23	008	Penyusunan Renstra AMPL-BM
+23.009.	23	009	Koordinasi perencanaan pembangunan bidang pemerintahan
+23.010.	23	010	Fasilitasi dan Koordinasi Perencanaan Pembangunan Bidang SDM
+24.	24		Program perencanaan prasarana wilayah dan sumber daya alam
+24.001.	24	001	Koordinasi penyusunan masterplan prasarana perhubungan daerah
+24.002.	24	002	Koordinasi penyusunan masterplan pengendalian sumber daya alam dan lingkungan hidup
+24.003.	24	003	Monitoring, evaluasi dan pelaporan
+25.	25		Program Perencanaan Pembangunan Daerah Rawan Bencana
+25.001.	25	001	Koordinasi penyusunan profile daerah rawan bencana
+15.	15		Program Penelitian, Pengembangan Kebijakan Strategis, Inovasi Daerah, dan IPTEK
+15.01.	15	01	Penelitian dan Pengembangan Bidang Pemerintahan, Sosial dan Budaya
+15.02.	15	02	Penelitian dan Pengembangan Bidang Politik Hukum dan HAM
+15.03.	15	03	Pengembangan dan Penerapan Hasil Penelitian Bidang Sosial Budaya
+15.04.	15	04	Penelitian dan Pengembangan Bidang Kemasyarakatan
+15.05.	15	05	Pengembangan dan Penerapan Hasil Inovasi dan Teknologi
+15.06.	15	06	Penelitian dan Pengembangan Bidang Ekonomi dan Pembangunan
+15.07.	15	07	Penelitian dan Pengembangan Bidang Pengembangan Kawasan
+15.08.	15	08	Penelitian dan Pengembangan Bidang Penataan Ruang
+16.	16		Program pembinaan dan fasilitasi pengelolaan keuangan kabupaten/ kota
+16.001.	16	001	Evaluasi rancangan peraturan daerah tentang APBD kabupaten/ kota
+16.002.	16	002	Evaluasi Rancangan peraturan KDH tentang Penjabaran APBD kabupaten/ kota
+16.003.	16	003	Evaluasi rancangan peraturan daerah tentang pajak daerah dan retribusi daerah kabupaten/ kota
+16.004.	16	004	Penyusunan standar evaluasi rancangan peraturan daerah tentang APBD kabupaten/ kota
+16.005.	16	005	Asistensi Penyusunan Rancangan Regulasi Pengelolaan Keuangan Daerah Kabupaten/ Kota
+16.006.	16	006	dst
+17.	17		Program peningkatan dan pengembangan pengelolaan keuangan daerah
+17.001.	17	001	Penyusunan analisa standar belanja
+17.002.	17	002	penyusunan standar satuan harga
+17.003.	17	003	Penyusunan kebijakan akuntansi pemerintah daerah
+17.004.	17	004	Penyusunan Sistem dan Prosedur Pengelolaan Keuangan Daerah
+17.005.	17	005	Penyusunan rancangan peraturan daerah tentang pajak daerah dan retribusi
+17.006.	17	006	Penyusunan rancangan peraturan daerah tentang APBD
+17.007.	17	007	Penyusunan Rancangan Peraturan KDH tentang Penjabaran APBD
+17.008.	17	008	Penyusunan rancangan peraturan daerah tentang perubahan APBD
+17.009.	17	009	Penyusunan Rancangan Peraturan KDH tentang Penjabaran Perubahan APBD
+17.010.	17	010	Penyusunan rancangan peraturan daerah tentang pertanggungjawaban pelaksanaan APBD.
+17.011.	17	011	Penyusunan rancangan peraturan KDH tentang penjabaran pertanggungjawaban pelaksanaan APBD
+17.012.	17	012	Penyusunan sistem informasi keuangan daerah
+17.013.	17	013	Penyusunan sistem informasi pengelolaan keuangan daerah
+17.014.	17	014	Sosialisasi paket regulasi tentang pengelolaan keuangan daerah
+17.015.	17	015	Bimbingan teknis implementasi paket regulasi tentang  pengelolaan keuangan daerah
+17.016.	17	016	Peningkatan manajemen aset/ barang daerah
+17.017.	17	017	Peningkatan manajemen investasi daerah
+17.018.	17	018	Revaluasi/appraisal aset/barang daerah
+17.019.	17	019	Intensifikasi dan ekstensifikasi sumber-sumber pendapatan daerah
+17.020.	17	020	Pengelolaan Sistem administrasi Gaji PNS Kota Serang
+17.029.	17	029	Evaluasi Pendapatan dan Belanja SKPD
+17.030.	17	030	Pedoman Penyusunan Pelaksanaan APBD
+17.031.	17	031	Pemeliharaan Sistem Informasi Pengelolaan Keuangan Daerah
+17.032.	17	032	Penyusunan Laporan Rekapitulasi Penerimaan, Pengeluaran dan PFK
+17.033.	17	033	Pengelolaan dan Pemeliharaan Aset Pemerintah Daerah
+17.034.	17	034	Peningkatan Akuntabilitas Laporan Keuangan
+17.035.	17	035	Penyelesaian Kerugian Daerah
+17.037.	17	037	Bimbingan Teknis Perencanaan Penganggaran
+17.038.	17	038	Pengelolaan Pajak Bumi dan Bangunan Perdesaan dan Perkotaan
+17.039.	17	039	Peningkatan Sumber-Sumber Pendapatan Lain
+17.040.	17	040	Penggunaan dan Pemanfaatan Aset
+17.042.	17	042	Penyusunan Target Penerimaan Pajak Daerah
+17.043.	17	043	Penagihan Pajak Daerah
+17.047.	17	047	Pendistribusian dan Pengendalian SPT PBB
+17.048.	17	048	Pembinaan Aparatur Pelaksana Pemungut Pajak Daerah
+17.049.	17	049	Pendataan Pajak Daerah Non PBB P2 dan BPHTB
+17.050.	17	050	Pendataan Pajak Daerah PBB P2 dan BPHTB
+17.052.	17	052	Verifikasi Data Objek Pajak PBB P2 dan BPHTB
+17.053.	17	053	Sosialisasi Pajak Daerah Non PBB P2 dan BPHTB
+17.054.	17	054	Sosialisasi Pajak Daerah PBB P2 dan BPHTB
+17.056.	17	056	Monitoring dan Evaluasi PBB P2 dan BPHTB
+17.058.	17	058	Evaluasi Penyusunan APBD
+17.059.	17	059	Pedoman Penyusunan APBD
+17.062.	17	062	Pengembangan dan Fasilitasi TAPD
+17.063.	17	063	Penyusunan LKPD
+17.064.	17	064	Rekonsiliasi Realisasi Anggaran Belanja Daerah
+17.065.	17	065	Rekonsiliasi Realisasi Anggaran Pendapatan Daerah
+17.066.	17	066	Pembinaan Wajib Pajak
+17.067.	17	067	Pengelolaan Pajak Reklame
+17.068.	17	068	Rekonsiliasi Pajak Bumi dan Bangunan
+17.070.	17	070	Bulan Panutan dan Evaluasi Pajak Bumi dan bangunan
+17.071.	17	071	Penghargaan Pajak Daerah
+17.072.	17	072	Pembinaan Aparatur Pemungut Retribusi daerah
+17.073.	17	073	Verifikasi Pelaporan dan Monitoring Kepatuhan Wajib Pajak Non PBB P2 dan BPHTB
+17.074.	17	074	Peningkatan Objek Pajak PBB P2 dan BPHTB
+17.075.	17	075	Inventarisasi Data Potensi Pendapatan Daerah Bukan Pajak
+18.	18		Program pembinaan dan fasilitasi pengelolaan keuangan desa
+18.001.	18	001	Evaluasi rancangan peraturan desa tentang APB Desa
+18.002.	18	002	Evaluasi rancangan peraturan desa tentang pendapatan desa
+18.003.	18	003	Penyusunan pedoman pengelolaan keuangan desa
+31.	31		Program Pembinaan dan Pengelolaan Barang Daerah
+31.03.	31	03	Penunjang Pengadaan Barang dan Jasa
+31.04.	31	04	Penyusunan Data dan Informasi Kebutuhan BMD
+35.	35		Program Pembinaan dan Pengembangan Aparatur
+35.001.	35	001	Penyusunan rencana pembinaan karir PNS
+35.002.	35	002	Seleksi penerimaan calon PNS
+35.003.	35	003	Penempatan PNS
+35.004.	35	004	Penataan sistem administrasi kenaikan pangkat otomatis PNS
+35.005.	35	005	Pembangunan/Pengembangan sistem informasi kepegawaian daerah
+35.006.	35	006	Penyusunan instrumen analisis jabatan PNS
+35.007.	35	007	Seleksi dan penetapan PNS untuk tugas belajar
+35.008.	35	008	Pemberian penghargaan bagi PNS yang berprestasi
+35.009.	35	009	Proses penanganan kasus-kasus disiplin PNS
+35.010.	35	010	Kajian sistem dan kualitas materi diklat PNS
+35.011.	35	011	Pemberian bantuan tugas belajar dan ikatan dinas
+35.012.	35	012	Pemberian bantuan penyelenggaraan penerimaan Praja IPDN
+35.013.	35	013	Penyelenggaraan diktat teknis, fungsional dan kepemimpinan
+35.014.	35	014	Pengembangan diklat (Analisis Kebutuhan Diktat, Penyusunan silabi, Penyusunan modul, Penyusukan Pedoman Diklat)
+35.015.	35	015	Monitoring, evaluasi dan pelaporan
+35.016.	35	016	Koordinasi penyelenggaraan diklat
+35.017.	35	017	Ujian Penyesuaian Kenaikan Pangkat
+35.019.	35	019	Pengambilan Sumpah dan Janji PNS
+35.020.	35	020	Pendataan PNS / CPNS/ Non PNS
+35.021.	35	021	Pembuatan Karpeg, Karis dan Karsu
+35.024.	35	024	Pembinaan Aparatur Sipil Negara
+35.025.	35	025	Peningkatan kesejahteraan ASN
+35.026.	35	026	Seleksi Penerimaan Pegawai Non PNS RSUD Kota Serang
+36.	36		Program Peningkatan Kapasitas Sumber Daya Aparatur
+36.001.	36	001	Pendidikan dan pelatihan prajabatan bagi calon PNS daerah
+36.002.	36	002	Pendidikan dan pelatihan struktural bagi PNS Daerah
+36.005.	36	005	Pendidikan dan pelatihan teknis tugas dan fungsi bagi PNS Daerah
+36.006.	36	006	Pendidikan dan pelatihan fungsional bagi PNS Daerah
+36.007.	36	007	Analisis Kebutuhan Diklat Teknis Tugas dan Fungsi bagi PNS Daerah Kota Serang
+15.	15		Program Pendidikan Kedinasan
+15.001.	15	001	Pendidikan dan pelatihan teknis
+15.002.	15	002	Pendidikan penjenjangan structural
+15.003.	15	003	Pemantauan dan evaluasi penyelenggaraan pendidikan
+15.004.	15	004	Pembuatan buku juknis/juklak
+15.005.	15	005	Pengembangan kurikulum pendidikan dan pelatihan
+15.006.	15	006	Peningkatan keterampilan dan profesionalisme
+31.	31		Program Pembinaan dan Pengelolaan Barang Daerah
+31.01.	31	01	Penunjang Pengadaan Barang dan Jasa
+15.	15		Program peningkatan kapasitas lembaga perwakilan rakyat daerah
+15.01.	15	01	Pembahasan rancangan peraturan daerah
+15.02.	15	02	Hearing/dialog dan koordinasi dengan pejabat pemerintah daerah dan tokoh masyarakat/tokoh agama
+15.03.	15	03	Rapat-rapat alat kelengkapan dewan
+15.04.	15	04	Rapat-rapat paripurna
+15.05.	15	05	Kegiatan Reses
+15.06.	15	06	Kunjungan kerja pimpinan dan anggota DPRD dalam daerah
+15.07.	15	07	Peningkatan kapasitas pimpinan dan anggota DPRD
+15.08.	15	08	Sosialisasi peraturan perundang-undangan
+15.09.	15	09	Evaluasi dan Rekomendasi RKUA
+15.10.	15	10	Evaluasi dan Rekomendasi PPAS
+15.11.	15	11	Evaluasi dan Rekomendasi terhadap Perubahan APBD
+15.12.	15	12	Evaluasi dan Rekomendasi terhadap LKPJ
+15.13.	15	13	Evaluasi dan Rekomendasi terhadap LKPPD
+15.14.	15	14	Penyusunan Pokok-Pokok Pikiran DPRD
+15.15.	15	15	Penyusunan Program Tahunan DPRD
+15.16.	15	16	Penyusunan Perubahan Tata Tertib
+15.17.	15	17	Koreksi Anggaran Semester I
+15.18.	15	18	Koreksi Anggaran Semester II
+15.19.	15	19	Penyedian Jasa Administrasi Kesektariatan DPRD
+15.20.	15	20	Kunjungan kerja pimpinan dan anggota DPRD Luar  daerah
+16.	16		Program peningkatan pelayanan kedinasan kepala daerah/ wakil kepala daerah
+16.001.	16	001	Dialog/ audiensi dengan tokoh-tokoh masyarakat, pimpinan/ anggota organisasi sosial dan masyarakat
+16.002.	16	002	Penerimaan kunjungan kerja pejabat negara/ departemen/ lembaga pemerintah non departemen/ luar negeri
+16.003.	16	003	Rapat koordinasi unsur MUSPIDA
+16.004.	16	004	Rapat koordinasi pejabat pemerintah daerah
+16.005.	16	005	Kunjungan kerja/ inspeksi kepala daerah/ wakil kepala daerah
+16.006.	16	006	Koordinasi dengan pemerintah pusat dan pemerintah daerah lainnya
+16.007.	16	007	Pemeliharaan Kesehatan Kepala Daerah/Wakil Kepala Daerah
+16.008.	16	008	Peliputan dan Dokumentasi Kegiatan Pemerintah Daerah
+16.009.	16	009	Kehumasan dan Informasi Penyelenggaraan Pemerintah Daerah
+17.	17		Program peningkatan dan pengembangan pengelolaan keuangan daerah
+17.016.	17	016	Peningkatan manajemen aset/barang daerah
+17.031.	17	031	Pemeliharaan Sistem Informasi Pengelolaan Keuangan Daerah
+17.033.	17	033	Pengelolaan dan Pemeliharaan Aset Pemerintah Daerah
+17.040.	17	040	Penggunaan dan Pemanfaatan Aset
+17.047.	17	047	Pendistribusian dan Pengendalian SPT PBB
+20.	20		Program peningkatan sistem pengawasan internal dan pengendalian pelaksanaan kebijakan KDH
+20.01.	20	01	Pelaksanaan pengawasan Internal secara berkala
+20.02.	20	02	Penanganan kasus pengaduan di lingkungan pemerintah daerah
+20.03.	20	03	Pengendalian manajemen pelaksanaan kebijakan KDH
+20.04.	20	04	Penanganan kasus pada wilayah pemerintahan dibawahnya
+20.05.	20	05	Inverisasi temuan pengawasan
+20.06.	20	06	Tindak lanjut hasil temuan pengawasan
+20.07.	20	07	Koordinasi pengawasan yang lebih komprehensif
+20.08.	20	08	Evaluasi berkala temuan hasil pengawasan
+20.09.	20	09	Sistem Pengendalian Intern Pemerintah
+20.10.	20	10	Monitoring, evaluasi dan pelaporan hibah dan bantuan sosial
+21.	21		Program peningkatan profesionalisme tenaga pemeriksa dan aparatur pengawasan
+21.01.	21	01	Pelatihan pengembangan tenaga pemeriksa dan aparatur pengawasan
+22.	22		Program Penataan dan Penyempurnaan Kebijakan Sistem dan prosedur
+22.01.	22	01	Penyusunan kebijakan sistem dan prosedur pengawasan
+23.	23		Program  optimalisasi pemanfaatan teknologi informasi
+23.01.	23	01	Penyusunan sistem informasi terhadap layanan publik
+23.02.	23	02	Pembinaan dan Pengembangan Sumber Daya Komunikasi dan Informasi
+23.03.	23	03	Pelatihan SDM dalam Bidang Komunikasi dan Informasi
+23.04.	23	04	Penyebarluasan Informasi Penyelenggaraan Pemerintahan Daerah
+25.	25		Program Peningkatan Kerjasama Antar Pemerintah Daerah
+25.001.	25	001	Fasilitasi peningkatan kerjasama antar daerah dalam penyediaan pelayanan publik
+25.002.	25	002	Fasilitasi/pembentukan perkuatan kerjasama antar daerah pada bidang ekonomi
+25.003.	25	003	Fasilitasi/pembentukan kerjasama antar daerah di bidang hukum
+25.004.	25	004	Fasilitasi/pembentukan kerjasama antar daerah dalam penyediaan sarana dan prasarana public
+25.005.	25	005	Rapat-rapat Koordinasi APEKSI
+25.006.	25	006	Pengembangan dan Kerjasama dengan Lembaga Keagamaan
+25.007.	25	007	Fasilitasi Penyelenggaraan Ibadah Haji Daerah
+26.	26		Program Penataan Peraturan Perundang-undangan
+26.001.	26	001	Koordinasi kerjasama permasalahan peraturan perundang-undangan
+26.002.	26	002	Penyusunan rencana kerja rancangan peraturan perundang-undangan
+26.003.	26	003	Legislasi rancangan peraturan perundang-undangan
+26.004.	26	004	Fasilitasi sosialisasi peraturan perundang-undangan
+26.005.	26	005	Publikasi peraturan perundang-undangan
+26.006.	26	006	Kajian peraturan perundang-undangan daerah terhadap peraturan perundang-undangan yang baru,lebih tinggi dari keserasian antar peraturan perundang-undangan daerah
+26.007.	26	007	Peningkatan Pelayanan Bantuan Hukum
+26.008.	26	008	Peningkatan Pemahaman Hukum Bagi Aparatur
+26.009.	26	009	Penataan tata naskah PNSD
+26.010.	26	010	Sosialisasi dan Bantuan Hukum bagi Masyarakat
+27.	27		Program Penataan Daerah Otonomi Baru
+27.001.	27	001	Fasilitasi penyiapan data dan informasi pendukung proses pemekaran daerah
+27.002.	27	002	Fasilitasi percepatan penyerahan P3D dari daerah induk ke daerah pemekaran
+27.003.	27	003	Fasilitasi percepatan penyelesaian tapal batas wilayah administrasi antar daerah
+27.004.	27	004	Fasilitasi pemantapan SOTK pemerintah daerah otonom baru
+28.	28		Program Peningkatan Kelembagaan Perangkat Daerah
+28.01.	28	01	Penyusunan Produk Hukum Bidang Kelembagaan dan Ketatalaksanaan
+28.02.	28	02	Penyusunan LAKIP SKPD
+28.03.	28	03	Penyusunan LAKIP Pemerintah Daerah
+28.04.	28	04	Peningkatan sarana Perpustakaan
+28.05.	28	05	Pembuatan Buku Profil Kelembagaan Pemerintah Daerah
+28.06.	28	06	Penyusunan Peraturan Daerah tentang Kelembagaan
+28.07.	28	07	Evaluasi dan Kajian Penataan Kelembagaan Perangkat Daerah Pemerintah Daerah
+28.08.	28	08	Orientasi Substantif Tugas Pokok dan Fungsi
+28.09.	28	09	Penyusunan Standarisasi Sarana dan Prasarana Kerja Pemerintah Daerah
+28.10.	28	10	Evaluasi Citra Pelayanan Prima
+28.11.	28	11	Penyusunan Standar Operating Procedure (SOP) di lingkungan Pemerintah Daerah
+28.12.	28	12	Bimbingan Teknis LAKIP di Lingkungan Pemerintah Daerah
+28.13.	28	13	Penyusunan Laporan Penyelenggaraan Pemerintahan Daerah
+29.	29		Program Penataan dan Pembuatan Produk Hukum Daerah
+29.01.	29	01	Penyusunan dan Pembuatan Produk Hukum Daerah
+29.02.	29	02	Bantuan Hukum
+29.03.	29	03	Sosialisasi dan Dokumentasi Produk Hukum
+30.	30		Program Pengendalian Pembangunan
+30.01.	30	01	Monitoring dan Evaluasi Kegiatan Pembangunan
+30.02.	30	02	Pembuatan Sistem dan Prosedur Pengendalian Pembangunan
+30.04.	30	04	Monitoring, evaluasi dan pelaporan
+31.	31		Program Pembinaan dan Pengelolaan Barang Daerah
+31.01.	31	01	Pengadaan Sistem Manajemen Barang Daerah
+31.02.	31	02	Pengamanan dan Pengelolaan Aset Daerah
+31.03.	31	03	Penunjang Pengadaan Barang dan Jasa
+31.04.	31	04	Penyusunan Data dan Informasi Kebutuhan BMD
+32.	32		Program Peningkatan dan Pembinaan Pemerintahan Umum
+32.01.	32	01	Penyusunan Laporan Penyelenggaraan Pemerintahan Daerah
+32.02.	32	02	Pengadaan Tugu Batas Wilayah
+32.04.	32	04	Fasilitasi Percepatan Kota Serang
+32.05.	32	05	Administrasi Pembukuan rupa bumi/Topo Mini
+32.06.	32	06	Fasilitasi Pencapaian Halaqoh dan Berbagai Forum Keagamaan
+32.07.	32	07	Pembinaan Keagamaan dan Peringatan Hari Besar Islam
+32.08.	32	08	Peningkatan kualitas SDM kesejahteraan sosial masyarakat
+33.	33		Program Peningkatan dan Pembinaan Pemerintahan Kelurahan
+33.01.	33	01	Penilaian Lomba Kelurahan
+33.02.	33	02	Pensertifikatan Tanah Kas dan Kantor Eks Desa
+33.03.	33	03	Pemekaran Kelurahan
+33.04.	33	04	Pengadaan Tanah Kelurahan
+33.05.	33	05	Pembinaan administrasi kelurahan
+33.06.	33	06	Pembinaan pemerintahaan aparatur kelurahan
+33.07.	33	07	Pemberdayaan Lembaga dan Organisasi Masyarakat
+33.08.	33	08	Pelatihan Aparatur Pemerintah Kelurahan dalam Bidang Manajemen Pemerintahan Kelurahan
+33.09.	33	09	Monitoring Evaluasi dan Pelaporan
+34.	34		Program Pembinaan dan Peningkatan Perekonomian Daerah
+34.06.	34	06	Peningkatan Koordinasi TPIPD
+34.08.	34	08	Koordinasi Pusat-pusat Pertumbuhan Ekonomi
+34.09.	34	09	Peningkatan Kerjasama Pelaku-pelaku Usaha Kesejahteraan Sosial Masyarakat
+34.10.	34	10	Monitoring, Evaluasi dan Pelaporan Perekonomian Daerah
+35.	35		Program pembinaan dan pengembangan aparatur
+35.06.	35	06	Penyusunan instrumen analisis jabatan PNS
+35.23.	35	23	Pembinaan Kerohanian Aparatur dan Masyarakat
+15.	15		Program peningkatan kapasitas lembaga perwakilan rakyat daerah
+15.001.	15	001	Pembahasan rancangan peraturan daerah
+17.	17		Program pengembangan wawasan kebangsaan
+17.001.	17	001	Peningkatan toleransi dan kerukunan dalam kehidupan beragama
+17.002.	17	002	Peningkatan rasa solidaritas dan ikatan sosial dikalangan masyarakat
+17.003.	17	003	Peningkatan kesadaran masyarakat akan nilai-nilai luhur bangsa
+17.004.	17	004	Fasilitasi Pencegahan Penyalahgunaan Narkotika
+18.	18		Program kemitraan pengembangan wawasan kebangsaan
+18.001.	18	001	Fasilitasi pencapaian halaqoh dan berbagai forum keagamaan lainnya dalam upaya peningkatan wawasan kebangasaan
+18.002.	18	002	Seminar, talk show, diskusi peningkatan wawasan kebangasaan
+18.003.	18	003	Pentas seni dan budaya, festival, lomba cipta dalam upaya peningkatan wawasan kebangsaan
+21.	21		Program pendidikan politik masyarakat
+21.001.	21	001	Penyuluhan kepada masyarakat
+21.002.	21	002	Fasilitasi penyelesaian perselisihan partai politik
+21.003.	21	003	Koordinasi Forum-forum Diskusi Politk
+21.004.	21	004	Penyusunan data base partai politik
+21.005.	21	005	Monitoring, evaluasi dan pelaporan
+21.006.	21	006	Pendataan Ormas, LSM dan Parpol
+22.	22		Program Pencegahan Dini dan Penanggulangan Korban Bencana Alam
+22.01.	22	01	Pemantauan dan penyebarluasan informasi potensi bencana alam
+22.02.	22	02	Pengadaan tempat penampungan sementara dan evakuasi penduduk dari ancaman/korban bencana alam
+22.03.	22	03	Pengadaan sarana dan prasarana evakuasi penduduk dari ancaman/korban bencana alam
+22.04.	22	04	Pengadaan logistik dan obat-obatan bagi penduduk ditempat penampungan sementara
+22.06.	22	06	Koordinasi penilaian kerusakan dan kerugian sosial ekonomi korban bencana
+22.07.	22	07	Pembentukan Kelurahan siaga bencana
+22.08.	22	08	Pembentukan Kelurahan siaga bencana
+22.09.	22	09	Fasilitasi bantuan rehabilitasi dan rekonstruksi pasca bencana
+22.10.	22	10	Sosialisasi pengurangan resiko bencana
+22.11.	22	11	Pembuatan peta rawan bencana dan pemetaan masalah
+22.12.	22	12	Penguatan unit-unit sosial kebencanaan dalam masyarakat
+22.13.	22	13	Pelatihan, gladi dan simulasi penanggulangan bencana
+22.14.	22	14	Pemulihan sarana dan prasarana vital
+22.15.	22	15	Fasilitasi penanganan kebencanaan
+22.16.	22	16	Manajemen peralatan operasi penanggulangan bencana
+23.	23		Fasilitasi Kewaspadaan Nasional Di Daerah
+23.01.	23	01	Pemantapan Tim Bakorinda
+23.02.	23	02	Fasilitasi Kewaspadaan Dini Dan Penanganan Konflik
+24.	24		Program Penataan Administrasi BPBD
+24.02.	24	02	Peningkatan pelayanan publik dalam bidang penanggulangan bencana
+24.04.	24	04	Koordinasi kesiapsiagaan dalam menghadapi bencana didaerah
+24.05.	24	05	Penyediaan dukungan operasional PUSDALOPS
+24.06.	24	06	Forum SKPD penanggulangan bencana seKota Serang
+24.07.	24	07	Penguatan BPBD dan kelengkapannya (pusdalops, SRC)
+24.08.	24	08	Standarisasi pedoman dan acuan penanggulangan bencana
+24.09.	24	09	Penyusunan rencana penanggulangan bencana
+25.	25		Program Pemberdayaan Taruna Siaga Bencana
+25.01.	25	01	Peningkatan kemampuan (capacity building) petugas dan pendamping sosial pemberdaya
+07.	07		Program Pelayanan Administrasi Kelurahan
+07.001.	07	001	Operasional Pelayanan Kelurahan Serang
+07.002.	07	002	Operasional Pelayanan Kelurahan Cipare
+07.003.	07	003	Operasional Pelayanan Kelurahan Sumur Pecung
+07.004.	07	004	Operasional Pelayanan Kelurahan Kota Baru
+07.005.	07	005	Operasional Pelayanan Kelurahan Lopang
+07.006.	07	006	Operasional Pelayanan Kelurahan Cimuncang
+07.007.	07	007	Operasional Pelayanan Kelurahan Unyur
+07.008.	07	008	Operasional Pelayanan Kelurahan Sukawana
+07.009.	07	009	Operasional Pelayanan Kelurahan Lontar Baru
+07.010.	07	010	Operasional Pelayanan Kelurahan Kaligandu
+07.011.	07	011	Operasional Pelayanan Kelurahan Terondol
+07.012.	07	012	Operasional Pelayanan Kelurahan Kagungan
+07.013.	07	013	Operasional Pelayanan Kelurahan Cipocok Jaya
+07.014.	07	014	Operasional Pelayanan Kelurahan Karundang
+07.015.	07	015	Operasional Pelayanan Kelurahan Penancangan
+07.016.	07	016	Operasional Pelayanan Kelurahan Banjar Agung
+07.017.	07	017	Operasional Pelayanan Kelurahan Banjarsari
+07.018.	07	018	Operasional Pelayanan Kelurahan Tembong
+07.019.	07	019	Operasional Pelayanan Kelurahan Dalung
+07.020.	07	020	Operasional Pelayanan Kelurahan Gelam
+07.021.	07	021	Operasional Pelayanan Kelurahan Kasemen
+07.022.	07	022	Operasional Pelayanan Kelurahan Masjid Priayi
+07.023.	07	023	Operasional Pelayanan Kelurahan Terumbu
+07.024.	07	024	Operasional Pelayanan Kelurahan Warung Jaud
+07.025.	07	025	Operasional Pelayanan Kelurahan Cibendung
+07.026.	07	026	Operasional Pelayanan Kelurahan Banten
+07.027.	07	027	Operasional Pelayanan Kelurahan Sawah Luhur
+07.028.	07	028	Operasional Pelayanan Kelurahan Kilasah
+07.029.	07	029	Operasional Pelayanan Kelurahan Kasunyatan
+07.030.	07	030	Operasional Pelayanan Kelurahan Margaluyu
+07.031.	07	031	Operasional Pelayanan Kelurahan Taktakan
+07.032.	07	032	Operasional Pelayanan Kelurahan Sayar
+07.033.	07	033	Operasional Pelayanan Kelurahan Pancur
+07.034.	07	034	Operasional Pelayanan Kelurahan Kuranji
+07.035.	07	035	Operasional Pelayanan Kelurahan Kalanganyar
+07.036.	07	036	Operasional Pelayanan Kelurahan Cilowong
+07.037.	07	037	Operasional Pelayanan Kelurahan Panggungjati
+07.038.	07	038	Operasional Pelayanan Kelurahan Drangong
+07.039.	07	039	Operasional Pelayanan Kelurahan Umbul Tengah
+07.040.	07	040	Operasional Pelayanan Kelurahan Sepang
+07.041.	07	041	Operasional Pelayanan Kelurahan Lialang
+07.042.	07	042	Operasional Pelayanan Kelurahan Taman Baru
+07.043.	07	043	Operasional Pelayanan Kelurahan Walantaka
+07.044.	07	044	Operasional Pelayanan Kelurahan Cigoong
+07.045.	07	045	Operasional Pelayanan Kelurahan Nyapah
+07.046.	07	046	Operasional Pelayanan Kelurahan Pangampelan
+07.047.	07	047	Operasional Pelayanan Kelurahan Kiara
+07.048.	07	048	Operasional Pelayanan Kelurahan Pager Agung
+07.049.	07	049	Operasional Pelayanan Kelurahan Kalodran
+07.050.	07	050	Operasional Pelayanan Kelurahan Kepuren
+07.051.	07	051	Operasional Pelayanan Kelurahan Teritih
+07.052.	07	052	Operasional Pelayanan Kelurahan Pabuaran
+07.053.	07	053	Operasional Pelayanan Kelurahan Pasuluhan
+07.054.	07	054	Operasional Pelayanan Kelurahan Tegalsari
+07.055.	07	055	Operasional Pelayanan Kelurahan Pipitan
+07.056.	07	056	Operasional Pelayanan Kelurahan Lebakwangi
+07.057.	07	057	Operasional Pelayanan Kelurahan Curug
+07.058.	07	058	Operasional Pelayanan Kelurahan Tinggar
+07.059.	07	059	Operasional Pelayanan Kelurahan Kemanisan
+07.060.	07	060	Operasional Pelayanan Kelurahan Cipete
+07.061.	07	061	Operasional Pelayanan Kelurahan Cilaku
+07.062.	07	062	Operasional Pelayanan Kelurahan Pancalaksana
+07.063.	07	063	Operasional Pelayanan Kelurahan Sukawana
+07.064.	07	064	Operasional Pelayanan Kelurahan Sukalaksana
+07.065.	07	065	Operasional Pelayanan Kelurahan Curug Manis
+07.066.	07	066	Operasional Pelayanan Kelurahan Sukajaya
