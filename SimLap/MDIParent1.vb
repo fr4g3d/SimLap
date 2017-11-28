@@ -81,6 +81,7 @@ Public Class mdipMain
 
     Private Sub OptionsToolStripMenuItem_Click(sender As Object, e As EventArgs) Handles OptionsToolStripMenuItem.Click
         frmSetting.MdiParent = Me
+        frmSetting.WindowState = 0
         frmSetting.Show()
     End Sub
 
@@ -93,4 +94,5 @@ Public Class mdipMain
             writeIni(File, Section, UPassDB, "simlap123")
         End If
     End Sub
+
 End Class

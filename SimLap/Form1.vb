@@ -2,28 +2,9 @@
 Imports MySql.Data.MySqlClient
 
 Public Class frmMain
-    Private Sub loadDataUrusan()
-        Try
-            SQL = "SELECT urusan_id, urpeda FROM dftr_urusan WHERE uid1<=6 AND uid3>0 AND urpeda>'-'"
-            With comDB
-                .CommandText = SQL
-                .ExecuteNonQuery()
-            End With
-            rdDB = comDB.ExecuteReader
-            If rdDB.HasRows = True Then
-                cmbBidang.Items.Clear()
-                While rdDB.Read()
-                    cmbBidang.Items.Add(rdDB("urusan_id") & ". " & rdDB("urpeda"))
-                End While
-            End If
-            rdDB.Close()
-        Catch ex As Exception
-            MsgBox(ex.ToString)
-        End Try
-    End Sub
     Private Sub loadDataSKPD()
         Try
-            SQL = "SELECT unit_id, urpeda FROM dftr_unit WHERE uid1<7 AND uid4>0 AND uid5<1 AND urpeda != '-'"
+            SQL = "SELECT unit_id, urpeda FROM dftr_unit WHERE uid1<7 AND uid4>0 AND urpeda != '-'"
             With comDB
                 .CommandText = SQL
                 .ExecuteNonQuery()
@@ -40,18 +21,37 @@ Public Class frmMain
             MsgBox(ex.ToString)
         End Try
     End Sub
-    Private Sub loadDataUnit()
+    Private Sub loadDataProg()
         Try
-            SQL = "SELECT unit_id, urpeda FROM dftr_unit WHERE uid1<7 AND uid5>0 AND urpeda != '-'"
+            SQL = "SELECT prog_id, progkeg FROM dftr_progkeg WHERE uid2<1 AND progkeg != '-'"
             With comDB
                 .CommandText = SQL
                 .ExecuteNonQuery()
             End With
             rdDB = comDB.ExecuteReader
             If rdDB.HasRows = True Then
-                cmbUnit.Items.Clear()
+                cmbProgram.Items.Clear()
                 While rdDB.Read()
-                    cmbUnit.Items.Add(rdDB("unit_id") & ". " & rdDB("urpeda"))
+                    cmbProgram.Items.Add(rdDB("prog_id") & ". " & rdDB("progkeg"))
+                End While
+            End If
+            rdDB.Close()
+        Catch ex As Exception
+            MsgBox(ex.ToString)
+        End Try
+    End Sub
+    Private Sub loadDataKeg()
+        Try
+            SQL = "SELECT prog_id, progkeg FROM dftr_progkeg WHERE uid2>01 AND progkeg != '-'"
+            With comDB
+                .CommandText = SQL
+                .ExecuteNonQuery()
+            End With
+            rdDB = comDB.ExecuteReader
+            If rdDB.HasRows = True Then
+                cmbKegiatan.Items.Clear()
+                While rdDB.Read()
+                    cmbKegiatan.Items.Add(rdDB("prog_id") & ". " & rdDB("progkeg"))
                 End While
             End If
             rdDB.Close()
@@ -63,31 +63,27 @@ Public Class frmMain
     Private Sub Form1_Load(sender As Object, e As EventArgs) Handles MyBase.Load
         Call conectDB()
         Call initCMD()
+        Call loadDataSKPD()
+        Call loadDataProg()
+        Call loadDataKeg()
     End Sub
 
     Private Sub Form1_Closing(sender As Object, e As CancelEventArgs) Handles Me.Closing
     End Sub
-    Private Sub cbBidang_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbBidang.SelectedIndexChanged
-        'Call loadDataUrusan()
+    Private Sub cbBidang_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbSKPD.SelectedIndexChanged
+        '
     End Sub
 
-    Private Sub cbBidang_GotFocus(sender As Object, e As EventArgs) Handles cmbBidang.GotFocus
-        Call loadDataUrusan()
+    Private Sub cbBidang_GotFocus(sender As Object, e As EventArgs) Handles cmbSKPD.GotFocus
+        '
     End Sub
 
-    Private Sub cmbSKPD_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbSKPD.SelectedIndexChanged
-        ''
+    Private Sub cmbSKPD_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbProgram.SelectedIndexChanged
+        '
     End Sub
 
-    Private Sub cmbSKPD_GotFocus(sender As Object, e As EventArgs) Handles cmbSKPD.GotFocus
-        Call loadDataSKPD()
+    Private Sub cmbSKPD_GotFocus(sender As Object, e As EventArgs) Handles cmbProgram.GotFocus
+        '
     End Sub
 
-    Private Sub cmbUnit_SelectedIndexChanged(sender As Object, e As EventArgs) Handles cmbUnit.SelectedIndexChanged
-        ''
-    End Sub
-
-    Private Sub cmbUnit_GotFocus(sender As Object, e As EventArgs) Handles cmbUnit.GotFocus
-        Call loadDataUnit()
-    End Sub
 End Class
